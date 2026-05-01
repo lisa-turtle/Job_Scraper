@@ -1,44 +1,76 @@
 {
-  "scraped_at": "2026-05-01 20:05 UTC",
-  "total": 5,
+  "scraped_at": "2026-05-01 22:52 UTC",
+  "total": 9,
   "jobs": [
     {
-      "company": "SoFi",
-      "title": "Intern, Data Scientist, Money",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407233134/",
+      "company": "Tinder",
+      "title": "Machine Learning Engineer Intern",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407965594/",
       "date_posted": "2026-05-01",
       "ats": "LinkedIn"
     },
     {
-      "company": "Whatnot",
-      "title": "Data Scientist, Finance",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407964096/",
-      "date_posted": "2026-05-01",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TetraMem - Accelerate The World",
-      "title": "Mid-Level Machine Learning Engineer",
+      "company": "Cisco",
+      "title": "AI Machine Learning Engineer I (Intern) - United States",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403636486/",
+      "url": "https://www.linkedin.com/jobs/view/4409503599/",
       "date_posted": "2026-05-01",
       "ats": "LinkedIn"
     },
     {
-      "company": "myGwork - LGBTQ+ Business Community",
-      "title": "Sr. Applied Scientist, Prime Video - Personalization and Discovery Science",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406470548/",
-      "date_posted": "2026-05-01",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "LABUR",
-      "title": "Agentic AI Engineer",
+      "company": "Cisco",
+      "title": "AI Machine Learning Engineer I (Intern) - United States",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409471278/",
+      "url": "https://www.linkedin.com/jobs/view/4409494870/",
+      "date_posted": "2026-05-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "OpalSoft",
+      "title": "Senior Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407962514/",
+      "date_posted": "2026-05-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Bot Auto",
+      "title": "Software Engineer, Machine Learning Infrastructure",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4383831734/",
+      "date_posted": "2026-05-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Gusto",
+      "title": "Senior Product Data Scientist, Risk",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4409501362/",
+      "date_posted": "2026-05-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Coupang",
+      "title": "Staff Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4392812200/",
+      "date_posted": "2026-05-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "BioStack",
+      "title": "Founding Research Engineer, RL/Reasoning",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407966703/",
+      "date_posted": "2026-05-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Greylock Partners",
+      "title": "Sr. Applied AI Engineers (multiple openings)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407967475/",
       "date_posted": "2026-05-01",
       "ats": "LinkedIn"
     }
