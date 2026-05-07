@@ -1,61 +1,37 @@
 {
-  "scraped_at": "2026-05-06 22:54 UTC",
-  "total": 7,
+  "scraped_at": "2026-05-07 04:35 UTC",
+  "total": 4,
   "jobs": [
     {
       "company": "Uber",
-      "title": "Data Scientist II",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411274638/",
-      "date_posted": "2026-05-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
       "title": "Data Scientist II, Insurance",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411265708/",
-      "date_posted": "2026-05-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Data Scientist II, Identity",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411276597/",
-      "date_posted": "2026-05-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Data Scientist II, Identity",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411277557/",
-      "date_posted": "2026-05-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Zoom",
-      "title": "Senior Data Scientist",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411266596/",
-      "date_posted": "2026-05-06",
+      "url": "https://www.linkedin.com/jobs/view/4411429275/",
+      "date_posted": "2026-05-07",
       "ats": "LinkedIn"
     },
     {
       "company": "Walmart",
-      "title": "Staff, Data Scientist - Health & Wellness - Consumer Health & Data Solutions",
+      "title": "Senior, Data Scientist",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409215244/",
-      "date_posted": "2026-05-06",
+      "url": "https://www.linkedin.com/jobs/view/4409237380/",
+      "date_posted": "2026-05-07",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "AI Engineer (Agents)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409994620/",
-      "date_posted": "2026-05-06",
+      "company": "Uber",
+      "title": "Staff Data Scientist, Airports and Travel",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411427511/",
+      "date_posted": "2026-05-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Nessence.co",
+      "title": "Lead AI Engineer \u2014 Nessence AI Practice",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410442280/",
+      "date_posted": "2026-05-07",
       "ats": "LinkedIn"
     }
   ]
