@@ -1,29 +1,13 @@
 {
-  "scraped_at": "2026-05-10 17:52 UTC",
-  "total": 10,
-  "new_count": 7,
+  "scraped_at": "2026-05-10 19:58 UTC",
+  "total": 8,
+  "new_count": 4,
   "jobs": [
     {
-      "company": "Uber",
-      "title": "Senior Machine Learning Engineer - Earner Incentive",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412567526/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Moloco",
-      "title": "Senior Applied Scientist, ML (MCM)",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4365369752/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Engineer / Scientist, Frontier Red Team (Cyber)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4363467745/",
+      "company": "Zscaler",
+      "title": "Principal Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4389256350/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     },
@@ -36,18 +20,18 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Applied Scientist, LLM Code Agents, Kiro Science",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4372216351/",
+      "company": "fal",
+      "title": "Senior Data Scientist, Product Intelligence\nSan Francisco",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412609146/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "Andiamo",
-      "title": "AI/Generative AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380633523/",
+      "company": "American Express",
+      "title": "Staff AI Engineering - Agentic AI",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412391491/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     },
@@ -77,67 +61,43 @@
     },
     {
       "company": "American Express",
-      "title": "Sr Staff AI Engineering - Agentic AI",
+      "title": "Senior AI Engineer II - Agentic AI",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412395394/",
+      "url": "https://www.linkedin.com/jobs/view/4412392487/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Uber",
-      "title": "Senior Machine Learning Engineer - Earner Incentive",
+      "company": "Zscaler",
+      "title": "Principal Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4389256350/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "fal",
+      "title": "Senior Data Scientist, Product Intelligence\nSan Francisco",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412567526/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Member of Technical Staff (Data Scientist/Engineer, Online Metrics)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4372003249/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Applied Scientist, LLM Code Agents, Kiro Science",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4372216351/",
+      "url": "https://www.linkedin.com/jobs/view/4412609146/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     },
     {
       "company": "American Express",
-      "title": "AI Engineer II - Agentic AI",
+      "title": "Staff AI Engineering - Agentic AI",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412387978/",
+      "url": "https://www.linkedin.com/jobs/view/4412391491/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     },
     {
       "company": "American Express",
-      "title": "AI Engineer III - Agentic AI",
+      "title": "Senior AI Engineer II - Agentic AI",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412390541/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "American Express",
-      "title": "Senior AI Engineer I - Agentic AI",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412602180/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "American Express",
-      "title": "Sr Staff AI Engineering - Agentic AI",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412395394/",
+      "url": "https://www.linkedin.com/jobs/view/4412392487/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     }
