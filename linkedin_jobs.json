@@ -1,135 +1,119 @@
 {
-  "scraped_at": "2026-05-12 04:34 UTC",
-  "total": 8,
-  "new_count": 8,
+  "scraped_at": "2026-05-12 07:41 UTC",
+  "total": 7,
+  "new_count": 7,
   "jobs": [
     {
-      "company": "Elicit",
-      "title": "AI Engineer",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4294276503/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cisco",
-      "title": "AI/ML Engineer (Hybrid)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413234717/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Global Lehman Consulting",
-      "title": "Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413252514/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "UCSF Health",
-      "title": "Research Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413238790/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Walmart",
-      "title": "(USA) Staff, Data Scientist",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410134000/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Autodesk",
-      "title": "Distinguished Applied AI Engineer, AI Transformation",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4330618546/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Brisk Teaching",
-      "title": "Lead Data Scientist",
+      "company": "Taskrabbit",
+      "title": "Senior Machine Learning Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413508455/",
+      "url": "https://www.linkedin.com/jobs/view/4373039072/",
       "date_posted": "2026-05-12",
       "ats": "LinkedIn"
     },
     {
-      "company": "Myriad Genetics",
-      "title": "Computational Scientist III - Scientific Affairs - Hybrid SSF",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413513086/",
+      "company": "CoffeeSpace",
+      "title": "Founding ML Engineer | Evaluating Frontier Medical AI | $150k\u2013$200k | SF",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4413502923/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "Data Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408573820/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "Senior Machine Learning Engineer - Physical AI and Synthetic Data Generation",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410139306/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sony Interactive Entertainment",
+      "title": "Senior Data Scientist - \u00a0Experimentation & Measurement",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4352132695/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sony Interactive Entertainment",
+      "title": "Staff Data Scientist -\u00a0 Experimentation & Measurement",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4352210097/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Standout (YC P26)",
+      "title": "Founding AI Engineer ($150k - $300k + equity) at Kinro (YC P26)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405051425/",
       "date_posted": "2026-05-12",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Elicit",
-      "title": "AI Engineer",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4294276503/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cisco",
-      "title": "AI/ML Engineer (Hybrid)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413234717/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Global Lehman Consulting",
-      "title": "Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413252514/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "UCSF Health",
-      "title": "Research Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413238790/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Walmart",
-      "title": "(USA) Staff, Data Scientist",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410134000/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Autodesk",
-      "title": "Distinguished Applied AI Engineer, AI Transformation",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4330618546/",
-      "date_posted": "2026-05-12",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Brisk Teaching",
-      "title": "Lead Data Scientist",
+      "company": "Taskrabbit",
+      "title": "Senior Machine Learning Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413508455/",
+      "url": "https://www.linkedin.com/jobs/view/4373039072/",
       "date_posted": "2026-05-12",
       "ats": "LinkedIn"
     },
     {
-      "company": "Myriad Genetics",
-      "title": "Computational Scientist III - Scientific Affairs - Hybrid SSF",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413513086/",
+      "company": "CoffeeSpace",
+      "title": "Founding ML Engineer | Evaluating Frontier Medical AI | $150k\u2013$200k | SF",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4413502923/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "Data Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408573820/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA AI",
+      "title": "Senior Machine Learning Engineer - Physical AI and Synthetic Data Generation",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410139306/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sony Interactive Entertainment",
+      "title": "Senior Data Scientist - \u00a0Experimentation & Measurement",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4352132695/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sony Interactive Entertainment",
+      "title": "Staff Data Scientist -\u00a0 Experimentation & Measurement",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4352210097/",
+      "date_posted": "2026-05-12",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Standout (YC P26)",
+      "title": "Founding AI Engineer ($150k - $300k + equity) at Kinro (YC P26)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405051425/",
       "date_posted": "2026-05-12",
       "ats": "LinkedIn"
     }
