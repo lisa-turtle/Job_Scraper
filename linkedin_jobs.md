@@ -1,64 +1,56 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-15 16:47 UTC*
+*Last updated: 2026-05-15 18:18 UTC*
 
-**15 new role(s)** since last run · 15 total in last 1h
+**13 new role(s)** since last run · 13 total in last 1h
 
-### [Machine Learning Engineer/Machine Learning Scientist , Multi Modality](https://www.linkedin.com/jobs/view/4324501733/) — Altos Labs
+### [Machine Learning Engineer, Lyft Business](https://www.linkedin.com/jobs/view/4405818358/) — Lyft
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-15
 
-### [Research Engineer, Machine Learning (RL Velocity)](https://www.linkedin.com/jobs/view/4405025538/) — Anthropic
-- 📍 **Location:** San Francisco, CA
+### [Staff AI Engineer](https://www.linkedin.com/jobs/view/4415509505/) — LinkedIn
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-05-15
 
-### [Research Engineer, Machine Learning (RL Velocity)](https://www.linkedin.com/jobs/view/4405020607/) — Anthropic
+### [Principal AI/ML Engineer - Top Healthtech AI start-up SF Bay](https://www.linkedin.com/jobs/view/4330232369/) — Astro Health Inc
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-15
 
-### [Senior Data Scientist II](https://www.linkedin.com/jobs/view/4414522100/) — Sharp Decisions
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-05-15
-
-### [Staff ML Engineer](https://www.linkedin.com/jobs/view/4205335950/) — Grindr
+### [Principal ML Research Engineer](https://www.linkedin.com/jobs/view/4415518289/) — Lila Sciences
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-15
 
-### [Staff Data Scientist - Product Analytics](https://www.linkedin.com/jobs/view/4385323525/) — Ironclad
-- 📍 **Location:** San Francisco, CA
+### [Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA](https://www.linkedin.com/jobs/view/4415097834/) — Enigma
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-15
 
-### [Research Engineer – Training Infra](https://www.linkedin.com/jobs/view/4382712851/) — Snorkel AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-15
-
-### [Research Engineer – Training Infra](https://www.linkedin.com/jobs/view/4382724175/) — Snorkel AI
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-05-15
-
-### [Data Science Engineer](https://www.linkedin.com/jobs/view/4404904193/) — Lawrence Livermore National Laboratory
-- 📍 **Location:** Livermore, CA
-- 🕒 **Posted:** 2026-05-15
-
-### [Research Engineer, Environment Scaling](https://www.linkedin.com/jobs/view/4373630351/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-15
-
-### [Principal Applied Scientist, PXT](https://www.linkedin.com/jobs/view/4405888926/) — Amazon
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-05-15
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4361298334/) — Ironclad
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-15
-
-### [AI Engineer, Enterprise AI (Principal/Sr. Principal/Distinguished)](https://www.linkedin.com/jobs/view/4396747771/) — Palo Alto Networks
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-05-15
-
-### [Staff/Sr. Staff AI Engineer - Enterprise AI Solutions](https://www.linkedin.com/jobs/view/4403298114/) — Palo Alto Networks
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-05-15
-
-### [Senior Bioinformatics Engineer](https://www.linkedin.com/jobs/view/4414777301/) — Dinamo Biotechnologies
+### [Senior Data Scientist - Bioinformatics](https://www.linkedin.com/jobs/view/4414757672/) — Dinamo Biotechnologies
 - 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-05-15
+
+### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4415509496/) — LinkedIn
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-05-15
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4412021598/) — BeaconFire Inc.
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-05-15
+
+### [Senior/Staff AI Engineer](https://www.linkedin.com/jobs/view/4415533093/) — DDN
+- 📍 **Location:** San Francisco County, CA
+- 🕒 **Posted:** 2026-05-15
+
+### [Senior Data Scientist, Decisions - Risk](https://www.linkedin.com/jobs/view/4394901884/) — Lyft
+- 📍 **Location:** San Francisco County, CA
+- 🕒 **Posted:** 2026-05-15
+
+### [Data Science Manager, Mapping](https://www.linkedin.com/jobs/view/4383792547/) — Lyft
+- 📍 **Location:** San Francisco County, CA
+- 🕒 **Posted:** 2026-05-15
+
+### [Staff Data Scientist, Member Insights - Subscriptions](https://www.linkedin.com/jobs/view/4375032357/) — SoFi
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-15
+
+### [Senior MLOps & AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4415516286/) — Altera
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-15
