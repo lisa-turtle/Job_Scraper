@@ -1,32 +1,25 @@
 {
-  "scraped_at": "2026-05-16 19:59 UTC",
-  "total": 3,
-  "new_count": 0,
+  "scraped_at": "2026-05-16 20:53 UTC",
+  "total": 1,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "PwC",
-      "title": "Payer Healthcare Data Scientist, Manager",
+      "company": "Redis",
+      "title": "Applied AI Engineer - Bay Area",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4393883210/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cadence",
-      "title": "Senior AI Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4384662944/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PwC",
-      "title": "NGA AI Engineer Senior Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4384256805/",
+      "url": "https://www.linkedin.com/jobs/view/4412203296/",
       "date_posted": "2026-05-16",
       "ats": "LinkedIn"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Redis",
+      "title": "Applied AI Engineer - Bay Area",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412203296/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    }
+  ]
 }
