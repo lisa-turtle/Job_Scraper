@@ -1,36 +1,28 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-15 23:49 UTC*
+*Last updated: 2026-05-16 02:13 UTC*
 
-**8 new role(s)** since last run · 12 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4412048554/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-05-15
+### [Senior Data Scientist + Machine Learning Engineer](https://www.linkedin.com/jobs/view/4415806373/) — Neo.Tax
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-05-16
 
-### [Senior Machine Learning Engineer, Search Assistant](https://www.linkedin.com/jobs/view/4415590021/) — Roku
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-15
-
-### [Senior Data Scientist - Credit](https://www.linkedin.com/jobs/view/4415587201/) — Plaid
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-15
-
-### [Senior Data Scientist - Network Value](https://www.linkedin.com/jobs/view/4415582313/) — Plaid
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-15
-
-### [Staff/Senior Machine Learning Engineer, Clinical AI](https://www.linkedin.com/jobs/view/4415137147/) — Tempus AI
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-05-15
-
-### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4415580212/) — LinkedIn
+### [Staff Data Scientist, Product](https://www.linkedin.com/jobs/view/4415153180/) — Google
 - 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-05-15
+- 🕒 **Posted:** 2026-05-16
 
-### [Wireless Research Engineer](https://www.linkedin.com/jobs/view/4412051307/) — Bosch USA
+### [W2 || Data Scientist](https://www.linkedin.com/jobs/view/4415162057/) — Jobs via Dice
 - 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-05-15
+- 🕒 **Posted:** 2026-05-16
 
-### [AI Engineering - Vice President (Menlo Park, CA)](https://www.linkedin.com/jobs/view/4415136164/) — Goldman Sachs
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-05-15
+### [Expert Data Scientist, Early Clinical Development](https://www.linkedin.com/jobs/view/4415817169/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-05-16
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4415595848/) — Fluency
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-16
+
+### [Adversarial AI & Research Engineer](https://www.linkedin.com/jobs/view/4415589859/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-16
