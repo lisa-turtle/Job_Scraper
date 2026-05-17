@@ -1,16 +1,8 @@
 {
-  "scraped_at": "2026-05-17 21:47 UTC",
-  "total": 5,
-  "new_count": 5,
+  "scraped_at": "2026-05-17 22:45 UTC",
+  "total": 4,
+  "new_count": 0,
   "jobs": [
-    {
-      "company": "ClickHouse",
-      "title": "Data Scientist, Finance Forecasting",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412223913/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
     {
       "company": "kadence",
       "title": "Staff Applied ML Engineer",
@@ -44,46 +36,5 @@
       "ats": "LinkedIn"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "ClickHouse",
-      "title": "Data Scientist, Finance Forecasting",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412223913/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "kadence",
-      "title": "Staff Applied ML Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4389453277/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SoFi",
-      "title": "Staff Marketing Data Scientist, Machine Learning",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416054533/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TalentAlly",
-      "title": "Senior AI Engineer",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413505381/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TalentAlly",
-      "title": "Principal AI Engineer",
-      "location": "Dublin, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413508259/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    }
-  ]
+  "new_jobs": []
 }
