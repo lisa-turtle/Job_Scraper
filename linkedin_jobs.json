@@ -1,23 +1,151 @@
 {
-  "scraped_at": "2026-05-17 06:16 UTC",
-  "total": 1,
-  "new_count": 1,
+  "scraped_at": "2026-05-17 15:52 UTC",
+  "total": 9,
+  "new_count": 9,
   "jobs": [
     {
-      "company": "Edufesto",
-      "title": "Senior AI Engineer",
+      "company": "ClickHouse",
+      "title": "Data Scientist, Finance Forecasting",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416015142/",
+      "url": "https://www.linkedin.com/jobs/view/4416023978/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Calico Life Sciences",
+      "title": "Senior Machine Learning Software Engineer (MLOps)",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385128288/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Senior Machine Learning Engineer, Public Sector",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4344010637/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Whatnot",
+      "title": "Data Scientist, Risk & Fraud",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4366862161/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Faire",
+      "title": "Senior Applied AI/ML Scientist - Search Ads",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4367533533/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Universes",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4331596197/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Principal Machine Learning Engineer, Ads Delivery",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4304375637/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, Amazon Ads, Demand Forecasting & Guidance",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385362057/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, Last Mile Delivery Automation",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4359611498/",
       "date_posted": "2026-05-17",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Edufesto",
-      "title": "Senior AI Engineer",
+      "company": "ClickHouse",
+      "title": "Data Scientist, Finance Forecasting",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416015142/",
+      "url": "https://www.linkedin.com/jobs/view/4416023978/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Calico Life Sciences",
+      "title": "Senior Machine Learning Software Engineer (MLOps)",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385128288/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Senior Machine Learning Engineer, Public Sector",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4344010637/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Whatnot",
+      "title": "Data Scientist, Risk & Fraud",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4366862161/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Faire",
+      "title": "Senior Applied AI/ML Scientist - Search Ads",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4367533533/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Research Engineer, Universes",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4331596197/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Principal Machine Learning Engineer, Ads Delivery",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4304375637/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, Amazon Ads, Demand Forecasting & Guidance",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385362057/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, Last Mile Delivery Automation",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4359611498/",
       "date_posted": "2026-05-17",
       "ats": "LinkedIn"
     }
