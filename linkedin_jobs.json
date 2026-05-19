@@ -1,112 +1,72 @@
 {
-  "scraped_at": "2026-05-18 23:59 UTC",
-  "total": 8,
-  "new_count": 5,
+  "scraped_at": "2026-05-19 03:53 UTC",
+  "total": 4,
+  "new_count": 4,
   "jobs": [
     {
-      "company": "Visa",
+      "company": "Glint Tech Solutions",
+      "title": "Machine Learning Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412859618/",
+      "date_posted": "2026-05-19",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Glint Tech Solutions",
       "title": "Data Scientist",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411212478/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Walmart",
-      "title": "Senior, Data Scientist (Machine Learning Engineer)",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412828828/",
-      "date_posted": "2026-05-18",
+      "url": "https://www.linkedin.com/jobs/view/4412851623/",
+      "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     },
     {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412863119/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Senior Machine Learning Engineer - Earner Incentive",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416434250/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Data Scientist II, Experimentation",
+      "company": "Checkr, Inc.",
+      "title": "Machine Learning Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416435832/",
-      "date_posted": "2026-05-18",
+      "url": "https://www.linkedin.com/jobs/view/4412857462/",
+      "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     },
     {
-      "company": "ChatGPT Jobs",
-      "title": "Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412860043/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Data Scientist II, Infrastructure",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416445646/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Personalis, Inc.",
-      "title": "Sr. Bioinformatics Scientist - DNA Technology Development & Applied AI",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416449236/",
-      "date_posted": "2026-05-18",
+      "company": "PlusAI",
+      "title": "Machine Learning Infrastructure Engineer Intern",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412847585/",
+      "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Visa",
+      "company": "Glint Tech Solutions",
+      "title": "Machine Learning Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412859618/",
+      "date_posted": "2026-05-19",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Glint Tech Solutions",
       "title": "Data Scientist",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411212478/",
-      "date_posted": "2026-05-18",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412851623/",
+      "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     },
     {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412863119/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Data Scientist II, Experimentation",
+      "company": "Checkr, Inc.",
+      "title": "Machine Learning Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416435832/",
-      "date_posted": "2026-05-18",
+      "url": "https://www.linkedin.com/jobs/view/4412857462/",
+      "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     },
     {
-      "company": "Pinterest",
-      "title": "Data Scientist II, Infrastructure",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416445646/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Personalis, Inc.",
-      "title": "Sr. Bioinformatics Scientist - DNA Technology Development & Applied AI",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416449236/",
-      "date_posted": "2026-05-18",
+      "company": "PlusAI",
+      "title": "Machine Learning Infrastructure Engineer Intern",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412847585/",
+      "date_posted": "2026-05-19",
       "ats": "LinkedIn"
     }
   ]
