@@ -1,87 +1,71 @@
 {
-  "scraped_at": "2026-05-21 01:17 UTC",
-  "total": 7,
-  "new_count": 3,
+  "scraped_at": "2026-05-21 02:17 UTC",
+  "total": 4,
+  "new_count": 4,
   "jobs": [
     {
-      "company": "Mochi Health",
-      "title": "Data Scientist, Operations",
+      "company": "Jack & Jill",
+      "title": "AI/ML Engineer ($250k\u2013$400k + Equity) at $10M Seed consumer AI dating startup",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416352375/",
+      "url": "https://www.linkedin.com/jobs/view/4405083386/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "ChatGPT Jobs",
-      "title": "Lead Machine Learning and Bioinformatics Scientist",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413652780/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Senior Applied Scientist",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417428213/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Senior Applied Scientist",
+      "company": "Acadia Pharmaceuticals",
+      "title": "Manager, AI Engineering",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417412654/",
+      "url": "https://www.linkedin.com/jobs/view/4416355286/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon",
-      "title": "Applied Scientist II, Foundation Model, Robotics",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417431148/",
+      "company": "PlusAI",
+      "title": "Senior Research Engineer, Controls",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417440316/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon",
-      "title": "Applied Scientist II, Foundation Model, Robotics",
+      "company": "Zero RFI",
+      "title": "Principal AI Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417410971/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Stanford University",
-      "title": "Computational Biologist",
-      "location": "Stanford, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417418659/",
+      "url": "https://www.linkedin.com/jobs/view/4417448159/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Mochi Health",
-      "title": "Data Scientist, Operations",
+      "company": "Jack & Jill",
+      "title": "AI/ML Engineer ($250k\u2013$400k + Equity) at $10M Seed consumer AI dating startup",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416352375/",
+      "url": "https://www.linkedin.com/jobs/view/4405083386/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "ChatGPT Jobs",
-      "title": "Lead Machine Learning and Bioinformatics Scientist",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413652780/",
+      "company": "Acadia Pharmaceuticals",
+      "title": "Manager, AI Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416355286/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Stanford University",
-      "title": "Computational Biologist",
-      "location": "Stanford, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417418659/",
+      "company": "PlusAI",
+      "title": "Senior Research Engineer, Controls",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417440316/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Zero RFI",
+      "title": "Principal AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417448159/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }
