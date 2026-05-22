@@ -1,13 +1,45 @@
 {
-  "scraped_at": "2026-05-22 16:17 UTC",
+  "scraped_at": "2026-05-22 17:17 UTC",
   "total": 8,
-  "new_count": 7,
+  "new_count": 6,
   "jobs": [
+    {
+      "company": "SB Telecom America Corp.",
+      "title": "AI/ML Engineer, AI Infrastructure",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418176243/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
     {
       "company": "Gridware",
       "title": "Senior Data Scientist, Fleet Performance Optimization",
       "location": "San Francisco Bay Area",
       "url": "https://www.linkedin.com/jobs/view/4385700423/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408006253/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amplitude",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4412170780/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SoFi",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4387493657/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
@@ -20,108 +52,68 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Pinterest",
-      "title": "Sr. Data Scientist, tvScientific",
+      "company": "FANUC America Corporation",
+      "title": "Research Engineer",
+      "location": "Union City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402069022/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kickmaker",
+      "title": "AI Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4378073429/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Machine Learning Engineer, Economy",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4368295686/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "The Trade Desk",
-      "title": "Staff Applied Scientist , Inventory & Marketplace Quality",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4368086661/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Principal Applied Scientist, FAR (Frontier AI & Robotics)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4194476443/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Senior Applied Scientist, Full-funnel Agentic Intelligence and Models",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409110369/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Grindr",
-      "title": "Senior Staff MLOps Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4345838900/",
+      "url": "https://www.linkedin.com/jobs/view/4387393753/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Gridware",
-      "title": "Senior Data Scientist, Fleet Performance Optimization",
+      "company": "SB Telecom America Corp.",
+      "title": "AI/ML Engineer, AI Infrastructure",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418176243/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408006253/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amplitude",
+      "title": "Senior Data Scientist",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4385700423/",
+      "url": "https://www.linkedin.com/jobs/view/4412170780/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Workato",
-      "title": "Intern, AI Engineering",
+      "company": "SoFi",
+      "title": "Senior Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400379081/",
+      "url": "https://www.linkedin.com/jobs/view/4387493657/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Pinterest",
-      "title": "Sr. Data Scientist, tvScientific",
+      "company": "FANUC America Corporation",
+      "title": "Research Engineer",
+      "location": "Union City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402069022/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Kickmaker",
+      "title": "AI Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4378073429/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Machine Learning Engineer, Economy",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4368295686/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "The Trade Desk",
-      "title": "Staff Applied Scientist , Inventory & Marketplace Quality",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4368086661/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Principal Applied Scientist, FAR (Frontier AI & Robotics)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4194476443/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Grindr",
-      "title": "Senior Staff MLOps Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4345838900/",
+      "url": "https://www.linkedin.com/jobs/view/4387393753/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     }
