@@ -1,103 +1,247 @@
 {
-  "scraped_at": "2026-05-22 23:17 UTC",
-  "total": 6,
-  "new_count": 6,
+  "scraped_at": "2026-05-23 00:17 UTC",
+  "total": 15,
+  "new_count": 15,
   "jobs": [
     {
-      "company": "Adobe",
-      "title": "Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417502683/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Adobe",
-      "title": "Machine Learning Engineer 5",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417505649/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Harnham",
-      "title": "Senior AI Engineer",
+      "company": "Andiamo",
+      "title": "Data Scientist - Global Tech Leader",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4398096083/",
+      "url": "https://www.linkedin.com/jobs/view/4380634455/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Machine Learning Engineer, Ads Conversion",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418455008/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Machine Learning Engineer, Ads Conversion",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418443418/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417521351/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior High Performance AI Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417507933/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Applied Scientist, AWS Quick",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418444360/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, Shopping Convo Foundations - Pre-purchases Science",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418434997/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Senior Applied Scientist, AWS Quick",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418441580/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Business",
+      "title": "Applied Scientist II, Amazon, Amazon",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418453120/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Applied Scientist, AWS Quick",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418452068/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, Shopping Convo Foundations - Pre-purchases Science",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418433990/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Staff Machine Learning Engineer, Content Ecosystem",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418454017/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Buck Institute for Research on Aging",
+      "title": "Data Scientist / AI Scientist \u2013 AI for Aging Research \u2013 Zhou lab",
+      "location": "Novato, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404543004/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Orum \ud83e\udd47",
-      "title": "Staff Applied AI Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418424811/",
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414363731/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Adobe",
-      "title": "Machine Learning Engineer 5",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417199761/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Adobe",
-      "title": "Sr. Machine Learning Engineer 4",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417501719/",
+      "company": "DEUNA",
+      "title": "AI Engineering Lead",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418447079/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Adobe",
-      "title": "Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417502683/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Adobe",
-      "title": "Machine Learning Engineer 5",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417505649/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Harnham",
-      "title": "Senior AI Engineer",
+      "company": "Andiamo",
+      "title": "Data Scientist - Global Tech Leader",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4398096083/",
+      "url": "https://www.linkedin.com/jobs/view/4380634455/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Machine Learning Engineer, Ads Conversion",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418455008/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Machine Learning Engineer, Ads Conversion",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418443418/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417521351/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior High Performance AI Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417507933/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Applied Scientist, AWS Quick",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418444360/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, Shopping Convo Foundations - Pre-purchases Science",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418434997/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Senior Applied Scientist, AWS Quick",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418441580/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Business",
+      "title": "Applied Scientist II, Amazon, Amazon",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418453120/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Applied Scientist, AWS Quick",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418452068/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, Shopping Convo Foundations - Pre-purchases Science",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418433990/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Staff Machine Learning Engineer, Content Ecosystem",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418454017/",
+      "date_posted": "2026-05-23",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Buck Institute for Research on Aging",
+      "title": "Data Scientist / AI Scientist \u2013 AI for Aging Research \u2013 Zhou lab",
+      "location": "Novato, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404543004/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Orum \ud83e\udd47",
-      "title": "Staff Applied AI Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418424811/",
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414363731/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Adobe",
-      "title": "Machine Learning Engineer 5",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417199761/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Adobe",
-      "title": "Sr. Machine Learning Engineer 4",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417501719/",
+      "company": "DEUNA",
+      "title": "AI Engineering Lead",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418447079/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     }
