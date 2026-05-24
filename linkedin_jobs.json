@@ -1,21 +1,13 @@
 {
-  "scraped_at": "2026-05-24 16:17 UTC",
-  "total": 4,
-  "new_count": 2,
+  "scraped_at": "2026-05-24 17:17 UTC",
+  "total": 5,
+  "new_count": 4,
   "jobs": [
     {
-      "company": "Anthropic",
-      "title": "Research Engineer, Machine Learning (Reinforcement Learning)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4322390079/",
-      "date_posted": "2026-05-24",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Roblox",
-      "title": "Senior Machine Learning Infrastructure Engineer, Ads",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4317753328/",
+      "company": "5V Tech",
+      "title": "Audio Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4413038601/",
       "date_posted": "2026-05-24",
       "ats": "LinkedIn"
     },
@@ -28,28 +20,60 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "SAP",
-      "title": "Senior AI/ML Applied Scientist - Generative AI",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4306692101/",
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417832057/",
+      "date_posted": "2026-05-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Palo Alto Networks Unit 42",
+      "title": "Sr Principal AI-Data Scientist (ADEM)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414857696/",
+      "date_posted": "2026-05-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Palo Alto Networks Unit 42",
+      "title": "Sr Principal AI-Data Scientist (ADEM)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414850997/",
       "date_posted": "2026-05-24",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Anthropic",
-      "title": "Research Engineer, Machine Learning (Reinforcement Learning)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4322390079/",
+      "company": "5V Tech",
+      "title": "Audio Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4413038601/",
       "date_posted": "2026-05-24",
       "ats": "LinkedIn"
     },
     {
-      "company": "Palo Alto Networks",
-      "title": "Senior IT AI/ML Engineer - Data Analytics",
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417832057/",
+      "date_posted": "2026-05-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Palo Alto Networks Unit 42",
+      "title": "Sr Principal AI-Data Scientist (ADEM)",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4386113259/",
+      "url": "https://www.linkedin.com/jobs/view/4414857696/",
+      "date_posted": "2026-05-24",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Palo Alto Networks Unit 42",
+      "title": "Sr Principal AI-Data Scientist (ADEM)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414850997/",
       "date_posted": "2026-05-24",
       "ats": "LinkedIn"
     }
