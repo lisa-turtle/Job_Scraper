@@ -1,32 +1,36 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-25 16:17 UTC*
+*Last updated: 2026-05-25 17:17 UTC*
 
-**7 new role(s)** since last run · 9 total in last 1h
+**8 new role(s)** since last run · 10 total in last 1h
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4298469184/) — Tarro
-- 📍 **Location:** San Mateo, CA
+### [Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA](https://www.linkedin.com/jobs/view/4417893692/) — Enigma
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-25
 
-### [Staff Data Scientist, Marketing](https://www.linkedin.com/jobs/view/4359264895/) — Harvey
+### [Helix AI Engineer, Training Infrastructure](https://www.linkedin.com/jobs/view/4205919655/) — Figure
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-05-25
+
+### [Senior Machine Learning Engineer*](https://www.linkedin.com/jobs/view/4417883786/) — Meltwater
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-05-25
+
+### [Machine Learning Infrastructure Engineer- Model Inference](https://www.linkedin.com/jobs/view/4318555366/) — Abridge
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-25
 
-### [Research Staff, Data Science](https://www.linkedin.com/jobs/view/4388907202/) — Deepgram
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-25
-
-### [Research Engineer / Research Scientist, Tokens](https://www.linkedin.com/jobs/view/4378287279/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-25
-
-### [Research Engineer, Post-Training (All Industry Levels)](https://www.linkedin.com/jobs/view/3813454490/) — Character.AI
+### [Forward Deployed - Staff+ Machine Learning Engineer](https://www.linkedin.com/jobs/view/4417879807/) — Sequen
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-25
 
-### [Applied Scientist, LLM Code Agents, Kiro Science](https://www.linkedin.com/jobs/view/4335479676/) — Amazon Web Services (AWS)
-- 📍 **Location:** Santa Clara, CA
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4417899690/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-25
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4416598954/) — True Classic
-- 📍 **Location:** San Jose, CA
+### [Senior Applied ML Engineer, On-Device](https://www.linkedin.com/jobs/view/4385765779/) — Gridware
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-05-25
+
+### [Research Engineer, Security and Privacy, DeepMind](https://www.linkedin.com/jobs/view/4417891647/) — Google DeepMind
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-05-25

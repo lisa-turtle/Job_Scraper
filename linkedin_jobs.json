@@ -1,8 +1,64 @@
 {
-  "scraped_at": "2026-05-25 16:17 UTC",
-  "total": 9,
-  "new_count": 7,
+  "scraped_at": "2026-05-25 17:17 UTC",
+  "total": 10,
+  "new_count": 8,
   "jobs": [
+    {
+      "company": "Enigma",
+      "title": "Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417893692/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Figure",
+      "title": "Helix AI Engineer, Training Infrastructure",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4205919655/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Meltwater",
+      "title": "Senior Machine Learning Engineer*",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417883786/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Abridge",
+      "title": "Machine Learning Infrastructure Engineer- Model Inference",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4318555366/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sequen",
+      "title": "Forward Deployed - Staff+ Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4417879807/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417899690/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Gridware",
+      "title": "Senior Applied ML Engineer, On-Device",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4385765779/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
     {
       "company": "Tarro",
       "title": "Data Scientist",
@@ -12,42 +68,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Harvey",
-      "title": "Staff Data Scientist, Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4359264895/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Deepgram",
-      "title": "Research Staff, Data Science",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4388907202/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Engineer / Research Scientist, Tokens",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4378287279/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Character.AI",
-      "title": "Research Engineer, Post-Training (All Industry Levels)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/3813454490/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Applied Scientist, LLM Code Agents, Kiro Science",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4335479676/",
+      "company": "Google DeepMind",
+      "title": "Research Engineer, Security and Privacy, DeepMind",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417891647/",
       "date_posted": "2026-05-25",
       "ats": "LinkedIn"
     },
@@ -56,80 +80,72 @@
       "title": "AI Engineer",
       "location": "San Jose, CA",
       "url": "https://www.linkedin.com/jobs/view/4416598954/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Applied AI Engineer, Life Sciences (Beneficial Deployments)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4369877096/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Engineer, Discovery",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4322062014/",
       "date_posted": "2026-05-25",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Tarro",
-      "title": "Data Scientist",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4298469184/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Harvey",
-      "title": "Staff Data Scientist, Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4359264895/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Deepgram",
-      "title": "Research Staff, Data Science",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4388907202/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Engineer / Research Scientist, Tokens",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4378287279/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Character.AI",
-      "title": "Research Engineer, Post-Training (All Industry Levels)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/3813454490/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Applied Scientist, LLM Code Agents, Kiro Science",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4335479676/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "True Classic",
-      "title": "AI Engineer",
+      "company": "Enigma",
+      "title": "Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416598954/",
+      "url": "https://www.linkedin.com/jobs/view/4417893692/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Figure",
+      "title": "Helix AI Engineer, Training Infrastructure",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4205919655/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Meltwater",
+      "title": "Senior Machine Learning Engineer*",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417883786/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Abridge",
+      "title": "Machine Learning Infrastructure Engineer- Model Inference",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4318555366/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sequen",
+      "title": "Forward Deployed - Staff+ Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4417879807/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417899690/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Gridware",
+      "title": "Senior Applied ML Engineer, On-Device",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4385765779/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Google DeepMind",
+      "title": "Research Engineer, Security and Privacy, DeepMind",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417891647/",
       "date_posted": "2026-05-25",
       "ats": "LinkedIn"
     }
