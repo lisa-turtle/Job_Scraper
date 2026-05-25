@@ -1,25 +1,7 @@
 {
-  "scraped_at": "2026-05-25 03:17 UTC",
-  "total": 1,
-  "new_count": 1,
-  "jobs": [
-    {
-      "company": "TikTok",
-      "title": "Efficient ML Engineer Research Intern (AI Platform) - 2026 Start (PhD)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417838662/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "TikTok",
-      "title": "Efficient ML Engineer Research Intern (AI Platform) - 2026 Start (PhD)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417838662/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    }
-  ]
+  "scraped_at": "2026-05-25 05:08 UTC",
+  "total": 0,
+  "new_count": 0,
+  "jobs": [],
+  "new_jobs": []
 }
