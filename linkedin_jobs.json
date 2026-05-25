@@ -1,47 +1,23 @@
 {
-  "scraped_at": "2026-05-25 22:17 UTC",
-  "total": 3,
-  "new_count": 2,
+  "scraped_at": "2026-05-25 23:17 UTC",
+  "total": 1,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418222219/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "AI/ML Engineer ($250k\u2013$400k + Equity) at $10M Seed consumer AI dating startup",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4405083386/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NativeAds.ai",
-      "title": "AI/ML Research Engineer Intern \u2013 Advertising Optimization",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418220045/",
+      "company": "NavLogic AI",
+      "title": "AI Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415728279/",
       "date_posted": "2026-05-25",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418222219/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NativeAds.ai",
-      "title": "AI/ML Research Engineer Intern \u2013 Advertising Optimization",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418220045/",
+      "company": "NavLogic AI",
+      "title": "AI Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415728279/",
       "date_posted": "2026-05-25",
       "ats": "LinkedIn"
     }
