@@ -33,7 +33,7 @@ jobs:
       - name: Install Indeed deps
         run: pip install -r requirements.txt
 
-      - name: Scrape Indeed (last 1h)
+      - name: Scrape Indeed (last 24h)
         run: python scrape_jobs.py --indeed-only
 
       - name: Record workflow run

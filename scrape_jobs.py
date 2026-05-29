@@ -712,7 +712,8 @@ def scrape_linkedin_biotech() -> list:
 # required, no documented rate limit.)
 # ---------------------------------------------------------------------------
 
-INDEED_LOOKBACK_HOURS = 1  # hourly watcher window, mirrors LINKEDIN_LOOKBACK_SECONDS=3600
+INDEED_LOOKBACK_HOURS = 24  # Indeed posting dates are ~day-resolution, so a 1h window
+# returns almost nothing; the hourly watcher's cross-run dedupe trims the overlap.
 
 
 def scrape_indeed_recent() -> list:
@@ -725,7 +726,11 @@ def scrape_indeed_recent() -> list:
         return []
 
     jobs_by_id: dict[str, dict] = {}
+    ok_terms = 0
+    errored_terms = 0
+    raw_rows = 0
     for term in LINKEDIN_SEARCH_TERMS:
+        time.sleep(REQUEST_DELAY)  # throttle: 20 back-to-back calls invite blocking on CI IPs
         try:
             # JobSpy Indeed gotcha: hours_old / is_remote / job_type / easy_apply
             # are mutually exclusive — only one may be set, or the time filter
@@ -740,10 +745,13 @@ def scrape_indeed_recent() -> list:
                 country_indeed="USA",
             )
         except Exception as e:
+            errored_terms += 1
             print(f"  ⚠️  Indeed ({term!r}): {e}")
             continue
+        ok_terms += 1
         if df is None or df.empty:
             continue
+        raw_rows += len(df)
         df.columns = [c.lower() for c in df.columns]
         df = df.fillna("")
         for _, row in df.iterrows():
@@ -768,7 +776,25 @@ def scrape_indeed_recent() -> list:
                 "ats": "Indeed",
             }
     jobs = list(jobs_by_id.values())
-    print(f"  ✅ Indeed: {len(jobs)} role(s)")
+    print(
+        f"  📊 Indeed: {len(LINKEDIN_SEARCH_TERMS)} terms → "
+        f"{ok_terms} ok / {errored_terms} errored · {raw_rows} raw, {len(jobs)} matched"
+    )
+
+    # Block guard: zero rows pulled across every term means Indeed gave us no data
+    # — a hard block (calls raised) or a soft block (empty frames). This is NOT the
+    # same as "rows returned but none matched our keywords" (raw_rows > 0, jobs == []),
+    # which is a legitimate empty result. On a no-data run, reuse the previous results
+    # so we don't clobber the dedupe baseline (and the dashboard's Indeed column) with
+    # an empty file; save_indeed_results() then reports 0 new (all already seen).
+    if raw_rows == 0:
+        prev = _load_prev_jobs(os.path.join(SCRIPT_DIR, "indeed_jobs.json"))
+        print(
+            f"  ⛔ Indeed returned 0 rows across all terms (likely blocked); "
+            f"preserving previous {len(prev)} result(s)"
+        )
+        return prev
+
     return jobs
 
 
@@ -801,15 +827,19 @@ def _job_identity(url: str) -> str:
     return url.split("?")[0].rstrip("/")
 
 
-def _load_prev_ids(json_path: str) -> set[str]:
-    """Read previously-saved jobs JSON and return the set of job identities."""
+def _load_prev_jobs(json_path: str) -> list[dict]:
+    """Read the `jobs` list from a previously-saved jobs JSON (empty if missing)."""
     try:
         with open(json_path) as f:
-            data = json.load(f)
+            return json.load(f).get("jobs", [])
     except (FileNotFoundError, json.JSONDecodeError):
-        return set()
+        return []
+
+
+def _load_prev_ids(json_path: str) -> set[str]:
+    """Read previously-saved jobs JSON and return the set of job identities."""
     ids = set()
-    for j in data.get("jobs", []):
+    for j in _load_prev_jobs(json_path):
         i = _job_identity(j.get("url", ""))
         if i:
             ids.add(i)
