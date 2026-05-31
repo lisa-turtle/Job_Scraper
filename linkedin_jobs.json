@@ -1,21 +1,13 @@
 {
-  "scraped_at": "2026-05-31 21:17 UTC",
-  "total": 7,
-  "new_count": 7,
+  "scraped_at": "2026-05-31 22:17 UTC",
+  "total": 9,
+  "new_count": 4,
   "jobs": [
     {
-      "company": "ClickHouse",
-      "title": "Data Scientist, Finance Forecasting",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421633080/",
-      "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Growth Data Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422577880/",
+      "company": "Haystack",
+      "title": "AI Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4422565837/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
@@ -28,10 +20,26 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "ClickHouse",
-      "title": "Senior Analytics Engineer, Product",
+      "company": "Jobright.ai",
+      "title": "Software Engineer - AI Agent",
+      "location": "San Mateo County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422581822/",
+      "date_posted": "2026-05-31",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Growth Data Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421648005/",
+      "url": "https://www.linkedin.com/jobs/view/4422577880/",
+      "date_posted": "2026-05-31",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Senior Software Engineer, Product",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422575864/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
@@ -56,64 +64,48 @@
       "title": "Full Stack Engineer - Growth",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4422578827/",
+      "date_posted": "2026-05-31",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "Splz Senior Infra Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418587377/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "ClickHouse",
-      "title": "Data Scientist, Finance Forecasting",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421633080/",
-      "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Growth Data Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422577880/",
-      "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Haystack",
       "title": "AI Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4422575829/",
-      "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Analytics Engineer, Product",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421648005/",
+      "url": "https://www.linkedin.com/jobs/view/4422565837/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
       "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422574813/",
-      "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "git-talent",
-      "title": "Full Stack Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422561714/",
+      "title": "Software Engineer - AI Agent",
+      "location": "San Mateo County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422581822/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
       "company": "Jobright.ai",
-      "title": "Full Stack Engineer - Growth",
+      "title": "Senior Software Engineer, Product",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422575864/",
+      "date_posted": "2026-05-31",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "Splz Senior Infra Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422578827/",
+      "url": "https://www.linkedin.com/jobs/view/4418587377/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     }
