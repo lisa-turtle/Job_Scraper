@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-31 00:17 UTC",
-  "total": 6,
-  "new_count": 6,
+  "scraped_at": "2026-05-31 01:17 UTC",
+  "total": 4,
+  "new_count": 2,
   "jobs": [
     {
       "company": "ByteDance",
@@ -12,93 +12,45 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Aurelius Systems",
+      "title": "Senior Robotics Software Engineer, Controls",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4418359100/",
+      "date_posted": "2026-05-31",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Aurelius Systems",
+      "title": "Perception Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4422541002/",
+      "date_posted": "2026-05-31",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "ByteDance",
       "title": "AI Vision Research Engineer Graduate (PICO) - 2026 Start (PhD)",
       "location": "San Jose, CA",
       "url": "https://www.linkedin.com/jobs/view/4418354915/",
       "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421382495/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418337947/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Backend Developer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421379510/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "GenPark",
-      "title": "Frontend Developer Intern",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418355160/",
-      "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "ByteDance",
-      "title": "Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2026 Start (Phd)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418362043/",
+      "company": "Aurelius Systems",
+      "title": "Senior Robotics Software Engineer, Controls",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4418359100/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
-      "company": "ByteDance",
-      "title": "AI Vision Research Engineer Graduate (PICO) - 2026 Start (PhD)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418354915/",
+      "company": "Aurelius Systems",
+      "title": "Perception Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4422541002/",
       "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421382495/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418337947/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Backend Developer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421379510/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "GenPark",
-      "title": "Frontend Developer Intern",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418355160/",
-      "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     }
   ]
