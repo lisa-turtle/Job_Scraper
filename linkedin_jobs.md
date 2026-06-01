@@ -1,112 +1,204 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-01 19:17 UTC*
+*Last updated: 2026-06-01 20:17 UTC*
 
-**27 new role(s)** since last run · 51 total in last 1h
+**50 new role(s)** since last run · 54 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4418799410/) — TechDoQuest
-- 📍 **Location:** Cupertino, CA
+### [Business Data Scientist, Global Business Strategy and Operations](https://www.linkedin.com/jobs/view/4423268089/) — Google
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-06-01
 
-### [Software Engineer, AI](https://www.linkedin.com/jobs/view/4417395054/) — Spot AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA](https://www.linkedin.com/jobs/view/4423244505/) — Enigma
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Entry-Level Software Engineer — AI Research](https://www.linkedin.com/jobs/view/4421891089/) — Tokyo Electron US
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Backend Software Engineer - AI Platform Leader](https://www.linkedin.com/jobs/view/4380622919/) — Andiamo
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Software Engineer Intern (AI-Native) — Summer 2026](https://www.linkedin.com/jobs/view/4421883950/) — Kognitos
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Sr. Data Engineer - Fintech Leader (Series D)](https://www.linkedin.com/jobs/view/4380629834/) — Andiamo
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Senior Software Engineer, Trust and Safety Engineering](https://www.linkedin.com/jobs/view/4411655263/) — Box
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Expert, Data Engineer - Reliability Data](https://www.linkedin.com/jobs/view/4423250403/) — PG&E, LLC
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Principal, Data Engineer - Reliability Data](https://www.linkedin.com/jobs/view/4423255345/) — PG&E, LLC
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Senior Deep Learning Engineering - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4419201164/) — NVIDIA AI
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Remote Software Engineer ($300/hr.)](https://www.linkedin.com/jobs/view/4421862705/) — Turing
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-01
-
-### [Sr. Software Engineer - Golang/Go](https://www.linkedin.com/jobs/view/4421872997/) — MeeBoss
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Software Engineer in Test](https://www.linkedin.com/jobs/view/4423245471/) — XChange Software Inc
+### [Machine Learning Engineer | W2 only](https://www.linkedin.com/jobs/view/4422103529/) — MPower Plus
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-01
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4372856572/) — Broadcom
-- 📍 **Location:** San Jose, CA
+### [Software Engineer III, AI/ML, Search Intelligence Freshness](https://www.linkedin.com/jobs/view/4423252498/) — Google
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-06-01
 
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4418782579/) — Grantek
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Staff Software Engineer, Machine Learning](https://www.linkedin.com/jobs/view/4421886566/) — Saildrone
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Principal Systems Engineer](https://www.linkedin.com/jobs/view/4382361023/) — Bloom Energy
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Software Engineer, Datastore Hardware](https://www.linkedin.com/jobs/view/4423245566/) — Pure Storage
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Staff Full-Stack Engineer, Growth](https://www.linkedin.com/jobs/view/4421894410/) — Scribe
+### [Senior Software Engineer (AI Agents)](https://www.linkedin.com/jobs/view/4422111033/) — Traba
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-01
 
-### [Remote Software Engineer ($300/hr.)](https://www.linkedin.com/jobs/view/4421882278/) — Turing
-- 📍 **Location:** San Francisco Bay Area
+### [System Software Engineer - AI](https://www.linkedin.com/jobs/view/4381797140/) — Delos Data
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-01
 
-### [Staff Software Engineer, Perception](https://www.linkedin.com/jobs/view/4421894422/) — Saildrone
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Senior Software Engineer, Cloud Infrastructure](https://www.linkedin.com/jobs/view/4410264102/) — Altruist
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Senior Security Engineer](https://www.linkedin.com/jobs/view/4423264114/) — Xcede
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-01
-
-### [Wireless Software Engineer](https://www.linkedin.com/jobs/view/4421885560/) — Skydio
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-06-01
-
-### [Senior, Data Engineer - Reliability Data](https://www.linkedin.com/jobs/view/4423264207/) — PG&E, LLC
+### [Senior Software Engineer, Product Engineering](https://www.linkedin.com/jobs/view/4422111150/) — Everlaw
 - 📍 **Location:** Oakland, CA
 - 🕒 **Posted:** 2026-06-01
 
-### [Bioinformatics Engineer](https://www.linkedin.com/jobs/view/4421894448/) — Net2Source (N2S)
-- 📍 **Location:** Foster City, CA
+### [Senior Software Engineer (Generalist)](https://www.linkedin.com/jobs/view/4421895929/) — Traba
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Business Data Scientist, Global Business Strategy and Operations](https://www.linkedin.com/jobs/view/4423248568/) — Google
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Software Engineer, Earth AI, AI/ML, Research](https://www.linkedin.com/jobs/view/4423246629/) — Google
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4402148078/) — Recruiting from Scratch
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Software Engineer, Recommendations, Rankings, Predictions, Search Discover](https://www.linkedin.com/jobs/view/4423257466/) — Google
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Lead Machine Learning Engineer](https://www.linkedin.com/jobs/view/4421896778/) — Capital One
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4388271724/) — Veeva Systems
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Software Engineer - Machine Learning III](https://www.linkedin.com/jobs/view/4423247776/) — Jobs via Dice
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Sr. Data Engineer – Ontology & Semantic Modeling](https://www.linkedin.com/jobs/view/4385685228/) — SoundThinking
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Post-Training Research Engineer](https://www.linkedin.com/jobs/view/4389297788/) — Baseten
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Director, Principal AI Engineer](https://www.linkedin.com/jobs/view/4422102854/) — Bristol Myers Squibb
+- 📍 **Location:** Brisbane, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Staff Software Engineer, AI/ML Performance](https://www.linkedin.com/jobs/view/4423264388/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Software Engineer, GPU Performance](https://www.linkedin.com/jobs/view/4423256483/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [IT - AI/ML Engineer 1](https://www.linkedin.com/jobs/view/4423257653/) — Jobs via Dice
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Sr Manager, AI Platform Execution, AI.x](https://www.linkedin.com/jobs/view/4417960067/) — Charles Schwab
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Software Engineer Manager, Google Global Infrastructure, NetSoft](https://www.linkedin.com/jobs/view/4423244603/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Software Engineer III, Infrastructure, Infra Spanner](https://www.linkedin.com/jobs/view/4423254502/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Software Infrastructure Engineer](https://www.linkedin.com/jobs/view/4423265526/) — Jobs via Dice
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Early Career AI Engineer (Contract)](https://www.linkedin.com/jobs/view/4421892834/) — Rakuten International
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Software Engineer, Earth AI, AI/ML, Research](https://www.linkedin.com/jobs/view/4423262386/) — Google
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Sr. AI Engineer, AI.x](https://www.linkedin.com/jobs/view/4412014611/) — Charles Schwab
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Site Reliability / Platform Engineer](https://www.linkedin.com/jobs/view/4418787711/) — Scale.jobs
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Software Engineer III, Generative AI, Payments Risk](https://www.linkedin.com/jobs/view/4423267212/) — Google
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Lead AI Engineer (GenAI Platform, AI Foundations, LLM Core and Agentic AI)](https://www.linkedin.com/jobs/view/4421891754/) — Capital One
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4423262776/) — Adaptive Machines, Inc
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4418788768/) — SageBeans RPO
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Développeur.se de logiciels / Software Developer](https://www.linkedin.com/jobs/view/4418782890/) — Electronic Arts (EA)
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Software Engineer, Truework](https://www.linkedin.com/jobs/view/4421890976/) — Checkr, Inc.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Full Stack Engineer, Hazel AI](https://www.linkedin.com/jobs/view/4414236093/) — Altruist
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Principal Software Engineer - Java](https://www.linkedin.com/jobs/view/4377290935/) — Veeva Systems
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Full Stack AI Engineer](https://www.linkedin.com/jobs/view/4423261575/) — Jobs via Dice
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Full Stack Software Engineer – Robotics & AI Infrastructure](https://www.linkedin.com/jobs/view/4423253630/) — Jobs via Dice
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Software Engineer, Generative AI](https://www.linkedin.com/jobs/view/4423263453/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Backend Developer (Go & Azure) - AVD](https://www.linkedin.com/jobs/view/4423268316/) — BrezQ
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-01
+
+### [Staff Software Engineer (Generalist)](https://www.linkedin.com/jobs/view/4422127019/) — Traba
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Software Engineer, Identity & Trust](https://www.linkedin.com/jobs/view/4423263649/) — Ripple
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Staff Software Engineer (AI Agents)](https://www.linkedin.com/jobs/view/4422105816/) — Traba
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Staff Software Engineer, Serverless](https://www.linkedin.com/jobs/view/4423257465/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Senior Software Engineer - AI Applications](https://www.linkedin.com/jobs/view/4406973289/) — Veeva Systems
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Principal Software Engineer - Full Stack](https://www.linkedin.com/jobs/view/4377295817/) — Veeva Systems
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Staff Software Engineer, Infrastructure, NetInfra Telemetry](https://www.linkedin.com/jobs/view/4423258439/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Data Engineer (ONLY CA Local) Only W2](https://www.linkedin.com/jobs/view/4423265521/) — Jobs via Dice
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Manager, Data Science - Consumer Identity Machine Learning](https://www.linkedin.com/jobs/view/4421891751/) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-01
+
+### [Bioinformatics Engineer, Therapeutics](https://www.linkedin.com/jobs/view/4422108101/) — LatchBio
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-01
