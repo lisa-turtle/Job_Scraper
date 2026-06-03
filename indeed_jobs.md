@@ -1,264 +1,384 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-03 19:11 UTC*
+*Last updated: 2026-06-03 22:13 UTC*
 
-**65 new role(s)** since last run · 120 total in last 24h
+**95 new role(s)** since last run · 149 total in last 24h
 
-### [Sr. Lead AI Engineer (Inference Optimization, FM hosting, AI Platform)](https://www.indeed.com/viewjob?jk=420fded62c410122) — Capital One
+### [Senior Software Engineer, Ads - Core Infra - USDS](https://www.indeed.com/viewjob?jk=3c78c349bd638492) — TikTok
 - 📍 **Location:** San Jose, CA, US
 - 🕒 **Posted:** 2026-06-03
 
-### [AI Offensive Security Engineer](https://www.indeed.com/viewjob?jk=84908ad8b3d1a021) — C-Serv
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Senior Software Engineer, Scientific System of Record](https://www.indeed.com/viewjob?jk=0a083efe79b22465) — Lila Sciences
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Senior Software Engineer, ML Platform | Parafin](https://www.indeed.com/viewjob?jk=4377663fa2ea1245) — carnaby fox
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Data Engineering Intern, AI & Analytics - Fall 2026](https://www.indeed.com/viewjob?jk=a513f2c8a0824ceb) — Rivian and Volkswagen Group Technologies
-- 📍 **Location:** Palo Alto, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [ML Engineer, GenAI Ads, Search Personalization](https://www.indeed.com/viewjob?jk=48be1b50b789c4e4) — Google
-- 📍 **Location:** Mountain View, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Software Engineer 2, AI Builder](https://www.indeed.com/viewjob?jk=b3e7a00621bdbbb1) — Intuit
-- 📍 **Location:** Mountain View, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Senior AI Research Engineer](https://www.indeed.com/viewjob?jk=5de1eec13a14f478) — Adyen
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Machine Learning Engineer, Brand Ads](https://www.indeed.com/viewjob?jk=a5d9009846e34f4c) — TikTok
+### [Software Engineer, Machine Learning Infrastructure - USDS](https://www.indeed.com/viewjob?jk=9fac03aad77528fa) — TikTok
 - 📍 **Location:** San Jose, CA, US
 - 🕒 **Posted:** 2026-06-03
 
-### [Senior Applied AI and AI Infrastructure Engineer - Chip Design and DFX](https://www.indeed.com/viewjob?jk=1038f6bd857f5c89) — NVIDIA
+### [Senior Platform Engineer - USDS](https://www.indeed.com/viewjob?jk=92a12b09835e370c) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Machine Learning Engineer - Ads Pangle - USDS](https://www.indeed.com/viewjob?jk=bdecaa95f9489794) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Machine Learning Engineer, E-Commerce - USDS](https://www.indeed.com/viewjob?jk=17b36bf6f2434c07) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Site Reliability Engineer, Platform Responsibility - USDS](https://www.indeed.com/viewjob?jk=05b6a2d800a18a76) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Machine Learning Engineer, Emerging Product - USDS](https://www.indeed.com/viewjob?jk=1690a344af471ac3) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Software Engineer, Search - USDS](https://www.indeed.com/viewjob?jk=668768cdd6d63da4) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Software Engineer, Ads Infra - Big Data - USDS](https://www.indeed.com/viewjob?jk=4a4bc324865f2023) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Machine Learning Engineer, E-Commerce Risk Control - USDS](https://www.indeed.com/viewjob?jk=702be49616e861c3) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Machine Learning Engineer, Content and Service Ads - USDS](https://www.indeed.com/viewjob?jk=a43636342152f2d2) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Machine Learning Engineer, AI Search - USDS](https://www.indeed.com/viewjob?jk=b577906eefbf65c4) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Machine Learning Engineer, Recommendations - USDS E-commerce Alliance](https://www.indeed.com/viewjob?jk=b258b30267837c5b) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Software Engineer, E-commerce - USDS](https://www.indeed.com/viewjob?jk=1dd028a7afa729be) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Machine Learning Engineer, Recommendations - USDS](https://www.indeed.com/viewjob?jk=653c799e523216f9) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Software Engineer, Ads ML Infrastructure - USDS](https://www.indeed.com/viewjob?jk=9af6fa80b4c16d7d) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Machine Learning Engineer, E-Commerce Risk Control - USDS](https://www.indeed.com/viewjob?jk=d7c6be6dcf4fc636) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Software Engineer, AI Infrastructure - USDS](https://www.indeed.com/viewjob?jk=7a3aa9de9d956cc8) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Machine Learning Engineer - Ads Pangle - USDS](https://www.indeed.com/viewjob?jk=e9cc2f8102ab5766) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Software Engineer, Ads Pangle - USDS](https://www.indeed.com/viewjob?jk=32738eeea73beb02) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Software Engineer, Recommendations - USDS](https://www.indeed.com/viewjob?jk=2c70c8003df3d9b3) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [AI Engineer, TikTok Risk & Integrity - USDS](https://www.indeed.com/viewjob?jk=a9e910e2e9adfa42) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Machine Learning Engineer, TikTok Risk & Integrity - USDS](https://www.indeed.com/viewjob?jk=1bf3a60c755c7eb5) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Machine Learning Engineer, Search - USDS](https://www.indeed.com/viewjob?jk=823b5444548540c6) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Software Engineer, Ads Pangle - USDS](https://www.indeed.com/viewjob?jk=5d4444350313260f) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Staff Software Engineer, Generative AI](https://www.indeed.com/viewjob?jk=9acb198320c3ea36) — Google
+- 📍 **Location:** Sunnyvale, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Software Engineer III, AI/ML Machine Learning, Core](https://www.indeed.com/viewjob?jk=ae08d5e43339bf1a) — Google
+- 📍 **Location:** Mountain View, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Staff Software Engineer, Agentic Data Tooling, DeepMind](https://www.indeed.com/viewjob?jk=cc87dfb187fcbd9e) — DeepMind
+- 📍 **Location:** Mountain View, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Software Engineering Manager, Robotics Neural Reconstruction and Real2Sim Applications](https://www.indeed.com/viewjob?jk=4b08f6a4733d38bb) — NVIDIA
 - 📍 **Location:** Santa Clara, CA, US
 - 🕒 **Posted:** 2026-06-03
 
-### [Machine Learning Engineer, Multi-Modal Perception](https://www.indeed.com/viewjob?jk=8869904523e3eae6) — Waymo
-- 📍 **Location:** Mountain View, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Perception Machine Learning Engineer](https://www.indeed.com/viewjob?jk=5dec88a9b86542b6) — Waymo
-- 📍 **Location:** Mountain View, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Software Engineer I - AI/ML, AWS Neuron Distributed Training](https://www.indeed.com/viewjob?jk=5858ce3d620f6baf) — Amazon Web Services
-- 📍 **Location:** Cupertino, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=c53988263f9a6ef2) — Adobe
-- 📍 **Location:** San Jose, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Software Engineer - AI/ML, AWS Neuron Distributed Training - Multimodal](https://www.indeed.com/viewjob?jk=8c8594be70a8e05e) — Amazon Web Services
-- 📍 **Location:** Cupertino, CA, US
-- 🕒 **Posted:** 2026-06-01
-
-### [Software Engineer II, Search Science Data Infra](https://www.indeed.com/viewjob?jk=4b3db46b31baf1ca) — Amazon.com
-- 📍 **Location:** Palo Alto, CA, US
-- 🕒 **Posted:** 2026-04-13
-
-### [Software Engineer II, Search Science Data Infra](https://www.indeed.com/viewjob?jk=0e5e70e669732607) — Amazon.com
-- 📍 **Location:** Palo Alto, CA, US
-- 🕒 **Posted:** 2026-03-24
-
-### [Data Science Practitioner - 6321090](https://www.indeed.com/viewjob?jk=c85f3e39739dc7b6) — Accenture
-- 📍 **Location:** Walnut Creek, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Senior Staff Data Scientist, Expert Experiences](https://www.indeed.com/viewjob?jk=21bc03f56815b2ab) — Intuit
-- 📍 **Location:** Mountain View, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Senior Staff Research Data Scientist, DevIE](https://www.indeed.com/viewjob?jk=1c165237c8755e91) — Google
-- 📍 **Location:** Sunnyvale, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Data Science Manager (Tapestry)](https://www.indeed.com/viewjob?jk=94f07b294ea34eec) — X Development
-- 📍 **Location:** Mountain View, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Applied Scientist, AWS Automated Reasoning](https://www.indeed.com/viewjob?jk=9ccec46fe507b205) — Amazon Web Services
-- 📍 **Location:** Santa Clara, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Applied Scientist II, Amazon, Amazon](https://www.indeed.com/viewjob?jk=e569f0a26d4d3679) — Amazon.com
-- 📍 **Location:** Palo Alto, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Applied Scientist, Amazon AWS Agentic AI, AWS AI Fundamental Research](https://www.indeed.com/viewjob?jk=caa2c112383bd633) — Amazon Web Services
-- 📍 **Location:** Santa Clara, CA, US
-- 🕒 **Posted:** 2026-04-23
-
-### [Sr. Software Engineer](https://www.indeed.com/viewjob?jk=3cd3d3c07770a8c4) — Adobe
-- 📍 **Location:** San Jose, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Security Platform Engineer](https://www.indeed.com/viewjob?jk=98ca35f8069b7504) — Pallet
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Senior Software Engineer, Product Foundations](https://www.indeed.com/viewjob?jk=06d61145547b5e66) — Checkr
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Information Technology Specialist (APPSW), AI Software Engineer, GS-2210-15, FPL 15 (Direct Hire)](https://www.indeed.com/viewjob?jk=30c66c0825569bac) — Unknown
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Software Engineering Intern, Connected Systems - Fall 2026](https://www.indeed.com/viewjob?jk=d588c0546e9e7a6b) — Rivian and Volkswagen Group Technologies
+### [Distinguished Machine Learning Engineer](https://www.indeed.com/viewjob?jk=8aba53f094844bbe) — GEICO
 - 📍 **Location:** Palo Alto, CA, US
 - 🕒 **Posted:** 2026-06-03
 
-### [Staff IT Systems Engineer](https://www.indeed.com/viewjob?jk=787ec94fbdddbc91) — Palo Alto Networks
-- 📍 **Location:** Santa Clara, CA, US
+### [Staff Systems Engineer, Driving Behaviors](https://www.indeed.com/viewjob?jk=6b87f1c115dd0a22) — Waymo
+- 📍 **Location:** Mountain View, CA, US
 - 🕒 **Posted:** 2026-06-03
 
-### [Senior Software Engineer, Backend - AI Platform](https://www.indeed.com/viewjob?jk=dfaf1b597c864350) — Rippling
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Staff Embedded Software Engineer, Audio/Firmware](https://www.indeed.com/viewjob?jk=27ebfc6b3bb75964) — Google
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Eye Tracking Systems Staff Software Engineer](https://www.indeed.com/viewjob?jk=de245979d2926c06) — Google
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Eye Tracking Systems Staff Software Engineer](https://www.indeed.com/viewjob?jk=28bb6c004d1c61e8) — Google
-- 📍 **Location:** San Jose, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Senior Security Engineer, Cloud CISO](https://www.indeed.com/viewjob?jk=06c679ce0506ef62) — Google
-- 📍 **Location:** Sunnyvale, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Staff Embedded Software Engineer, Audio/Firmware](https://www.indeed.com/viewjob?jk=6b2fc1b80796c78f) — Google
-- 📍 **Location:** San Jose, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Senior Software Developer, Engineering Productivity Platforms and Devices](https://www.indeed.com/viewjob?jk=7df9dde4bbdea1e8) — Google
-- 📍 **Location:** San Jose, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Senior Software Engineer, Backend - Platform](https://www.indeed.com/viewjob?jk=a3ba3e586354f90a) — Rippling
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Staff Software Engineer - Events Platform](https://www.indeed.com/viewjob?jk=a9dfba848afbd15b) — Rippling
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Software Engineer, Distributed Systems](https://www.indeed.com/viewjob?jk=44c7456fcfa109d7) — Discord
-- 📍 **Location:** San Francisco Bay Area, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Staff, Software Engineer](https://www.indeed.com/viewjob?jk=860c3c4ef692d658) — Walmart
-- 📍 **Location:** Sunnyvale, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Senior Software Engineer - SRE](https://www.indeed.com/viewjob?jk=1c8978140eea4365) — Socure
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Embedded Systems Engineer](https://www.indeed.com/viewjob?jk=188d0b522c0219c4) — longshot
-- 📍 **Location:** Alameda, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Senior Software Engineer - Lifecycle Management](https://www.indeed.com/viewjob?jk=4de52ae4307c5eb4) — AbbVie
-- 📍 **Location:** Pleasanton, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Software Engineering Intern, Applications - Fall 2026](https://www.indeed.com/viewjob?jk=ae887c686d47fecf) — Rivian and Volkswagen Group Technologies
+### [Software Engineer, Computer Vision and Deep Learning](https://www.indeed.com/viewjob?jk=d1b5676a03e14be7) — Mashgin
 - 📍 **Location:** Palo Alto, CA, US
 - 🕒 **Posted:** 2026-06-03
 
-### [Senior Software Engineer and System/Application Administrator](https://www.indeed.com/viewjob?jk=ebf1fcd900e02cb3) — Lanteris Space Systems Intuitive Machines Company
-- 📍 **Location:** Mountain View, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Software Engineer, Android Platform, Google Beam](https://www.indeed.com/viewjob?jk=57de56b6a2b2190f) — Google
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Software Engineer, Android Platform, Google Beam](https://www.indeed.com/viewjob?jk=1b7e758696c91297) — Google
-- 📍 **Location:** Mountain View, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Staff Software Engineer, Google Cloud Business Platforms](https://www.indeed.com/viewjob?jk=059b4e164bc5f892) — Google
-- 📍 **Location:** Sunnyvale, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [SSD Storage Software Engineering Manager](https://www.indeed.com/viewjob?jk=7c638bfbd77105c7) — Google
-- 📍 **Location:** Sunnyvale, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Staff Software Engineer, XR Graphics (iOS/Metal)](https://www.indeed.com/viewjob?jk=dc78bdc3fbe1f58a) — Google
+### [Staff Software Engineer - AI](https://www.indeed.com/viewjob?jk=419830db4374b2ba) — Cloudera
 - 📍 **Location:** San Jose, CA, US
 - 🕒 **Posted:** 2026-06-03
 
-### [Senior Software Engineer, Embedded Systems/Firmware, XR](https://www.indeed.com/viewjob?jk=7c9c61a64337bd6d) — Google
+### [(USA) Staff, Data Scientist](https://www.indeed.com/viewjob?jk=bb958641985a9a96) — Walmart
+- 📍 **Location:** Sunnyvale, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=fe926197b91a493b) — Velo3D
+- 📍 **Location:** Fremont, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [AI/Machine Learning Engineer - Python - Loops](https://www.indeed.com/viewjob?jk=2ac138adc8a63a27) — IFS
+- 📍 **Location:** Palo Alto, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Data Scientist, Payment Risk - USDS](https://www.indeed.com/viewjob?jk=c4f08302f5a1c66e) — TikTok
 - 📍 **Location:** San Jose, CA, US
 - 🕒 **Posted:** 2026-06-03
 
-### [Senior Embedded Software Engineer, Emerging Devices Software](https://www.indeed.com/viewjob?jk=940d77c0b1ce21bd) — Amazon.com
-- 📍 **Location:** Sunnyvale, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Full-Stack Engineer (Graphics/3D Viewer/Editor)](https://www.indeed.com/viewjob?jk=83f671ebe4bbb532) — Augrade Inc
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=9a4195e65bd66358) — CHAOS Industries
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=4187dfa0da86c294) — Index Engines Inc.
+### [Data Science Manager, Core Business - USDS](https://www.indeed.com/viewjob?jk=98449f466518d2f9) — TikTok
 - 📍 **Location:** San Jose, CA, US
-- 🕒 **Posted:** 2025-11-10
+- 🕒 **Posted:** 2026-06-03
 
-### [Software Engineer III - Wallet - Authentication](https://www.indeed.com/viewjob?jk=cec83fd660a193fd) — ID.me
+### [Senior Data Scientist, Trust & Safety - USDS](https://www.indeed.com/viewjob?jk=4cef3623d4e91b6a) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Data Scientist, Ecommerce - USDS](https://www.indeed.com/viewjob?jk=07192e0a2509b679) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Data Scientist, E-commerce - USDS](https://www.indeed.com/viewjob?jk=98a7f96cb0c01c06) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Data Scientist, Product Analytics - USDS](https://www.indeed.com/viewjob?jk=5bfa5a0c11648a7b) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Data Scientist, Payment Analytics - USDS](https://www.indeed.com/viewjob?jk=d54a0e3a0e1e690d) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Data Scientist, Platform Responsibility - USDS](https://www.indeed.com/viewjob?jk=1fd41e4170a53ccf) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Data Science Manager, Risk Control and Security, TikTok Shop - USDS](https://www.indeed.com/viewjob?jk=74ea877a726bc33e) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Data Scientist, CapCut - USDS](https://www.indeed.com/viewjob?jk=55fd1982561429b6) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Data Scientist, E-commerce - USDS](https://www.indeed.com/viewjob?jk=70ab8f995ac7194f) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Data Scientist - Agentic AI Systems - Loops](https://www.indeed.com/viewjob?jk=fc54332496bc339e) — IFS
+- 📍 **Location:** Palo Alto, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Endpoint Security Software Engineer, C++/PC Windows - USDS](https://www.indeed.com/viewjob?jk=9cffd94b6e708523) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Tech Lead, AI Infra Site Reliability Engineer - USDS](https://www.indeed.com/viewjob?jk=37f2121033813563) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Software Engineer, Data Privacy & Infrastructure - USDS](https://www.indeed.com/viewjob?jk=625f5552fcee590f) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Full Stack Software Engineer, Security & Information Technology - USDS](https://www.indeed.com/viewjob?jk=b8131bdacb963c45) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Software Engineer, AI Agent and Automation - USDS](https://www.indeed.com/viewjob?jk=a66175b46d0eb2c2) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Software Engineer, Data Foundation – USDS](https://www.indeed.com/viewjob?jk=ecd1182f70ed140d) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Software Engineer, iOS - Securing Engineering, USDS](https://www.indeed.com/viewjob?jk=a48f3f2e5e28abb8) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Software Engineer, AI Data Application – USDS](https://www.indeed.com/viewjob?jk=14e6d30c2d08bd2e) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Software Engineer, AI Agent and Automation - USDS](https://www.indeed.com/viewjob?jk=222ac28025ceefae) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Site Reliability Engineer, Platform Responsibility - USDS](https://www.indeed.com/viewjob?jk=e3c69b59061a7867) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Software Engineer, ML Infrastructure - USDS](https://www.indeed.com/viewjob?jk=3f4385cb4ce66e8f) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Engineering Tech Lead, Data Platform – USDS](https://www.indeed.com/viewjob?jk=9d2933e11c9ed95b) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Software Engineer - Hosted Model Infrastructure](https://www.indeed.com/viewjob?jk=8e62e15dfdee2d4a) — Palantir Technologies
+- 📍 **Location:** Palo Alto, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Staff + Sr. Software Engineer, Cloud Inference Launch Engineering](https://www.indeed.com/viewjob?jk=5f5616089f6c9e21) — Anthropic
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Staff + Sr. Software Engineer, Cloud Inference](https://www.indeed.com/viewjob?jk=4712a10c5c04ed24) — Anthropic
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Relocate to SF: Software Engineer (AI Agents)](https://www.indeed.com/viewjob?jk=465b2040e31d3a12) — Pylon
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Relocate to SF: Software Engineer (AI Infra)](https://www.indeed.com/viewjob?jk=a1aebea1d387263e) — Pylon
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Software engineer, generative AI](https://www.indeed.com/viewjob?jk=b6f63f571f2aa7d9) — Writer
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Site Reliability Engineer - Video Platform - USDS](https://www.indeed.com/viewjob?jk=4b8ebc4ace153dad) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Site Reliability Engineer - Video Platform - USDS](https://www.indeed.com/viewjob?jk=a4896151ca45a529) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Software Engineer, Emerging Product - USDS](https://www.indeed.com/viewjob?jk=d88178a14abe31e8) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Software Engineer, Capacity & Optimization - USDS](https://www.indeed.com/viewjob?jk=a4fc3021c7ce528c) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Software Engineer, Corporate Information Systems - USDS](https://www.indeed.com/viewjob?jk=5afd80f5da05abb9) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=c429f06f0614bc27) — Delta Dental Ins.
+- 📍 **Location:** Oakland, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=9c0b55a969aa9680) — Tata Consultancy Services (TCS)
 - 📍 **Location:** Mountain View, CA, US
 - 🕒 **Posted:** 2026-06-03
 
-### [Software Engineer III, Infrastructure, Ads Safety](https://www.indeed.com/viewjob?jk=26c7588dbf3c06ac) — Google
+### [Relocate to SF: Software Engineer, Security](https://www.indeed.com/viewjob?jk=f61f25116d9a430d) — Pylon
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Software Engineering Intern](https://www.indeed.com/viewjob?jk=a39a65c55b0007f7) — BillionToOne
+- 📍 **Location:** Menlo Park, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Full Stack Software Developer](https://www.indeed.com/viewjob?jk=fb051dba0b6f16cd) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Principal fullstack engineer - PMTS](https://www.indeed.com/viewjob?jk=6de6cb6fd1f5db04) — Salesforce
+- 📍 **Location:** Redwood City, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Data Engineering Manager, Data BP – USDS](https://www.indeed.com/viewjob?jk=d0def55922feb025) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Site Reliability Engineer, Cloud Infrastructure - USDS](https://www.indeed.com/viewjob?jk=77343cbb78f82fbe) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Site Reliability Engineer, Capacity & Optimization - USDS](https://www.indeed.com/viewjob?jk=e897eb7c28c54e41) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Data Engineer, Data Engineering and Analytics - USDS](https://www.indeed.com/viewjob?jk=5b155ae7711afa6e) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Site Reliability Engineer, Product - USDS](https://www.indeed.com/viewjob?jk=20c37a3ffa42d5fd) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Site Reliability Engineer, Tech Infra - USDS](https://www.indeed.com/viewjob?jk=b1d4117e0f3b060c) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Site Reliability Engineer, Product - USDS](https://www.indeed.com/viewjob?jk=6ccedaabe57e80af) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Site Reliability Engineer, Compute - USDS](https://www.indeed.com/viewjob?jk=9d236e8ceb123dfd) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Site Reliability Engineer, Cloud Infrastructure - USDS](https://www.indeed.com/viewjob?jk=a8e9d4f095c898d3) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Site Reliability Engineer, Network and Traffic - USDS](https://www.indeed.com/viewjob?jk=e70bd45e5a0c98f9) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Site Reliability Engineer - USDS](https://www.indeed.com/viewjob?jk=c8220bb434e713cc) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Site Reliability Engineer, Reliability Team - USDS](https://www.indeed.com/viewjob?jk=9ef07735f2b53897) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Staff Engineer, SRE/DevOps, Product Software](https://www.indeed.com/viewjob?jk=7cb692bf4feb0e89) — Equinix
+- 📍 **Location:** Redwood City, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Senior Site Reliability Engineer, Network and Traffic - USDS](https://www.indeed.com/viewjob?jk=a70850f77408ad4a) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Data Engineer - Java - Loops](https://www.indeed.com/viewjob?jk=17dfad3edb0c9286) — IFS
+- 📍 **Location:** Palo Alto, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Tech Lead Manager Data Platform – USDS](https://www.indeed.com/viewjob?jk=d40de21c9af179bd) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Staff Systems Engineer, Driving Behaviors](https://www.indeed.com/viewjob?jk=c9c05bc65b90c756) — Waymo
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-06-03
+
+### [Staff Systems Engineer, Driving Behaviors](https://www.indeed.com/viewjob?jk=3922f0c9a407e5ee) — Waymo
 - 📍 **Location:** Mountain View, CA, US
 - 🕒 **Posted:** 2026-06-03
-
-### [Software Engineer, Platform](https://www.indeed.com/viewjob?jk=fe71abb60ec6b716) — Lassie
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Software Engineer, AI/ML, Chronicle Security](https://www.indeed.com/viewjob?jk=d6e861b94fb6117c) — Google
-- 📍 **Location:** Sunnyvale, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Software Engineering Manager II, Google Distributed Cloud](https://www.indeed.com/viewjob?jk=c20404e76bc84fae) — Google
-- 📍 **Location:** Sunnyvale, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Senior Security Engineer, Insider and Technology Risk](https://www.indeed.com/viewjob?jk=603c2b90cef376ff) — Google
-- 📍 **Location:** Sunnyvale, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Software Engineer, Security](https://www.indeed.com/viewjob?jk=82e11702014d45d9) — Lassie
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-03
-
-### [Senior Staff Software Engineer, Identity Infrastructure Engineering](https://www.indeed.com/viewjob?jk=c01264b316419553) — OpenAI
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Data Engineer I IS - Remote](https://www.indeed.com/viewjob?jk=bb53c29e352fcf59) — Providence
-- 📍 **Location:** Napa, CA, US
-- 🕒 **Posted:** 2026-06-02
