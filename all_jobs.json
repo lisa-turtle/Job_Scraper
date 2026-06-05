@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-06-05 21:12 UTC",
+  "updated_at": "2026-06-05 21:17 UTC",
   "jobs": [
+    {
+      "company": "SoFi",
+      "title": "Senior Software Engineer, Coach",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424927039/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T21:17:31Z"
+    },
     {
       "company": "NVIDIA",
       "title": "Software Engineering Intern, Mapping Autonomous Vehicles - Fall 2026",

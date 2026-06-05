@@ -1,53 +1,13 @@
 {
-  "scraped_at": "2026-06-05 21:10 UTC",
-  "total": 17,
-  "new_count": 9,
+  "scraped_at": "2026-06-05 21:17 UTC",
+  "total": 12,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "Jack & Jill",
-      "title": "Machine Learning Engineer at YC-backed AI startup for clean energy discovery",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424618506/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jack & Jill",
-      "title": "Founding Machine Learning Engineer ($180K \u2013 $220K + Equity) at $60M Series B AI-native insurance platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424598686/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PDSSOFT INC.",
-      "title": "Agentic AI/ AI Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421174042/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google",
-      "title": "Applied AI Staff Software Engineer, Looker",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424606485/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Heartflow",
-      "title": "Senior Software Engineer, Agentic AI",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424605537/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "DeepRoute.ai",
-      "title": "Research Scientist, Reinforcement Learning",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424799088/",
+      "company": "RandomTrees",
+      "title": "GCP Data Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4421196278/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
@@ -60,10 +20,26 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "RandomTrees",
-      "title": "GCP Data Engineer",
+      "company": "Gusto",
+      "title": "Staff Software Engineer, AI Developer Tools",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4421196278/",
+      "url": "https://www.linkedin.com/jobs/view/4424900966/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SoFi",
+      "title": "Senior Software Engineer, Coach",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424927039/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "AI Fund",
+      "title": "Senior Software Engineer-Founding Engineer (Ayama)",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4404223972/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
@@ -92,14 +68,6 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Day One Partners",
-      "title": "Senior Backend Engineer | Series B AI Startup",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4382472850/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "AMD",
       "title": "Senior DevOps/SRE Engineer",
       "location": "San Jose, CA",
@@ -108,18 +76,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Gusto",
-      "title": "Staff Software Engineer, AI Developer Tools",
+      "company": "Day One Partners",
+      "title": "Senior Backend Engineer | Series B AI Startup",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4424900966/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AI Fund",
-      "title": "Senior Software Engineer-Founding Engineer (Ayama)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4404223972/",
+      "url": "https://www.linkedin.com/jobs/view/4382472850/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
@@ -142,74 +102,10 @@
   ],
   "new_jobs": [
     {
-      "company": "Watershed",
-      "title": "Software engineer, developer tooling",
+      "company": "SoFi",
+      "title": "Senior Software Engineer, Coach",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424612863/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "RandomTrees",
-      "title": "GCP Data Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4421196278/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Weave Bio",
-      "title": "Staff Backend Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424903715/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Weave Bio",
-      "title": "Senior Backend Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424784854/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Decagon",
-      "title": "Senior Platform Engineer, Security",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424900706/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AMD",
-      "title": "Senior DevOps/SRE Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421174432/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Gusto",
-      "title": "Staff Software Engineer, AI Developer Tools",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4424900966/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Decagon",
-      "title": "Platform Engineer, Security",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424783897/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Arcus Biosciences",
-      "title": "Bioinformatics Engineer",
-      "location": "Hayward, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424601882/",
+      "url": "https://www.linkedin.com/jobs/view/4424927039/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     }
