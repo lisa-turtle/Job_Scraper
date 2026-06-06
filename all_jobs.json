@@ -1,6 +1,177 @@
 {
-  "updated_at": "2026-06-06 15:17 UTC",
+  "updated_at": "2026-06-06 16:17 UTC",
   "jobs": [
+    {
+      "company": "Twitch",
+      "title": "Software Engineer I, Ad Supply Experiences",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405716509/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T16:17:26Z"
+    },
+    {
+      "company": "Vercel",
+      "title": "Software Engineer, Dashboard",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4375440526/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T16:17:26Z"
+    },
+    {
+      "company": "Practovate",
+      "title": "Machine Learning Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424671660/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T16:17:26Z"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Principal Machine Learning Engineer, Ads Delivery",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4304382481/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T16:17:26Z"
+    },
+    {
+      "company": "Harvey",
+      "title": "Senior Software Engineer, AI Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4383272787/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T16:17:26Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Developer Advocate \u2013 Reinforcement Learning",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415138367/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T16:17:26Z"
+    },
+    {
+      "company": "Sonatus",
+      "title": "Senior AI Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4393804363/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T16:17:26Z"
+    },
+    {
+      "company": "Whatnot",
+      "title": "Staff Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4383250191/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T16:17:26Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal IT Software Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412086913/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T16:17:26Z"
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Frontend",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4344654164/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T16:17:26Z"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Staff Software Engineer, Ads Measurement",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406804377/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T16:17:26Z"
+    },
+    {
+      "company": "Ridgeline",
+      "title": "Senior Staff Software Engineer, Analytics & Accounting",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4372675640/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T16:17:26Z"
+    },
+    {
+      "company": "Ridgeline",
+      "title": "Senior Cloud Security Engineer",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4352143128/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T16:17:26Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Site Reliability Engineer (DNS Security)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4403295543/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T16:17:26Z"
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Sr GPU Infrastructure Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4345024481/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T16:17:26Z"
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Senior Security Engineer, PKI & Secrets",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404135060/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T16:17:26Z"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Staff+ Application Security Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4330468195/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T16:17:26Z"
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Security Engineering Manager, Platform Security",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4403782690/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T16:17:26Z"
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Security Engineering Manager, Platform Security",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4403781681/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T16:17:26Z"
+    },
     {
       "company": "Figma",
       "title": "Data Scientist",
