@@ -1,6 +1,159 @@
 {
-  "updated_at": "2026-06-06 01:17 UTC",
+  "updated_at": "2026-06-06 01:32 UTC",
   "jobs": [
+    {
+      "company": "Adobe",
+      "title": "Forward Deployed AI Engineer \u2014 Lifecycle Marketing",
+      "location": "San Jose, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=c8e152ed77c05b55",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-06T01:32:18Z"
+    },
+    {
+      "company": "Adobe",
+      "title": "Forward-Deployed AI Engineer - Marketing Analytics & Data Science",
+      "location": "San Jose, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=3718c0bf3b5d3469",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-06T01:32:18Z"
+    },
+    {
+      "company": "Adobe",
+      "title": "Forward-Deployed AI Engineer",
+      "location": "San Jose, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=0fd2c95500f560e6",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-06T01:32:18Z"
+    },
+    {
+      "company": "PayJoy",
+      "title": "Senior Software Engineer - Android Systems & Security",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=dc05514216feaf38",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-06T01:32:18Z"
+    },
+    {
+      "company": "GSK",
+      "title": "Senior Gen AI Platform Engineer",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=cb8751115a44c1e6",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-06T01:32:18Z"
+    },
+    {
+      "company": "Amazon Web Services",
+      "title": "Senior Software Engineer, AWS Commercial Application Services",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=5fa2328da963d52c",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed",
+      "first_seen": "2026-06-06T01:32:18Z"
+    },
+    {
+      "company": "Amazon.com",
+      "title": "Applied Scientist, Prime Video - Generative AI",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=edeb7a2be222a008",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-06T01:32:18Z"
+    },
+    {
+      "company": "Amazon Web Services",
+      "title": "Principal Applied Scientist, AWS Agentic AI",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=bb959ed88df7c979",
+      "date_posted": "2026-05-29",
+      "ats": "Indeed",
+      "first_seen": "2026-06-06T01:32:18Z"
+    },
+    {
+      "company": "Loft Orbital Solutions",
+      "title": "Senior Product Systems Engineer",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=1f99dc3f8b71f8f5",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-06T01:32:18Z"
+    },
+    {
+      "company": "imgIX",
+      "title": "Senior Full Stack Software Engineer",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=47a1f424451beb52",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-06T01:32:18Z"
+    },
+    {
+      "company": "Autodesk",
+      "title": "Senior Search Data and Systems Engineer, Organic and Agentic Search",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=a9c3f12eab1b8545",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-06T01:32:18Z"
+    },
+    {
+      "company": "University of California - San Francisco",
+      "title": "HPC Systems Engineer",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=2a8e490d24be9ac5",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-06T01:32:18Z"
+    },
+    {
+      "company": "Redwood Credit Union",
+      "title": "Cloud Data Engineer",
+      "location": "Napa, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=6bfc308cf7c891ef",
+      "date_posted": "2026-01-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-06T01:32:18Z"
+    },
+    {
+      "company": "Kawasaki Robotics USA Inc",
+      "title": "SJ Robotics Software Engineer",
+      "location": "San Jose, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=d8835dcce6702ca9",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-06T01:32:18Z"
+    },
+    {
+      "company": "Securitas",
+      "title": "Computer Systems Engineer \u2013 Physical Security Systems",
+      "location": "San Jose, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=cfaa6e13a8529e6b",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-06T01:32:18Z"
+    },
+    {
+      "company": "JPMorganChase",
+      "title": "Lead Site Reliability Engineering - Network",
+      "location": "Palo Alto, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=3f487186d767650c",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-06T01:32:18Z"
+    },
+    {
+      "company": "Arcus Biosciences",
+      "title": "Bioinformatics Engineer",
+      "location": "Hayward, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=fd4a1de739307e64",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-06T01:32:18Z"
+    },
     {
       "company": "GSK",
       "title": "Senior Gen AI Platform Engineer",
