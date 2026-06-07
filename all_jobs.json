@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-06-07 19:17 UTC",
+  "updated_at": "2026-06-07 20:17 UTC",
   "jobs": [
+    {
+      "company": "RS Global Services",
+      "title": "Founding AI Engineer - On-site San Francisco - $175K - $225K",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425047376/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T20:17:23Z"
+    },
+    {
+      "company": "Aurelius Systems",
+      "title": "Sr. Robotics Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425411191/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T20:17:23Z"
+    },
+    {
+      "company": "Mochi Health",
+      "title": "Senior Fullstack Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425406328/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T20:17:23Z"
+    },
     {
       "company": "Tavus",
       "title": "Infrastructure Engineer",

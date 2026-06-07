@@ -1,55 +1,71 @@
 {
-  "scraped_at": "2026-06-07 19:17 UTC",
+  "scraped_at": "2026-06-07 20:17 UTC",
   "total": 4,
-  "new_count": 2,
+  "new_count": 4,
   "jobs": [
     {
-      "company": "Tavus",
-      "title": "Infrastructure Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4425026409/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Research Engineer/Scientist (all levels), Efficient Models",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425034376/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Galileo Financial Technologies",
-      "title": "Staff Software Engineer",
+      "company": "RS Global Services",
+      "title": "Founding AI Engineer - On-site San Francisco - $175K - $225K",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4374651593/",
+      "url": "https://www.linkedin.com/jobs/view/4425047376/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     },
     {
-      "company": "Okta",
-      "title": "Senior Software Engineer, AI Agentic Experience (Auth0)",
+      "company": "Jobs via Dice",
+      "title": "AI Security Software Engineer (Starshield)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424462371/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Aurelius Systems",
+      "title": "Sr. Robotics Software Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4383152998/",
+      "url": "https://www.linkedin.com/jobs/view/4425411191/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mochi Health",
+      "title": "Senior Fullstack Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425406328/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Tavus",
-      "title": "Infrastructure Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4425026409/",
+      "company": "RS Global Services",
+      "title": "Founding AI Engineer - On-site San Francisco - $175K - $225K",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425047376/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     },
     {
-      "company": "TikTok",
-      "title": "Research Engineer/Scientist (all levels), Efficient Models",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425034376/",
+      "company": "Jobs via Dice",
+      "title": "AI Security Software Engineer (Starshield)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424462371/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Aurelius Systems",
+      "title": "Sr. Robotics Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425411191/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mochi Health",
+      "title": "Senior Fullstack Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425406328/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     }
