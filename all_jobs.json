@@ -1,6 +1,159 @@
 {
-  "updated_at": "2026-06-07 16:55 UTC",
+  "updated_at": "2026-06-07 17:17 UTC",
   "jobs": [
+    {
+      "company": "Glean",
+      "title": "Software Engineer, AI Infrastructure",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4283317485/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T17:17:27Z"
+    },
+    {
+      "company": "Etched",
+      "title": "Software Engineer \u2013 Performance Profiling",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385389611/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T17:17:27Z"
+    },
+    {
+      "company": "Onehouse",
+      "title": "Software Engineer, Distributed Data Systems (US)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/3982869620/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T17:17:27Z"
+    },
+    {
+      "company": "Etched",
+      "title": "Core Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385381877/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T17:17:27Z"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Machine Learning Engineer, Speech LLM Training",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425035205/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T17:17:27Z"
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Sr. Software Engineer - Perf and Benchmarking",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4344835714/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T17:17:27Z"
+    },
+    {
+      "company": "Uber",
+      "title": "Staff Software Engineer, Evaluation & Simulation - AV Labs",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425180893/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T17:17:27Z"
+    },
+    {
+      "company": "Snorkel AI",
+      "title": "Senior Software Engineer - Expert Contributor Lifecycle",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4397562871/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T17:17:27Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr Staff Software Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4356201553/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T17:17:27Z"
+    },
+    {
+      "company": "Snorkel AI",
+      "title": "Applied AI Engineer - AI Solutions",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4340805191/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T17:17:27Z"
+    },
+    {
+      "company": "SentiLink",
+      "title": "Staff Applied ML Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385320061/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T17:17:27Z"
+    },
+    {
+      "company": "Protegrity",
+      "title": "Senior GenAI Backend Software Engineer 773",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4339018465/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T17:17:27Z"
+    },
+    {
+      "company": "Harvey",
+      "title": "Staff Software Engineer, Backend Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4344971308/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T17:17:27Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal Software Engineer - Back End (Wildfire)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404110866/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T17:17:27Z"
+    },
+    {
+      "company": "Snorkel AI",
+      "title": "Senior Software Engineer - Expert Contributor Lifecycle",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4397575212/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T17:17:27Z"
+    },
+    {
+      "company": "Speak",
+      "title": "Backend Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/3978048690/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T17:17:27Z"
+    },
+    {
+      "company": "Snorkel AI",
+      "title": "Applied AI Engineer - AI Solutions",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4340625628/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T17:17:27Z"
+    },
     {
       "company": "Apple",
       "title": "Sr Machine Learning Engineer, Proactive",
