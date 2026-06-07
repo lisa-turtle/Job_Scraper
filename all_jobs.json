@@ -1,6 +1,204 @@
 {
-  "updated_at": "2026-06-07 15:17 UTC",
+  "updated_at": "2026-06-07 16:17 UTC",
   "jobs": [
+    {
+      "company": "Character.AI",
+      "title": "Software Engineer, Applied ML (Discovery, Recommendation & Search)",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4344683557/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "Grindr",
+      "title": "Staff ML Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4205333962/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "Cadence",
+      "title": "Senior AI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4384662944/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Security Software Engineer, Detection & Response Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4366434219/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "Workato",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4345475425/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "SentiLink",
+      "title": "Senior Applied ML Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385304565/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Sr. Data Scientist, Gen AI Automation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4397406092/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "Hightouch",
+      "title": "Forward Deployed Marketing Data Scientist",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4344193243/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "Grindr",
+      "title": "Staff Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4229134421/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "Kikoff",
+      "title": "Senior Marketing Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385302337/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "Peregrine",
+      "title": "Staff Software Engineer, Data Infrastructure",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4383986422/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "Whatnot",
+      "title": "Software Engineer, Merchant Tooling",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4324819075/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Full-Stack Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425043054/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "Peregrine",
+      "title": "Staff Software Engineer, Product Security",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4324298841/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "Ridgeline",
+      "title": "Staff Software Engineer, Reporting Engine",
+      "location": "San Ramon, CA",
+      "url": "https://www.linkedin.com/jobs/view/4313005675/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Sr. Principal Software Engineer (Cortex Platform)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404105849/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "Nash",
+      "title": "Senior Backend Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4358550738/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Senior Security Engineer, PKI & Secrets",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404133441/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Senior Systems Engineer, OS Automation",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4347458558/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "OMNIVISION",
+      "title": "Sr. Infrastructure Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4383983279/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior DFX Infrastructure Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405711342/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
+    {
+      "company": "True Anomaly",
+      "title": "Senior Manager, Data Engineering",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4397435525/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T16:17:30Z"
+    },
     {
       "company": "Tempus AI",
       "title": "Senior Data Scientist II, Real World Evidence (RWE), Pharma R&D",
