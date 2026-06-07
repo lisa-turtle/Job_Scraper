@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-06-07 17:17 UTC",
+  "updated_at": "2026-06-07 18:17 UTC",
   "jobs": [
+    {
+      "company": "EWS Business Solutions",
+      "title": "ML Infrastructure Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421902153/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T18:17:24Z"
+    },
+    {
+      "company": "Okta",
+      "title": "Senior Software Engineer, AI Agentic Experience (Auth0)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4383152998/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T18:17:24Z"
+    },
+    {
+      "company": "PwC",
+      "title": "NGA AI Engineer Senior Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4384256805/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T18:17:24Z"
+    },
+    {
+      "company": "Lyft",
+      "title": "Senior Software Engineer, Autonomous Vehicle",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4384882837/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T18:17:24Z"
+    },
+    {
+      "company": "Galileo Financial Technologies",
+      "title": "Staff Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4374651593/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T18:17:24Z"
+    },
+    {
+      "company": "Etched",
+      "title": "Kernel Driver Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385378988/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T18:17:24Z"
+    },
+    {
+      "company": "Scout Motors Inc.",
+      "title": "Senior Staff Software Engineer, Backend",
+      "location": "Fremont, CA",
+      "url": "https://www.linkedin.com/jobs/view/4391148501/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T18:17:24Z"
+    },
+    {
+      "company": "Docusign",
+      "title": "Senior Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4367544478/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T18:17:24Z"
+    },
+    {
+      "company": "Suno",
+      "title": "Machine Learning Engineering Manager, Recommendations",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4351770248/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T18:17:24Z"
+    },
     {
       "company": "Glean",
       "title": "Software Engineer, AI Infrastructure",

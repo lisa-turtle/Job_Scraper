@@ -1,72 +1,40 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-07 17:17 UTC*
+*Last updated: 2026-06-07 18:17 UTC*
 
-**17 new role(s)** since last run · 19 total in last 1h
+**9 new role(s)** since last run · 11 total in last 1h
 
-### [Software Engineer, AI Infrastructure](https://www.linkedin.com/jobs/view/4283317485/) — Glean
-- 📍 **Location:** Mountain View, CA
+### [ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4421902153/) — EWS Business Solutions
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-07
 
-### [Software Engineer – Performance Profiling](https://www.linkedin.com/jobs/view/4385389611/) — Etched
+### [Senior Software Engineer, AI Agentic Experience (Auth0)](https://www.linkedin.com/jobs/view/4383152998/) — Okta
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-07
+
+### [NGA AI Engineer Senior Manager](https://www.linkedin.com/jobs/view/4384256805/) — PwC
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-07
+
+### [Senior Software Engineer, Autonomous Vehicle](https://www.linkedin.com/jobs/view/4384882837/) — Lyft
+- 📍 **Location:** San Francisco County, CA
+- 🕒 **Posted:** 2026-06-07
+
+### [Staff Software Engineer](https://www.linkedin.com/jobs/view/4374651593/) — Galileo Financial Technologies
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-07
+
+### [Kernel Driver Software Engineer](https://www.linkedin.com/jobs/view/4385378988/) — Etched
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-07
 
-### [Software Engineer, Distributed Data Systems (US)](https://www.linkedin.com/jobs/view/3982869620/) — Onehouse
-- 📍 **Location:** Sunnyvale, CA
+### [Senior Staff Software Engineer, Backend](https://www.linkedin.com/jobs/view/4391148501/) — Scout Motors Inc.
+- 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-06-07
 
-### [Core Software Engineer](https://www.linkedin.com/jobs/view/4385381877/) — Etched
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-07
-
-### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4425035205/) — Jobright.ai
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4367544478/) — Docusign
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-07
-
-### [Sr. Software Engineer - Perf and Benchmarking](https://www.linkedin.com/jobs/view/4344835714/) — CoreWeave
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-07
-
-### [Staff Software Engineer, Evaluation & Simulation - AV Labs](https://www.linkedin.com/jobs/view/4425180893/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-07
-
-### [Senior Software Engineer - Expert Contributor Lifecycle](https://www.linkedin.com/jobs/view/4397562871/) — Snorkel AI
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-06-07
-
-### [Sr Staff Software Engineer](https://www.linkedin.com/jobs/view/4356201553/) — Palo Alto Networks
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-07
-
-### [Applied AI Engineer - AI Solutions](https://www.linkedin.com/jobs/view/4340805191/) — Snorkel AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-07
-
-### [Staff Applied ML Scientist](https://www.linkedin.com/jobs/view/4385320061/) — SentiLink
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-07
-
-### [Senior GenAI Backend Software Engineer 773](https://www.linkedin.com/jobs/view/4339018465/) — Protegrity
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-06-07
-
-### [Staff Software Engineer, Backend Platform](https://www.linkedin.com/jobs/view/4344971308/) — Harvey
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-07
-
-### [Principal Software Engineer - Back End (Wildfire)](https://www.linkedin.com/jobs/view/4404110866/) — Palo Alto Networks
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-07
-
-### [Senior Software Engineer - Expert Contributor Lifecycle](https://www.linkedin.com/jobs/view/4397575212/) — Snorkel AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-07
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/3978048690/) — Speak
-- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-17
 
-### [Applied AI Engineer - AI Solutions](https://www.linkedin.com/jobs/view/4340625628/) — Snorkel AI
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-05-16
+### [Machine Learning Engineering Manager, Recommendations](https://www.linkedin.com/jobs/view/4351770248/) — Suno
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-17
