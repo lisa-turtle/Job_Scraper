@@ -1,55 +1,55 @@
 {
-  "scraped_at": "2026-06-08 03:17 UTC",
+  "scraped_at": "2026-06-08 07:15 UTC",
   "total": 3,
   "new_count": 3,
   "jobs": [
     {
-      "company": "Verge Tech",
-      "title": "Software Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4425073042/",
+      "company": "Workday",
+      "title": "Machine Learning Engineer - Document Intelligence",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421914977/",
       "date_posted": "2026-06-08",
       "ats": "LinkedIn"
     },
     {
-      "company": "Teleo",
-      "title": "Senior Perception Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421910666/",
+      "company": "Big Wave Digital",
+      "title": "\ud83c\udf0c Staff Engineer, Agentic AI Platform - The Force Is Strong With This One",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425067904/",
       "date_posted": "2026-06-08",
       "ats": "LinkedIn"
     },
     {
-      "company": "Gyga Force",
-      "title": "Microwave Plasma Systems Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4425049537/",
+      "company": "GenPark",
+      "title": "Frontend engineer intern",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425078011/",
       "date_posted": "2026-06-08",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Verge Tech",
-      "title": "Software Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4425073042/",
+      "company": "Workday",
+      "title": "Machine Learning Engineer - Document Intelligence",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421914977/",
       "date_posted": "2026-06-08",
       "ats": "LinkedIn"
     },
     {
-      "company": "Teleo",
-      "title": "Senior Perception Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421910666/",
+      "company": "Big Wave Digital",
+      "title": "\ud83c\udf0c Staff Engineer, Agentic AI Platform - The Force Is Strong With This One",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425067904/",
       "date_posted": "2026-06-08",
       "ats": "LinkedIn"
     },
     {
-      "company": "Gyga Force",
-      "title": "Microwave Plasma Systems Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4425049537/",
+      "company": "GenPark",
+      "title": "Frontend engineer intern",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425078011/",
       "date_posted": "2026-06-08",
       "ats": "LinkedIn"
     }

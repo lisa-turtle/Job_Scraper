@@ -1,16 +1,16 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-08 03:17 UTC*
+*Last updated: 2026-06-08 07:15 UTC*
 
 **3 new role(s)** since last run · 3 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4425073042/) — Verge Tech
-- 📍 **Location:** San Francisco Bay Area
+### [Machine Learning Engineer - Document Intelligence](https://www.linkedin.com/jobs/view/4421914977/) — Workday
+- 📍 **Location:** Pleasanton, CA
 - 🕒 **Posted:** 2026-06-08
 
-### [Senior Perception Engineer](https://www.linkedin.com/jobs/view/4421910666/) — Teleo
-- 📍 **Location:** Palo Alto, CA
+### [🌌 Staff Engineer, Agentic AI Platform - The Force Is Strong With This One](https://www.linkedin.com/jobs/view/4425067904/) — Big Wave Digital
+- 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-06-08
 
-### [Microwave Plasma Systems Engineer](https://www.linkedin.com/jobs/view/4425049537/) — Gyga Force
-- 📍 **Location:** San Francisco Bay Area
+### [Frontend engineer intern](https://www.linkedin.com/jobs/view/4425078011/) — GenPark
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-08

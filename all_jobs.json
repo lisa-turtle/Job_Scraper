@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-06-08 03:17 UTC",
+  "updated_at": "2026-06-08 07:15 UTC",
   "jobs": [
+    {
+      "company": "Workday",
+      "title": "Machine Learning Engineer - Document Intelligence",
+      "location": "Pleasanton, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421914977/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T07:15:05Z"
+    },
+    {
+      "company": "Big Wave Digital",
+      "title": "\ud83c\udf0c Staff Engineer, Agentic AI Platform - The Force Is Strong With This One",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425067904/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T07:15:05Z"
+    },
+    {
+      "company": "GenPark",
+      "title": "Frontend engineer intern",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425078011/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T07:15:05Z"
+    },
     {
       "company": "Verge Tech",
       "title": "Software Engineer",
