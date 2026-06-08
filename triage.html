@@ -277,6 +277,10 @@
     <div id="filter-sen" class="controls-row" style="gap:6px"></div>
   </div>
   <div class="controls-row">
+    <span class="pillgroup-label">Posted</span>
+    <div id="filter-date" class="controls-row" style="gap:6px"></div>
+  </div>
+  <div class="controls-row">
     <span class="pillgroup-label">Show</span>
     <div id="filter-state" class="controls-row" style="gap:6px"></div>
   </div>
@@ -433,23 +437,48 @@
     role: new Set(),
     sen: new Set(),
     state: new Set(['active', 'saved', 'applied']),
+    days: null,   // null = any time; else an integer day-window (7 = last 7 days)
     q: '',
   };
 
   // 'browse' = the classic date-ordered list; 'rank' = fit-score order.
   let viewMode = 'browse';
 
-  function visibleJobs() {
-    const q = filters.q.trim().toLowerCase();
-    return state.jobs.filter(j => {
-      if (filters.source.size && !filters.source.has(j._src)) return false;
-      if (filters.role.size && !filters.role.has(j._role)) return false;
-      if (filters.sen.size && !filters.sen.has(j._sen)) return false;
+  // Parse a job's posted date to epoch ms. Handles ISO 'YYYY-MM-DD' and the relative
+  // 'Posted N Days Ago' strings some boards emit. null = unknown (kept under "Any time",
+  // excluded by an active date window).
+  function jobDateMs(j) {
+    const d = j.date_posted || '';
+    const iso = /^(\d{4})-(\d{2})-(\d{2})/.exec(d);
+    if (iso) return Date.parse(`${iso[1]}-${iso[2]}-${iso[3]}T00:00:00`);
+    const rel = /(\d+)\s*days?\s*ago/i.exec(d);
+    if (rel) return Date.now() - Number(rel[1]) * 86400000;
+    if (/today|hour|just posted/i.test(d)) return Date.now();
+    return null;
+  }
+
+  // `except` skips one dimension so a facet's pills don't constrain their own counts.
+  function matchesFilters(j, except) {
+    if (except !== 'source' && filters.source.size && !filters.source.has(j._src)) return false;
+    if (except !== 'role'   && filters.role.size   && !filters.role.has(j._role)) return false;
+    if (except !== 'sen'    && filters.sen.size    && !filters.sen.has(j._sen))   return false;
+    if (except !== 'state') {
       const st = state.triage[j.url] || 'active';
       if (!filters.state.has(st)) return false;
+    }
+    if (except !== 'days' && filters.days != null) {
+      const t = jobDateMs(j);
+      if (t == null || t < Date.now() - filters.days * 86400000) return false;
+    }
+    if (except !== 'q') {
+      const q = filters.q.trim().toLowerCase();
       if (q && !(`${j.title} ${j.company} ${j.location}`.toLowerCase().includes(q))) return false;
-      return true;
-    });
+    }
+    return true;
+  }
+
+  function visibleJobs() {
+    return state.jobs.filter(j => matchesFilters(j));
   }
 
   // ---------- Render ----------
@@ -460,13 +489,14 @@
     el.innerHTML = '';
     const counts = {};
     state.jobs.forEach(j => {
+      if (!matchesFilters(j, key)) return;          // honor every filter except this facet's
       const v = key === 'source' ? j._src : key === 'role' ? j._role : j._sen;
       counts[v] = (counts[v] || 0) + 1;
     });
     values.forEach(v => {
       const ct = counts[v] || 0;
-      if (!ct) return;
       const active = filters[key].has(v);
+      if (!ct && !active) return;                   // hide empties, but never an active pill
       const p = document.createElement('button');
       p.type = 'button';
       p.className = 'pill' + (active ? ' on' : '');
@@ -481,6 +511,34 @@
     });
   }
 
+  function renderDateFilter() {
+    const el = $('filter-date');
+    el.innerHTML = '';
+    const opts = [
+      [1,  'Today'],
+      [3,  '3 days'],
+      [7,  'Week'],
+      [30, 'Month'],
+      [null, 'Any time'],
+    ];
+    opts.forEach(([days, label]) => {
+      const ct = state.jobs.filter(j => {
+        if (!matchesFilters(j, 'days')) return false;   // honor Source/Role/Seniority/Show/search
+        if (days == null) return true;
+        const t = jobDateMs(j);
+        return t != null && t >= Date.now() - days * 86400000;
+      }).length;
+      const active = filters.days === days;
+      const p = document.createElement('button');
+      p.type = 'button';
+      p.className = 'pill' + (active ? ' on' : '');
+      p.setAttribute('aria-pressed', active ? 'true' : 'false');
+      p.innerHTML = `${label}<span class="ct">${ct}</span>`;
+      p.onclick = () => { filters.days = (filters.days === days ? null : days); renderAll(); };
+      el.appendChild(p);
+    });
+  }
+
   function renderStateFilter() {
     const el = $('filter-state');
     el.innerHTML = '';
@@ -491,7 +549,10 @@
       ['dismissed', 'Dismissed'],
     ];
     const counts = { active: 0, saved: 0, applied: 0, dismissed: 0 };
-    state.jobs.forEach(j => { counts[state.triage[j.url] || 'active']++; });
+    state.jobs.forEach(j => {
+      if (!matchesFilters(j, 'state')) return;
+      counts[state.triage[j.url] || 'active']++;
+    });
     opts.forEach(([k, label]) => {
       const active = filters.state.has(k);
       const p = document.createElement('button');
@@ -603,6 +664,7 @@
        'SWE', 'Bioinformatics', 'Other']);
     renderFilterGroup('filter-sen', 'sen',
       ['Founding', 'Principal', 'Staff', 'Senior', 'Mid', 'Intern']);
+    renderDateFilter();
     renderStateFilter();
     renderKpis();
     renderCharts();
@@ -676,13 +738,13 @@
 
   $('search').addEventListener('input', e => {
     filters.q = e.target.value;
-    renderCharts();
-    renderJobs();
+    renderAll();   // facet badges now count `q`, so refresh the pill bars too
   });
 
   $('clear-filters').onclick = () => {
     filters.source.clear(); filters.role.clear(); filters.sen.clear();
     filters.state = new Set(['active', 'saved', 'applied']);
+    filters.days = null;
     filters.q = ''; $('search').value = '';
     renderAll();
   };
