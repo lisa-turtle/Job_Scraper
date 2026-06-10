@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-09 06:58 UTC",
-  "total": 16,
-  "new_count": 0,
+  "scraped_at": "2026-06-10 07:17 UTC",
+  "total": 18,
+  "new_count": 2,
   "jobs": [
     {
       "company": "10x Genomics",
@@ -128,9 +128,42 @@
       "title": "Executive Director of Clinical Data Engineering & Analytics (CDEA)",
       "location": "United States - California - Foster City",
       "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Executive-Director-of-Clinical-Data-Engineering---Analytics--CDEA-_R0051540",
-      "date_posted": "Posted 24 Days Ago",
+      "date_posted": "Posted 26 Days Ago",
       "ats": "Workday"
+    },
+    {
+      "company": "Egen",
+      "title": "Lead Data Engineer",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426544845/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "ML Scientist I / II, Foundation Models for Life Sciences",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407826488/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Egen",
+      "title": "Lead Data Engineer",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426544845/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "ML Scientist I / II, Foundation Models for Life Sciences",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407826488/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn"
+    }
+  ]
 }

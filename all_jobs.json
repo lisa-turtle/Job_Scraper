@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-06-10 05:05 UTC",
+  "updated_at": "2026-06-10 07:17 UTC",
   "jobs": [
+    {
+      "company": "Lila Sciences",
+      "title": "ML Scientist I / II, Foundation Models for Life Sciences",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407826488/",
+      "date_posted": "2026-06-09",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T07:17:28Z"
+    },
     {
       "company": "Qualcomm",
       "title": "LLM Engineer",
