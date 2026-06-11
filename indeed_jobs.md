@@ -1,68 +1,104 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-10 23:16 UTC*
+*Last updated: 2026-06-11 02:04 UTC*
 
-**16 new role(s)** since last run · 112 total in last 24h
+**25 new role(s)** since last run · 103 total in last 24h
 
-### [2026 PhD Applied Scientist Intern (Commerce, Trust, Safety and Support), United States](https://www.indeed.com/viewjob?jk=1e29484b7fe37ba5) — Uber
+### [Senior/Staff Software Systems Engineer - Software Health and Complexity](https://www.indeed.com/viewjob?jk=814a3fce6d8424bb) — Zoox
+- 📍 **Location:** Foster City, CA, US
+- 🕒 **Posted:** 2026-06-10
+
+### [Senior Software Engineer, UGC Validation â€“ Avatar Heads and Bodies](https://www.indeed.com/viewjob?jk=c6497b4849f42468) — Roblox
+- 📍 **Location:** San Mateo, CA, US
+- 🕒 **Posted:** 2026-06-10
+
+### [Senior Software Engineer, UGC Validation – Avatar Heads and Bodies](https://www.indeed.com/viewjob?jk=30c0fd345242a444) — Roblox
+- 📍 **Location:** San Mateo, CA, US
+- 🕒 **Posted:** 2026-06-10
+
+### [Senior Data Scientist, Causal Inference](https://www.indeed.com/viewjob?jk=33366b8890be2576) — Lyft
 - 📍 **Location:** San Francisco, CA, US
 - 🕒 **Posted:** 2026-06-10
 
-### [2026 PhD Applied Scientist Intern (Commerce, Trust, Safety and Support), United States](https://www.indeed.com/viewjob?jk=d25e19c5c9bcd97b) — Uber
+### [Bioinformatics & Data Scientist or Postdoctoral Researcher- Furman Lab](https://www.indeed.com/viewjob?jk=3f28803e2c2425f1) — Buck Institute
+- 📍 **Location:** Novato, CA, US
+- 🕒 **Posted:** 2026-06-10
+
+### [(USA) Data Scientist III](https://www.indeed.com/viewjob?jk=9afdd477190b793a) — Walmart
 - 📍 **Location:** Sunnyvale, CA, US
 - 🕒 **Posted:** 2026-06-10
 
-### [Machine Learning Engineer, LLM Post-Training](https://www.indeed.com/viewjob?jk=40c075a07d429ffb) — Newsbreak
-- 📍 **Location:** Mountain View, CA, US
+### [Senior Director, Data Science](https://www.indeed.com/viewjob?jk=38af41897f2b4f79) — Asurion
+- 📍 **Location:** San Mateo, CA, US
 - 🕒 **Posted:** 2026-06-10
 
-### [Software Engineer (Technical Leadership)](https://www.indeed.com/viewjob?jk=b4a2df283a8b4936) — Meta
-- 📍 **Location:** Sunnyvale, CA, US
-- 🕒 **Posted:** 2025-04-21
-
-### [Software Engineer (Technical Leadership)](https://www.indeed.com/viewjob?jk=42396bbdf0b619c6) — Meta
-- 📍 **Location:** Menlo Park, CA, US
-- 🕒 **Posted:** 2025-04-21
-
-### [Senior Manager, Data Science](https://www.indeed.com/viewjob?jk=0bcf916c9e8f0bd9) — Walmart
-- 📍 **Location:** Sunnyvale, CA, US
+### [Fellow, AI Performance Software Engineer](https://www.indeed.com/viewjob?jk=92cf1b446459dd15) — AMD
+- 📍 **Location:** Santa Clara, CA, US
 - 🕒 **Posted:** 2026-06-10
 
-### [Senior Data Scientist](https://www.indeed.com/viewjob?jk=5b25e7abb6eb0cf2) — InterVenn Biosciences
+### [Staff Software Engineer - Command Connector](https://www.indeed.com/viewjob?jk=59d06f391e311563) — Verkada
+- 📍 **Location:** San Mateo, CA, US
+- 🕒 **Posted:** 2026-06-10
+
+### [Data Engineer](https://www.indeed.com/viewjob?jk=4c4e36cc3d4b8990) — Unknown
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-06-10
+
+### [Staff DevOps Engineer](https://www.indeed.com/viewjob?jk=d757f20a6794bcc6) — Zscaler
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-10
+
+### [Summer Intern - Software Engineer](https://www.indeed.com/viewjob?jk=5f8fc2332d43d1ac) — E2 Consulting Engineers, Inc.
+- 📍 **Location:** Emeryville, CA, US
+- 🕒 **Posted:** 2026-06-10
+
+### [Lead Data Engineer, Analytics & Insights](https://www.indeed.com/viewjob?jk=e3bfd48527fc85d9) — Agtonomy
 - 📍 **Location:** South San Francisco, CA, US
 - 🕒 **Posted:** 2026-06-10
 
-### [Principal Applied Scientist, ML Codesign](https://www.indeed.com/viewjob?jk=1f1e5397d110b67b) — Amazon.com
+### [Information Security Engineer, Principal](https://www.indeed.com/viewjob?jk=46199ec925bfd331) — Blue Shield of California
+- 📍 **Location:** Oakland, CA, US
+- 🕒 **Posted:** 2026-06-10
+
+### [Information Security Engineer, Consultant](https://www.indeed.com/viewjob?jk=eb3b113e25f1c160) — Blue Shield of California
+- 📍 **Location:** Oakland, CA, US
+- 🕒 **Posted:** 2026-06-10
+
+### [Senior Storage System Software Developer](https://www.indeed.com/viewjob?jk=247fbe3f854e76c2) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA, US
+- 🕒 **Posted:** 2026-06-10
+
+### [Senior, Software Engineer (Backend Java)](https://www.indeed.com/viewjob?jk=1aa58fd5c11f2734) — Walmart
 - 📍 **Location:** Sunnyvale, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [(USA) Senior, Software Engineer](https://www.indeed.com/viewjob?jk=4f218e7c10981cce) — Walmart
-- 📍 **Location:** Sunnyvale, CA, US
 - 🕒 **Posted:** 2026-06-10
 
-### [Systems Engineer](https://www.indeed.com/viewjob?jk=f0ef22045f10f793) — Unknown
-- 📍 **Location:** Newark, CA, US
+### [Senior Software Engineer, Manufacturing Test](https://www.indeed.com/viewjob?jk=841c7e3c0867b928) — Anduril
+- 📍 **Location:** Mountain View, CA, US
 - 🕒 **Posted:** 2026-06-10
 
-### [Senior Edge / Linux Platform Engineer (Rust)](https://www.indeed.com/viewjob?jk=60b01c885c5b689c) — Unknown
-- 📍 **Location:** Newark, CA, US
+### [Software Engineer, Manufacturing Test](https://www.indeed.com/viewjob?jk=738054c60c420e00) — Anduril
+- 📍 **Location:** Mountain View, CA, US
 - 🕒 **Posted:** 2026-06-10
 
-### [Staff Software Developer](https://www.indeed.com/viewjob?jk=1f31f914d420507f) — Fortinet
-- 📍 **Location:** Santa Clara, CA, US
+### [Sr. Software Engineer Core Infrastructure](https://www.indeed.com/viewjob?jk=efc972ad785ae83e) — Poshmark
+- 📍 **Location:** Redwood City, CA, US
 - 🕒 **Posted:** 2026-06-10
 
-### [Staff Software Engineer, Infrastructure](https://www.indeed.com/viewjob?jk=18949eeda4f36be3) — f2
+### [Lab Robotics Engineer](https://www.indeed.com/viewjob?jk=a2ad58449b9fb9fa) — Plasmidsaurus
 - 📍 **Location:** San Francisco, CA, US
 - 🕒 **Posted:** 2026-06-10
 
-### [Software Engineer, Engineering Applications](https://www.indeed.com/viewjob?jk=1752866836309783) — Rivian
-- 📍 **Location:** Palo Alto, CA, US
-- 🕒 **Posted:** 2026-06-05
-
-### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=d09fff868d018122) — DocuSign
-- 📍 **Location:** San Francisco, CA, US
+### [Staff+ Product Security Engineer](https://www.indeed.com/viewjob?jk=d8cddcd79e782e31) — Verkada
+- 📍 **Location:** San Mateo, CA, US
 - 🕒 **Posted:** 2026-06-10
 
-### [Senior Linux Platform Engineer - Santa Clara](https://www.indeed.com/viewjob?jk=980117b062c8f4b5) — Perficient
-- 📍 **Location:** Santa Clara, CA, US
+### [Staff Security Engineer, Enterprise Security](https://www.indeed.com/viewjob?jk=35944f72dec21111) — Aurora Innovation
+- 📍 **Location:** Mountain View, CA, US
+- 🕒 **Posted:** 2026-06-10
+
+### [Senior Cloud Security Engineer](https://www.indeed.com/viewjob?jk=3ceb3fda719e114e) — Roblox
+- 📍 **Location:** San Mateo, CA, US
+- 🕒 **Posted:** 2026-06-10
+
+### [Camera Systems Engineer](https://www.indeed.com/viewjob?jk=d6d6c690f98b169a) — Muon Space
+- 📍 **Location:** Mountain View, CA, US
 - 🕒 **Posted:** 2026-06-10
