@@ -563,6 +563,87 @@
     j._salDisp = sal ? sal.disp : '';
   }
 
+  // ---------- Cross-source de-duplication ----------
+  // The same role is often cross-posted to LinkedIn and Indeed with different
+  // URLs (so URL-dedupe misses it) but the same company and (usually) title.
+  // Collapse such records into one card, keyed on normalized title + location,
+  // then clustered by a compatible company name. The kept "primary" is the
+  // richest record (has salary / description), and it carries every member's
+  // URL + source so triage and source badges stay correct.
+  function _normTitle(s) {
+    return (s || '').toLowerCase()
+      .replace(/\bsr\.?\b/g, 'senior').replace(/\bjr\.?\b/g, 'junior')
+      .replace(/&/g, 'and').replace(/[^a-z0-9]/g, '');
+  }
+  function _normLoc(s) {
+    return (s || '').toLowerCase()
+      .replace(/\b(united states|usa|us|california|ca)\b/g, '')
+      .replace(/\b(greater|metropolitan|metro|bay area|area)\b/g, '')
+      .replace(/[^a-z0-9]/g, '');
+  }
+  function _normCo(s) {
+    return (s || '').toLowerCase()
+      .replace(/\b(inc|llc|llp|ltd|corp|corporation|company|co|group|the|of|and|department|dept)\b/g, '')
+      .replace(/[^a-z0-9]/g, '');
+  }
+  function _coMatch(a, b) {
+    a = _normCo(a); b = _normCo(b);
+    if (!a || !b) return false;
+    if (a === b) return true;
+    return a.length >= 5 && b.length >= 5 && (a.includes(b) || b.includes(a));
+  }
+  function _richness(j) { return (j._salMin != null ? 2 : 0) + (j.description ? 1 : 0); }
+  const TRIAGE_PRIORITY = { applied: 4, saved: 3, irrelevant: 2, dismissed: 1 };
+
+  function dedupe(list) {
+    const groups = new Map();
+    for (const j of list) {
+      const k = _normTitle(j.title) + '|' + _normLoc(j.location);
+      if (!groups.has(k)) groups.set(k, []);
+      groups.get(k).push(j);
+    }
+    const out = [];
+    for (const grp of groups.values()) {
+      const used = new Array(grp.length).fill(false);
+      for (let i = 0; i < grp.length; i++) {
+        if (used[i]) continue;
+        const cluster = [grp[i]]; used[i] = true;
+        for (let k = i + 1; k < grp.length; k++) {
+          if (!used[k] && _coMatch(grp[i].company, grp[k].company)) { cluster.push(grp[k]); used[k] = true; }
+        }
+        out.push(_mergeCluster(cluster));
+      }
+    }
+    return out;
+  }
+  function _mergeCluster(cluster) {
+    if (cluster.length === 1) {
+      const j = cluster[0];
+      j._srcs = [j._src]; j._dupUrls = [j.url];
+      return j;
+    }
+    const primary = cluster.slice().sort((a, b) =>
+      _richness(b) - _richness(a) || (jobFreshMs(b) || 0) - (jobFreshMs(a) || 0))[0];
+    primary._dupUrls = cluster.map(j => j.url);
+    primary._srcs = [...new Set(cluster.map(j => j._src))].sort();
+    // Take salary from whichever member has it.
+    if (primary._salMin == null) {
+      const w = cluster.find(j => j._salMin != null);
+      if (w) { primary._salMin = w._salMin; primary._salMax = w._salMax; primary._salDisp = w._salDisp; }
+    }
+    // Consolidate triage onto the primary URL (highest-priority decision wins).
+    let best = null, bestP = 0;
+    for (const j of cluster) {
+      const st = state.triage[j.url], p = TRIAGE_PRIORITY[st] || 0;
+      if (st && p > bestP) { best = st; bestP = p; }
+    }
+    if (best && state.triage[primary.url] !== best) state.triage[primary.url] = best;
+    return primary;
+  }
+
+  // Deduped view of state.jobs, recomputed each render.
+  let VIEW = [];
+
   // ---------- Data loading ----------
   let SEED = { scraped_at: '', new_count: 0, jobs: [], new_jobs: [] };
 
@@ -668,7 +749,9 @@
 
   // `except` skips one dimension so a facet's pills don't constrain their own counts.
   function matchesFilters(j, except) {
-    if (except !== 'source' && filters.source.size && !filters.source.has(j._src)) return false;
+    // Merged cross-posts carry every source in _srcs (single jobs: [_src]).
+    const srcs = j._srcs || [j._src];
+    if (except !== 'source' && filters.source.size && !srcs.some(s => filters.source.has(s))) return false;
     if (except !== 'role'   && filters.role.size   && !filters.role.has(j._role)) return false;
     if (except !== 'sen'    && filters.sen.size    && !filters.sen.has(j._sen))   return false;
     if (except !== 'state') {
@@ -691,7 +774,7 @@
   }
 
   function visibleJobs() {
-    return state.jobs.filter(j => matchesFilters(j));
+    return VIEW.filter(j => matchesFilters(j));
   }
 
   // ---------- Render ----------
@@ -701,9 +784,10 @@
     const el = $(containerId);
     el.innerHTML = '';
     const counts = {};
-    state.jobs.forEach(j => {
+    VIEW.forEach(j => {
       if (!matchesFilters(j, key)) return;          // honor every filter except this facet's
-      const v = key === 'source' ? j._src : key === 'role' ? j._role : j._sen;
+      if (key === 'source') { (j._srcs || [j._src]).forEach(s => counts[s] = (counts[s] || 0) + 1); return; }
+      const v = key === 'role' ? j._role : j._sen;
       counts[v] = (counts[v] || 0) + 1;
     });
     values.forEach(v => {
@@ -736,7 +820,7 @@
       [null, 'Any time'],
     ];
     opts.forEach(([days, label]) => {
-      const ct = state.jobs.filter(j => {
+      const ct = VIEW.filter(j => {
         if (!matchesFilters(j, 'days')) return false;   // honor Source/Role/Seniority/Show/search
         if (days == null) return true;
         const t = days < 1 ? jobFreshMs(j) : jobDateMs(j);
@@ -764,7 +848,7 @@
       ['irrelevant', 'Not relevant'],
     ];
     const counts = { active: 0, saved: 0, applied: 0, dismissed: 0, irrelevant: 0 };
-    state.jobs.forEach(j => {
+    VIEW.forEach(j => {
       if (!matchesFilters(j, 'state')) return;
       counts[state.triage[j.url] || 'active']++;
     });
@@ -785,10 +869,10 @@
   }
 
   function renderKpis() {
-    $('kpi-total').textContent = state.jobs.length;
+    $('kpi-total').textContent = VIEW.length;
     $('kpi-new').textContent = (SEED.new_jobs || []).length || SEED.new_count || 0;
-    const saved = state.jobs.filter(j => state.triage[j.url] === 'saved').length;
-    const applied = state.jobs.filter(j => state.triage[j.url] === 'applied').length;
+    const saved = VIEW.filter(j => state.triage[j.url] === 'saved').length;
+    const applied = VIEW.filter(j => state.triage[j.url] === 'applied').length;
     $('kpi-saved').textContent = saved;
     $('kpi-applied').textContent = applied;
   }
@@ -828,7 +912,7 @@
   function renderSalaryChart() {
     const host = $('chart-salary'), note = $('salary-note');
     if (!host) return;
-    const pool = state.jobs.filter(j => matchesFilters(j, 'salary'));
+    const pool = VIEW.filter(j => matchesFilters(j, 'salary'));
     const priced = pool.filter(j => j._salMin != null);
     if (!priced.length) {
       host.className = 'histo-empty';
@@ -887,7 +971,7 @@
     if (viewMode === 'rank') {
       // Best-fit order by resume match; agent score breaks ties.
       jobs = jobs.slice().sort((a, b) => (b._fit - a._fit) || ((b._score ?? -1) - (a._score ?? -1)));
-      const nIrr = state.jobs.filter(j => state.triage[j.url] === 'irrelevant').length;
+      const nIrr = VIEW.filter(j => state.triage[j.url] === 'irrelevant').length;
       info.hidden = false;
       info.textContent = '★ Best fit — ranked by match to your specializations '
         + '(microplastics, ecotoxicology, risk assessment, exposure, QSAR, PFAS, drinking water…)'
@@ -901,13 +985,14 @@
     }
     el.innerHTML = jobs.map(j => {
       const st = state.triage[j.url] || 'active';
-      const srcCls = j._src.toLowerCase();
+      const srcs = j._srcs || [j._src];
+      const srcBadges = srcs.map(s => `<span class="src ${s.toLowerCase()}">${s}</span>`).join('');
       const sal = j._salDisp || j.salary;
       return `<div class="job" data-url="${escape(j.url)}" data-state="${st}">
         <div class="job-main">
           <div class="title">${fitChip(j)}<a href="${escape(j.url)}" target="_blank" rel="noopener noreferrer">${escape(j.title)}</a></div>
           <div class="meta">
-            <span class="co">${escape(j.company)}<span class="src ${srcCls}">${j._src}</span></span>
+            <span class="co">${escape(j.company)}${srcBadges}</span>
             <span>📍 ${escape(j.location || 'Not specified')}</span>
             ${sal ? `<span>💰 ${escape(sal)}</span>` : ''}
             <span>🕒 ${escape(j.date_posted || '')}</span>
@@ -1069,6 +1154,7 @@
   }
 
   function renderAll() {
+    VIEW = dedupe(state.jobs);   // collapse cross-posted (LinkedIn↔Indeed) dupes
     renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Priority', 'Indeed', 'CalCareers']);
     renderFilterGroup('filter-role', 'role',
       ['Toxicology', 'Risk/Exposure', 'Water', 'Contaminants',
@@ -1095,7 +1181,7 @@
     if (!lbl) return;
     if (v <= 0) { lbl.textContent = 'Any'; }
     else {
-      const pass = state.jobs.filter(j => matchesFilters(j, 'salary')
+      const pass = VIEW.filter(j => matchesFilters(j, 'salary')
         && (j._salMax != null ? j._salMax >= v : filters.salUnknown)).length;
       lbl.textContent = `≥ $${Math.round(v / 1000)}k/yr · ${pass}`;
     }
@@ -1163,7 +1249,7 @@
     const mins = Math.floor((Date.now() - (state._lastLoaded||0)) / 60000);
     const ago = mins < 1 ? 'just now' : `${mins}m ago`;
     $('snapshot-line').textContent =
-      `California · scrape ${SEED.scraped_at || 'unknown'} · loaded ${ago} · ${state.jobs.length} jobs`;
+      `California · scrape ${SEED.scraped_at || 'unknown'} · loaded ${ago} · ${VIEW.length} jobs`;
   }
   setInterval(() => {
     if (!document.hidden && state._lastLoaded) updateSnapshotLine();
@@ -1181,9 +1267,12 @@
       if (s.outreach_opener) copy(s.outreach_opener);
       return;
     }
+    // Apply the decision to every URL merged into this card (cross-posts), so
+    // the LinkedIn and Indeed copies stay in lockstep.
+    const j = VIEW.find(x => x.url === url);
+    const urls = (j && j._dupUrls) ? j._dupUrls : [url];
     const was = state.triage[url];
-    if (was === act) delete state.triage[url];
-    else state.triage[url] = act;
+    urls.forEach(u => { if (was === act) delete state.triage[u]; else state.triage[u] = act; });
     // "Not relevant" feeds the learning penalty — rebuild the corpus and
     // re-score so similar roles immediately drop in Best fit.
     if (act === 'irrelevant' || was === 'irrelevant') {
