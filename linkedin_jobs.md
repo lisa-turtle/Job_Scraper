@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology / Risk Roles (California)
-*Last updated: 2026-06-13 18:48 UTC*
+*Last updated: 2026-06-13 19:52 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Environmental Health Safety Specialist](https://www.linkedin.com/jobs/view/4426125759/) — Jobs via Dice
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-06-13

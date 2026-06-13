@@ -1,7 +1,25 @@
 {
-  "scraped_at": "2026-06-13 18:48 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-06-13 19:52 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Jobs via Dice",
+      "title": "Environmental Health Safety Specialist",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426125759/",
+      "date_posted": "2026-06-13",
+      "ats": "LinkedIn"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Jobs via Dice",
+      "title": "Environmental Health Safety Specialist",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/4426125759/",
+      "date_posted": "2026-06-13",
+      "ats": "LinkedIn"
+    }
+  ]
 }
