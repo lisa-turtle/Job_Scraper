@@ -1,15 +1,23 @@
-# 🧪 Environmental / Toxicology Job Scraper — Dr. Scott Coffin
+# 🧪 Job Scraper + Triage Dashboard
 
-Three GitHub Actions pipelines that scrape **environmental toxicology, risk &
-exposure assessment, environmental health, water quality, microplastics/PFAS &
-emerging-contaminants, chemical safety / regulatory, and supporting data-science
-roles** across **California**, commit the results to this repo, and surface them
-in the [`triage.html`](#interactive-triage-dashboard--triagehtml) dashboard.
+GitHub Actions pipelines that scrape job boards (LinkedIn, Indeed, USAJOBS,
+NEOGOV, CalOpps, CalCareers) on a schedule, commit the results to the repo, and
+surface them in a single filterable [`triage.html`](#interactive-triage-dashboard--triagehtml)
+dashboard hosted free on GitHub Pages — with a map, salary harmonization,
+cross-source de-duplication, and optional phone notifications.
 
-> Originally built by [Ernesto Diaz](https://github.com/ernestod1998) as a Bay
-> Area ML-engineer scraper; retargeted here for Dr. Scott Coffin's field
-> (environmental/regulatory toxicology). See his profile at
-> [scottcoff.in](https://scottcoff.in).
+### 🚀 Make it yours in ~5 minutes
+**Everything you search for lives in one file: [`config.json`](config.json).**
+- **Don't want to edit code?** Generate `config.json` from your CV: open
+  [`docs/cv-to-config-prompt.md`](docs/cv-to-config-prompt.md), paste the prompt
+  + your CV into ChatGPT/Claude, and drop the result into `config.json`.
+- Full walkthrough: **[SETUP.md](SETUP.md)** (use-as-template → set `config.json`
+  → enable Pages + Actions → run the watchers).
+
+> This repo ships configured for **environmental / toxicology** roles (Dr. Scott
+> Coffin's field — [scottcoff.in](https://scottcoff.in)) as a worked example, and
+> began as [Ernesto Diaz](https://github.com/ernestod1998)'s Bay Area ML-engineer
+> scraper. Point `config.json` at any field/location to retarget it.
 
 ## What It Does
 

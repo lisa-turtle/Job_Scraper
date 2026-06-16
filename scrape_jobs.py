@@ -34,14 +34,42 @@ HEADERS = {
     )
 }
 
+# ---------------------------------------------------------------------------
+# Config — ALL of a user's search settings live in config.json (edit it by hand
+# or generate it from a CV; see docs/cv-to-config-prompt.md). Everything below
+# falls back to a sensible value if config.json or a key is missing, so the
+# scraper always runs.
+# ---------------------------------------------------------------------------
+
+def _load_config() -> dict:
+    try:
+        with open(os.path.join(SCRIPT_DIR, "config.json"), encoding="utf-8") as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError, OSError) as e:
+        print(f"  ⚠️  config.json not loaded ({e}); using built-in defaults")
+        return {}
+
+
+CONFIG = _load_config()
+
+
+def _cfg(path: str, default):
+    """Nested config lookup by dotted path; returns default if absent/empty."""
+    cur = CONFIG
+    for key in path.split("."):
+        if not isinstance(cur, dict) or key not in cur:
+            return default
+        cur = cur[key]
+    return cur if cur not in (None, "", [], {}) else default
+
 # Title keywords for Dr. Scott Coffin — environmental/regulatory toxicology,
 # risk assessment, exposure science, water quality, and the data-science work
 # that supports it. A title matches if it contains any of these (case-
 # insensitive). Multi-word phrases match as substrings ("risk assess" hits
 # "Risk Assessor" and "Risk Assessment Scientist"); single tokens are word-
 # bounded, so list FULL words ("toxicologist", not the stem "toxicolog").
-KEYWORDS = [
-    # ---- Toxicology (core) ----
+_KEYWORDS_DEFAULT = [
+    # ---- Toxicology (core) ----  (fallback; real list is config.json → keywords.include)
     "toxicologist", "toxicology", "toxicological",
     "ecotoxicologist", "ecotoxicology", "ecotoxicolog",
     "environmental toxicolog", "regulatory toxicolog",
@@ -74,6 +102,7 @@ KEYWORDS = [
     # ---- Ecotoxicology-adjacent ecology / sustainability ----
     "ecotoxicolog", "conservation toxicolog",
 ]
+KEYWORDS = _cfg("keywords.include", _KEYWORDS_DEFAULT)
 # NOTE: deliberately tight. Generic titles ("Research Scientist", "Senior
 # Scientist", "Data Scientist", "Professor", "Regulatory Affairs") were removed
 # because they pull in pharma/biotech/tech bench roles. Environmental academic,
@@ -87,21 +116,22 @@ REQUEST_DELAY = 0.3
 # Biotech digest should only contain reliably fresh roles.
 FRESH_JOB_LOOKBACK = timedelta(hours=24)
 
-# Dr. Coffin is a senior scientist (PhD, Research Scientist IV, h-index 22), so
-# unlike the original (which dropped senior titles), we KEEP senior/principal/
-# lead/director roles and exclude only clearly junior / student / trainee
-# postings that aren't worth his time. Postdoc is excluded — he's well past it.
-EXCLUDED_SENIORITY_RE = re.compile(
-    r'\b(intern|interns|internship|co-?op|trainee|apprentice|'
-    r'technician|research assistant|lab assistant|teaching assistant|'
-    r'undergraduate|postdoc|postdoctoral|work-study|volunteer|fellowship|'
-    # Engineering roles — Dr. Coffin is a scientist, not an engineer.
-    r'engineer|engineering|'
-    # EHS / workplace-safety compliance — a distinct field from env-tox science.
-    # (Does not touch "Chemical Safety", which has no "health/occupational" stem.)
-    r'ehs|occupational safety|occupational health)\b'
-    r'|health\s*&\s*safety|health and safety',
-    re.IGNORECASE)
+# Titles containing any excluded term are dropped (config.json → keywords.exclude).
+# Single tokens are word-bounded; multi-word phrases match as substrings.
+def _build_title_re(terms: list) -> re.Pattern:
+    return re.compile(
+        "|".join(re.escape(t) if (" " in t or "&" in t) else rf"\b{re.escape(t)}\b" for t in terms),
+        re.IGNORECASE,
+    )
+
+
+_EXCLUDE_DEFAULT = [
+    "intern", "interns", "internship", "co-op", "coop", "trainee", "apprentice", "technician",
+    "research assistant", "lab assistant", "teaching assistant", "undergraduate", "postdoc",
+    "postdoctoral", "work-study", "volunteer", "fellowship", "engineer", "engineering",
+    "ehs", "occupational safety", "occupational health", "health and safety", "health & safety",
+]
+EXCLUDED_SENIORITY_RE = _build_title_re(_cfg("keywords.exclude", _EXCLUDE_DEFAULT))
 
 # Multi-word phrases keep substring semantics; single-word keywords ("mle",
 # "devops") are word-bounded so they can't match inside a word ("Hamlet").
@@ -434,7 +464,7 @@ def scrape_genentech():
 # LinkedIn — public guest endpoint, bucketed by recency (broad US-wide net)
 # ---------------------------------------------------------------------------
 
-LINKEDIN_SEARCH_TERMS = [
+LINKEDIN_SEARCH_TERMS = _cfg("search_terms.linkedin", [
     # Toxicology (core)
     "toxicologist",
     "environmental toxicologist",
@@ -461,7 +491,7 @@ LINKEDIN_SEARCH_TERMS = [
     "product stewardship",
     "chemical safety",
     "environmental data scientist",
-]
+])
 
 LINKEDIN_LOOKBACK_SECONDS = 3600          # 1h — every-2h watcher only surfaces the freshest hour
 LINKEDIN_BIOTECH_LOOKBACK_SECONDS = 86400 # 24h — biotech is a daily 8pm PT digest
@@ -470,12 +500,12 @@ LINKEDIN_BIOTECH_LOOKBACK_SECONDS = 86400 # 24h — biotech is a daily 8pm PT di
 # empty geoId lets LinkedIn resolve the location text (verified to work for
 # Bend). All confirmed by probing the guest endpoint. Add a region by finding
 # its geoId (or leaving it blank for a city LinkedIn can resolve).
-LINKEDIN_GEOS = [
+LINKEDIN_GEOS = _cfg("locations.linkedin", [
     {"name": "California",  "location": "California, United States",          "geoId": "102095887"},
     {"name": "Portland OR", "location": "Portland, Oregon Metropolitan Area", "geoId": "90000079"},
     {"name": "Bend OR",     "location": "Bend, Oregon, United States",        "geoId": ""},
     {"name": "Australia",   "location": "Australia",                          "geoId": "101452733"},
-]
+])
 
 # Priority-employer allowlist used by the LinkedIn-side filter to build the
 # daily "Priority Employers" digest (jobs.json). These are organizations whose
@@ -485,8 +515,8 @@ LINKEDIN_GEOS = [
 # insensitive on alphanum-stripped names with bidirectional substring matching,
 # so "Ramboll" matches "Ramboll US Corporation". Keep names ~6+ chars to limit
 # incidental substring collisions (avoid bare acronyms like EPA/EWG/ERG/CARB).
-BIOTECH_COMPANY_NAMES = [
-    # ---- Environmental / toxicology / risk consulting ----
+BIOTECH_COMPANY_NAMES = _cfg("employers.priority", [
+    # ---- Environmental / toxicology / risk consulting ----  (fallback; real list in config.json)
     "Ramboll", "Exponent", "Gradient", "ToxStrategies", "Cardno",
     "Stantec", "Tetra Tech", "Tetratech", "ICF International",
     "Abt Associates", "Abt Global", "Eastern Research Group",
@@ -521,7 +551,7 @@ BIOTECH_COMPANY_NAMES = [
     "Procter & Gamble", "Unilever", "Colgate-Palmolive", "Johnson & Johnson",
     "Clorox", "Seventh Generation", "Patagonia",
     "Corteva", "Syngenta", "Dow Chemical", "BASF Corporation",
-]
+])
 
 BIOTECH_COMPANY_ALLOWLIST = frozenset(
     re.sub(r'[^a-z0-9]', '', n.lower()) for n in BIOTECH_COMPANY_NAMES
@@ -564,7 +594,16 @@ PHARMA_COMPANY_RE = re.compile(
 )
 
 
+# config.json → employers.exclude: drop roles from any company whose name
+# contains one of these (case-insensitive substring). When set, it overrides the
+# built-in PHARMA_COMPANY_RE; leave it [] to disable company exclusion entirely.
+_EXCLUDE_COMPANY_TERMS = [str(t).lower() for t in _cfg("employers.exclude", [])]
+
+
 def _is_pharma_company(name: str) -> bool:
+    if _EXCLUDE_COMPANY_TERMS:
+        low = (name or "").lower()
+        return any(t in low for t in _EXCLUDE_COMPANY_TERMS)
     return bool(PHARMA_COMPANY_RE.search(name or ""))
 
 
@@ -769,17 +808,17 @@ INDEED_LOOKBACK_HOURS = 24  # Indeed posting dates are ~day-resolution, so a 1h 
 # Indeed geographies. country sets the Indeed domain (USA → indeed.com,
 # Australia → au.indeed.com). Searched per term, so we use a tighter term list
 # than LinkedIn to keep the call count sane (terms × geos jobspy calls).
-INDEED_GEOS = [
+INDEED_GEOS = _cfg("locations.indeed", [
     {"location": "California",   "country": "USA"},
     {"location": "Portland, OR", "country": "USA"},
     {"location": "Bend, OR",     "country": "USA"},
     {"location": "Australia",    "country": "Australia"},
-]
-INDEED_SEARCH_TERMS = [
+])
+INDEED_SEARCH_TERMS = _cfg("search_terms.indeed", [
     "toxicologist", "environmental scientist", "risk assessment",
     "exposure scientist", "ecotoxicologist", "microplastics",
     "water quality scientist", "environmental health scientist",
-]
+])
 
 # jobspy returns the full JD (markdown) for Indeed rows. We keep a trimmed copy
 # in indeed_jobs.json (bounded: 24h window) so the nightly triage agent can

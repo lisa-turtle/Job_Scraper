@@ -392,26 +392,68 @@
   state.triage = state.triage || {};
   state.jobs = state.jobs || [];
 
-  // ---------- Pharma exclusion (env-tox only — no drug-development companies) ----------
-  // Mirrors PHARMA_COMPANY_RE in scrape_jobs.py. Agrochemical / chemical makers
-  // (Corteva, Syngenta, Dow, BASF) are intentionally NOT matched.
-  const PHARMA_RE = /pharmaceutic|pharma\b|therapeutic|biopharm|biotech|biologic|bioscience|biosystem|genomics|gene therap|cell therap|immunotherap|\bvaccine|\bmedicines\b|drug discovery|oncolog|biomedicine|nanomedicine|\b(?:pfizer|merck|novartis|roche|abbvie|bristol[ -]?myers|sanofi|astrazeneca|glaxosmithkline|takeda|boehringer|amgen|gilead|genentech|biogen|regeneron|moderna|vertex|novo nordisk|viatris|bausch|alkermes|halozyme|galapagos|insitro|recursion|cytokinetics|arcus|gritstone|sutro|nurix|rigel|corcept|annexon|kodiak|coherus|vaxcyte|allakos|protagonist|kyverna|septerna|sangamo|atara|allogene|intellia|editas|poseida|nkarta|tenaya|pliant|rezolute|aldeyra|arcturus|caribou|chemocentryx|dynavax|geron|iovance|karuna|mersana|mirati|nektar|prothena|revance|seagen|ultragenyx|zentalis|exelixis|biomarin|alnylam|incyte|neurocrine|ionis|denali|acadia|adarx|genmab|nuvation|exact sciences|revolution medicines|structure therapeutics|relay therapeutics|beam therapeutics|sana biotechnology|fate therapeutics)\b/i;
-  function isPharma(company) { return PHARMA_RE.test(company || ''); }
+  // ---------- Config (config.json drives branding, role buckets, priority
+  //            topics, and company exclusion). These are the fallback defaults;
+  //            applyConfig() overrides them from config.json at load. ----------
+  let CONFIG = {};
 
-  // ---------- Classifiers ----------
+  // Company exclusion — drop roles from these companies (case-insensitive
+  // substring on the company name). Mirrors employers.exclude in config.json.
+  let EXCLUDE_COMPANY = [
+    'pharmaceutic', 'pharma ', 'therapeutics', 'biopharma', 'biotech', 'biologics',
+    'biosciences', 'genomics', 'oncolog', 'biomedicine', 'genentech', 'gilead',
+    'pfizer', 'merck', 'novartis', 'abbvie', 'regeneron', 'moderna', 'biogen',
+    'sanofi', 'astrazeneca', 'takeda', 'biomarin', 'alnylam', 'incyte', 'exelixis',
+    'neurocrine', 'ionis', 'denali', 'acadia', 'adarx', 'genmab', 'galapagos',
+    'insitro', 'recursion', 'cytokinetics', 'vertex pharm', 'bristol-myers', 'bristol myers',
+  ];
+  function isPharma(company) {
+    const c = (company || '').toLowerCase();
+    return EXCLUDE_COMPANY.some(t => t && c.includes(t));
+  }
+
+  // Role buckets for the Role filter: [name, RegExp], applied top-to-bottom.
+  let ROLE_CATS = [
+    ['Toxicology', /toxicolog/],
+    ['Risk/Exposure', /risk assess|exposure|hazard|dose.response|pharmacokinetic|toxicokinetic/],
+    ['Water', /water|drinking water|watershed|aquatic|marine|limnolog/],
+    ['Contaminants', /microplastic|nanoplastic|pfas|contaminant|pollution|remediation/],
+    ['Environmental Health', /environmental health|epidemiolog|public health/],
+    ['Environmental Science', /environmental|ecolog|sustainab|conservation|chemist/],
+    ['Policy/Regulatory', /policy|regulatory|stewardship|registration|reach\b|affairs/],
+    ['Data Science', /data scien|data analyst|biostatistic|informatic/],
+    ['Academic', /professor|faculty|lecturer/],
+  ];
+  let ROLE_NAMES = ROLE_CATS.map(r => r[0]).concat('Other');
   function classifyRole(title) {
     const t = (title || '').toLowerCase();
-    if (/toxicolog/.test(t)) return 'Toxicology';
-    if (/risk assess|exposure|hazard|dose.response|pharmacokinetic|toxicokinetic/.test(t)) return 'Risk/Exposure';
-    if (/water|drinking water|watershed|aquatic|marine|limnolog/.test(t)) return 'Water';
-    if (/microplastic|nanoplastic|pfas|contaminant|pollution|remediation/.test(t)) return 'Contaminants';
-    if (/data scien|data analyst|biostatistic|informatic/.test(t)) return 'Data Science';
-    if (/policy|regulatory|stewardship|registration|reach\b|affairs/.test(t)) return 'Policy/Regulatory';
-    if (/professor|faculty|lecturer/.test(t)) return 'Academic';
-    if (/environmental health|epidemiolog|public health/.test(t)) return 'Environmental Health';
-    if (/environmental|ecolog|sustainab|conservation|chemist/.test(t)) return 'Environmental Science';
+    for (const [name, re] of ROLE_CATS) if (re.test(t)) return name;
     return 'Other';
   }
+
+  // Rebuild role buckets / stars / exclusions / branding from config.json.
+  function applyConfig(cfg) {
+    CONFIG = cfg || {};
+    try {
+      const rc = ((cfg.role_categories || {}).terms) || [];
+      if (Array.isArray(rc) && rc.length) {
+        ROLE_CATS = rc.map(([n, src]) => [n, new RegExp(src, 'i')]);
+        ROLE_NAMES = ROLE_CATS.map(r => r[0]).concat('Other');
+      }
+      const pt = ((cfg.priority_topics || {}).terms) || null;
+      if (Array.isArray(pt)) STAR_TERMS = pt.map(([n, src]) => [n, new RegExp(src, 'i')]);
+      const ex = (cfg.employers || {}).exclude;
+      if (Array.isArray(ex)) EXCLUDE_COMPANY = ex.map(t => String(t).toLowerCase());
+      const p = cfg.profile || {};
+      if (p.title) {
+        document.title = 'Job Triage — ' + p.title;
+        const h1 = document.querySelector('header h1');
+        if (h1) h1.textContent = (p.emoji ? p.emoji + ' ' : '') + p.title;
+      }
+    } catch (e) { console.warn('[applyConfig] ignored bad config:', e.message); }
+  }
+
+  // ---------- Classifiers ----------
   function classifySeniority(title) {
     const t = (title || '').toLowerCase();
     if (/director|head of|chief|vice president|\bvp\b/.test(t)) return 'Director+';
@@ -586,9 +628,9 @@
   }
 
   // ---------- Priority-topic star ----------
-  // Flag (★) roles touching Dr. Coffin's signature topics, scanning title +
-  // company + description. Edit STAR_TERMS to change what gets highlighted.
-  const STAR_TERMS = [
+  // Flag (★) roles touching signature topics, scanning title + company +
+  // description. Default fallback; overridden by config.json → priority_topics.
+  let STAR_TERMS = [
     ['microplastics', /microplastic|nanoplastic|microfiber/i],
     ['ecotoxicology', /ecotoxicolog/i],
     ['endocrine-disrupting chemicals', /endocrine[\s-]?disrupt|\bedcs?\b/i],
@@ -1265,12 +1307,7 @@
   function renderAll() {
     VIEW = dedupe(state.jobs);   // collapse cross-posted (LinkedIn↔Indeed) dupes
     renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Priority', 'Indeed', 'CalCareers', 'USAJOBS', 'NEOGOV', 'CalOpps']);
-    renderFilterGroup('filter-role', 'role',
-      ['Toxicology', 'Risk/Exposure', 'Water', 'Contaminants',
-       'Environmental Health', 'Environmental Science', 'Policy/Regulatory',
-       'Data Science', 'Academic', 'Other']);
-    // Dr. Coffin is senior, so the full seniority range is shown (junior/intern
-    // postings are dropped at the scraper — see EXCLUDED_SENIORITY_RE).
+    renderFilterGroup('filter-role', 'role', ROLE_NAMES);   // from config.json → role_categories
     renderFilterGroup('filter-sen', 'sen',
       ['Director+', 'Principal', 'Staff', 'Senior', 'Mid', 'Associate']);
     renderDateFilter();
@@ -1336,6 +1373,12 @@
   async function refresh() {
     $('snapshot-line').textContent = 'Loading…';
     try {
+      // config.json drives branding / role buckets / stars / exclusions.
+      // Missing or invalid → keep the built-in defaults (applyConfig no-ops).
+      try {
+        const cr = await fetch('config.json?v=' + Date.now());
+        if (cr.ok) applyConfig(await cr.json());
+      } catch { /* keep defaults */ }
       SEED = await loadJobs();
       SEED.jobs.forEach(enrich);
       mergeJobs(SEED.jobs);
@@ -1358,7 +1401,7 @@
     const mins = Math.floor((Date.now() - (state._lastLoaded||0)) / 60000);
     const ago = mins < 1 ? 'just now' : `${mins}m ago`;
     $('snapshot-line').textContent =
-      `California · scrape ${SEED.scraped_at || 'unknown'} · loaded ${ago} · ${VIEW.length} jobs`;
+      `${(CONFIG.profile && CONFIG.profile.subtitle) || 'All locations'} · scrape ${SEED.scraped_at || 'unknown'} · loaded ${ago} · ${VIEW.length} jobs`;
   }
   setInterval(() => {
     if (!document.hidden && state._lastLoaded) updateSnapshotLine();
