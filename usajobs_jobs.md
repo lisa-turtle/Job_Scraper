@@ -1,14 +1,19 @@
 # 🇺🇸 USAJOBS — Federal Environmental / Toxicology Roles
-*Last updated: 2026-06-15 17:25 UTC*
+*Last updated: 2026-06-16 17:21 UTC*
 
-**2 new role(s)** since last run · 7 total in current USAJOBS postings
+**3 new role(s)** since last run · 10 total in current USAJOBS postings
 
-### [SUPERVISORY ENVIRONMENTAL PROTECTION SPECIALIST](https://www.usajobs.gov/job/873069200) — U.S. Marine Corps
-- 📍 **Location:** Camp Pendleton, California
-- 💰 **Salary:** Starting at $85,307 Per year (GS 11)
-- 🕒 **Posted:** 2026-06-15
+### [Environmental Protection Specialist- Reservist](https://www.usajobs.gov/job/873212400) — Federal Emergency Management Agency
+- 📍 **Location:** Salt Lake City, Utah
+- 💰 **Salary:** Starting at $29.27 Per hour (IM 1)
+- 🕒 **Posted:** 2026-06-16
 
-### [Subject Matter Specialist (Air Quality) - DIRECT HIRE AUTHORITY](https://www.usajobs.gov/job/872100900) — Air Force Materiel Command
-- 📍 **Location:** Kelly AFB, Texas
-- 💰 **Salary:** Starting at $90,823 Per year (NH 3)
-- 🕒 **Posted:** 2026-06-08
+### [Environmental Protection Specialist](https://www.usajobs.gov/job/873183700) — Veterans Health Administration
+- 📍 **Location:** Roseburg, Oregon
+- 💰 **Salary:** Starting at $74,678 Per year (GS 11)
+- 🕒 **Posted:** 2026-06-16
+
+### [Director, Existing Chemical Risk Management Division](https://www.usajobs.gov/job/872765400) — Environmental Protection Agency
+- 📍 **Location:** Washington, District of Columbia
+- 💰 **Salary:** Starting at $197,201 Per year (ES 00)
+- 🕒 **Posted:** 2026-06-16
