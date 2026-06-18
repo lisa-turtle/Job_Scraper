@@ -1,6 +1,8 @@
 # 🏛 Priority Employers — Environmental / Toxicology Roles
-*Last updated: 2026-06-17 04:54 UTC*
+*Last updated: 2026-06-18 04:54 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new priority-employer roles since the last run.
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4424733980/) — Tetra Tech
+- 📍 **Location:** Portland, OR
+- 🕒 **Posted:** 2026-06-17
