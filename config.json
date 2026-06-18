@@ -120,6 +120,11 @@
 
   "notify": {
     "_comment": "Pushover phone alerts (optional; needs PUSHOVER_TOKEN/USER secrets). Notify when a new role is a priority-topic OR scores at/above min_fit.",
-    "min_fit": 75
+    "min_fit": 75,
+    "weekly_digest": {
+      "_comment": "Optional weekly Pushover brief. Prefer enabling via the WEEKLY_DIGEST_PUSHOVER repository variable so forks stay quiet by default.",
+      "enabled": false,
+      "days": 7
+    }
   }
 }

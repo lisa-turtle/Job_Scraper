@@ -24,10 +24,15 @@ import re
 import urllib.error
 import urllib.parse
 import urllib.request
+from datetime import datetime, timedelta, timezone
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 NOTIFIED_PATH = os.path.join(SCRIPT_DIR, "notified.json")
+ALL_JOBS_PATH = os.path.join(SCRIPT_DIR, "all_jobs.json")
+SCORES_PATH = os.path.join(SCRIPT_DIR, "scores.json")
+CONFIG_PATH = os.path.join(SCRIPT_DIR, "config.json")
 PUSHOVER_URL = "https://api.pushover.net/1/messages.json"
+DASHBOARD_URL = "https://scottcoffin.github.io/Job_Scraper/triage.html"
 MAX_PUSHES_PER_RUN = 8     # cap individual pings; the rest get one summary
 NOTIFIED_KEEP = 600        # remember this many recent jobs to avoid repeats
 
@@ -64,6 +69,35 @@ def _min_fit() -> int:
         return int(os.environ.get("NOTIFY_MIN_FIT", "75"))
     except ValueError:
         return 75
+
+
+def _truthy(value: str | None) -> bool:
+    return str(value or "").strip().lower() in {"1", "true", "yes", "y", "on"}
+
+
+def _load_config() -> dict:
+    try:
+        with open(CONFIG_PATH, encoding="utf-8") as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
+def _weekly_digest_days() -> int:
+    try:
+        raw = os.environ.get("WEEKLY_DIGEST_DAYS") or _load_config().get(
+            "notify", {}).get("weekly_digest", {}).get("days", 7)
+        return max(1, int(raw))
+    except ValueError:
+        return 7
+
+
+def _weekly_digest_enabled(force: bool = False) -> bool:
+    if force:
+        return True
+    if _truthy(os.environ.get("WEEKLY_DIGEST_PUSHOVER")):
+        return True
+    return bool(_load_config().get("notify", {}).get("weekly_digest", {}).get("enabled"))
 
 
 def _stars(text: str) -> list:
@@ -108,6 +142,164 @@ def _save_notified(data: dict):
     data["ids"] = data["ids"][-NOTIFIED_KEEP:]
     with open(NOTIFIED_PATH, "w") as f:
         json.dump(data, f)
+
+
+def _load_scores() -> dict:
+    try:
+        with open(SCORES_PATH, encoding="utf-8") as f:
+            return json.load(f).get("scores", {})
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
+def _parse_first_seen(value: str) -> datetime | None:
+    if not value:
+        return None
+    try:
+        return datetime.fromisoformat(value.replace("Z", "+00:00")).astimezone(timezone.utc)
+    except ValueError:
+        return None
+
+
+def _salary_numbers(salary: str) -> list[float]:
+    core = re.sub(r"\([^)]*\)", "", salary or "")
+    values: list[float] = []
+    for raw, suffix in re.findall(r"(?:[$A-Z]*\$)?\s*([0-9][0-9,]*(?:\.\d+)?)\s*([kK]?)", core):
+        try:
+            val = float(raw.replace(",", ""))
+        except ValueError:
+            continue
+        if suffix.lower() == "k":
+            val *= 1000
+        values.append(val)
+    return values
+
+
+def salary_annual_range(salary: str) -> tuple[float, float] | None:
+    values = _salary_numbers(salary)
+    if not values:
+        return None
+    text = salary.lower()
+    lo, hi = min(values), max(values)
+    if re.search(r"\b(hour|hourly|hr)\b|/hr", text):
+        factor = 2080
+    elif re.search(r"\b(month|monthly|mo)\b|/mo", text):
+        factor = 12
+    elif re.search(r"\b(week|weekly|wk)\b|/wk", text):
+        factor = 52
+    elif re.search(r"\b(day|daily)\b|/day", text):
+        factor = 260
+    else:
+        factor = 1
+        if hi < 1000:
+            # Some sources label hourly wages as "/yr"; avoid bucketing $34 as
+            # an annual salary.
+            factor = 2080
+    return lo * factor, hi * factor
+
+
+def salary_band(job: dict) -> str:
+    annual = salary_annual_range(job.get("salary", ""))
+    if not annual:
+        return "No listed salary"
+    hi = annual[1]
+    if hi >= 200000:
+        return "$200k+"
+    if hi >= 150000:
+        return "$150k-$199k"
+    if hi >= 100000:
+        return "$100k-$149k"
+    if hi >= 75000:
+        return "$75k-$99k"
+    return "<$75k"
+
+
+def _score_job(job: dict, scores: dict) -> tuple[int, str]:
+    verdict = scores.get(job.get("url", ""), {})
+    score = verdict.get("score")
+    if isinstance(score, int) and verdict.get("verdict") != "error":
+        return max(0, min(100, score)), "agent"
+    _, _, fit = relevance(job)
+    return fit, "fit"
+
+
+def _recent_jobs(days: int) -> list[dict]:
+    try:
+        with open(ALL_JOBS_PATH, encoding="utf-8") as f:
+            jobs = list(json.load(f).get("jobs", []))
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+
+    cutoff = datetime.now(timezone.utc) - timedelta(days=days)
+    recent = []
+    for job in jobs:
+        seen = _parse_first_seen(job.get("first_seen", ""))
+        if seen and seen >= cutoff:
+            recent.append(job)
+    return recent
+
+
+def _count_by(items: list[dict], key_func) -> list[tuple[str, int]]:
+    counts: dict[str, int] = {}
+    for item in items:
+        key = key_func(item) or "Unknown"
+        counts[key] = counts.get(key, 0) + 1
+    return sorted(counts.items(), key=lambda kv: (-kv[1], kv[0].lower()))
+
+
+def _join_counts(counts: list[tuple[str, int]], limit: int = 5) -> str:
+    shown = [f"{name} {count}" for name, count in counts[:limit]]
+    extra = sum(count for _, count in counts[limit:])
+    if extra:
+        shown.append(f"other {extra}")
+    return "; ".join(shown) if shown else "none"
+
+
+def _standout_lines(jobs: list[dict], scores: dict, limit: int = 3) -> list[str]:
+    ranked = []
+    for job in jobs:
+        score, source = _score_job(job, scores)
+        annual = salary_annual_range(job.get("salary", ""))
+        salary_hi = annual[1] if annual else -1
+        ranked.append((score, salary_hi, job.get("first_seen", ""), source, job))
+    ranked.sort(key=lambda row: (row[0], row[1], row[2]), reverse=True)
+
+    lines = []
+    for score, _, _, source, job in ranked[:limit]:
+        where = job.get("location") or "location n/a"
+        salary = f" - {job['salary']}" if job.get("salary") else ""
+        lines.append(
+            f"- {score}/100 {source}: {job.get('title', 'Untitled')} @ "
+            f"{job.get('company', 'Unknown')} ({where}){salary}"
+        )
+    return lines
+
+
+def build_weekly_digest(days: int | None = None) -> tuple[str, str, str]:
+    days = days or _weekly_digest_days()
+    jobs = _recent_jobs(days)
+    scores = _load_scores()
+    org_count = len({(j.get("company") or "").strip().lower() for j in jobs if j.get("company")})
+
+    title = f"Weekly job digest: {len(jobs)} new role(s)"
+    if not jobs:
+        return title, f"No new roles first seen in the last {days} day(s).", DASHBOARD_URL
+
+    salary_counts = _count_by(jobs, salary_band)
+    org_counts = _count_by(jobs, lambda j: j.get("company", "").strip())
+    lines = [
+        f"Last {days}d: {len(jobs)} roles across {org_count} organization(s).",
+        f"By salary: {_join_counts(salary_counts, limit=6)}.",
+        f"Top orgs: {_join_counts(org_counts, limit=5)}.",
+        "Standouts:",
+    ]
+    lines.extend(_standout_lines(jobs, scores, limit=3))
+    msg = "\n".join(lines)
+    if len(msg) > 1000:
+        msg = "\n".join(lines[:4] + _standout_lines(jobs, scores, limit=2))
+    if len(msg) > 1000:
+        msg = msg[:997] + "..."
+    return title, msg, os.environ.get("DASHBOARD_URL") or DASHBOARD_URL
 
 
 def send_pushover(token: str, user: str, *, title: str, message: str,
@@ -185,6 +377,40 @@ def notify_new_jobs(new_jobs: list, source_label: str = ""):
     _save_notified(notified)
 
 
+def send_weekly_digest(*, days: int | None = None, force: bool = False,
+                       dry_run: bool = False) -> bool:
+    """Send the opt-in weekly digest. No LLM call is required; standouts use
+    scores.json when present and the deterministic fit scorer otherwise."""
+    if not _weekly_digest_enabled(force=force) and not dry_run:
+        print("Weekly digest disabled; set WEEKLY_DIGEST_PUSHOVER=true to opt in.")
+        return True
+
+    title, message, url = build_weekly_digest(days=days)
+    if dry_run:
+        print(title)
+        print(message)
+        print(f"URL: {url}")
+        return True
+
+    token = os.environ.get("PUSHOVER_TOKEN")
+    user = os.environ.get("PUSHOVER_USER")
+    if not token or not user:
+        print("Weekly digest skipped: PUSHOVER_TOKEN/PUSHOVER_USER are missing.")
+        return False
+
+    ok = send_pushover(
+        token,
+        user,
+        title=title,
+        message=message,
+        url=url,
+        url_title="Open dashboard",
+        priority=0,
+    )
+    print("Weekly digest sent." if ok else "Weekly digest send failed.")
+    return ok
+
+
 def send_test() -> bool:
     """Send a single test push to verify the Pushover setup end-to-end.
     Returns True on success. Prints a clear diagnosis on failure."""
@@ -214,10 +440,27 @@ def send_test() -> bool:
 
 
 if __name__ == "__main__":
-    # `python notify.py` or `python notify.py --test` → send a test push.
+    # `python notify.py` or `python notify.py --test` -> send a test push.
+    # `python notify.py --weekly-digest` -> send the opt-in weekly brief.
+    import argparse
     import sys
     try:
         sys.stdout.reconfigure(encoding="utf-8")  # let emoji print on Windows too
     except Exception:
         pass
+
+    parser = argparse.ArgumentParser(description="Pushover notifications for Job_Scraper.")
+    parser.add_argument("--test", action="store_true", help="send a test push")
+    parser.add_argument("--weekly-digest", action="store_true", help="send the weekly digest")
+    parser.add_argument("--days", type=int, default=None,
+                        help="lookback window for --weekly-digest (default: env or 7)")
+    parser.add_argument("--force", action="store_true",
+                        help="bypass the weekly opt-in flag for manual dispatch")
+    parser.add_argument("--dry-run", action="store_true",
+                        help="print the weekly digest without sending Pushover")
+    args = parser.parse_args()
+
+    if args.weekly_digest:
+        raise SystemExit(0 if send_weekly_digest(
+            days=args.days, force=args.force, dry_run=args.dry_run) else 1)
     raise SystemExit(0 if send_test() else 1)

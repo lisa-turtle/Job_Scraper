@@ -118,8 +118,10 @@ the API is free):
    secret** — add `PUSHOVER_TOKEN` and `PUSHOVER_USER`.
 3. Test it: **Actions → Test Pushover Notification → Run workflow** — you should
    get a push within ~20 seconds.
-4. (Optional) Add a repository **Variable** `NOTIFY_TERMS` (comma-separated title
-   words) to only be pinged for the roles you care most about.
+4. (Optional) Add a repository **Variable** `NOTIFY_MIN_FIT` to tune instant
+   high-fit pings.
+5. (Optional) Add repository **Variable** `WEEKLY_DIGEST_PUSHOVER=true` to receive
+   the weekly Pushover brief. You can also set `WEEKLY_DIGEST_DAYS` (default `7`).
 
 Without these secrets, notifications are simply off and everything else works.
 
@@ -407,11 +409,26 @@ Optional **Variable** (not secret): `NOTIFY_MIN_FIT` — lower than 75 for more
 (less selective) pings, higher for fewer. Without the two secrets, notifications
 are simply off (everything else still works).
 
+Weekly brief: the `Weekly Job Digest` workflow runs Monday morning and is off by
+default. To opt in, add repository **Variable** `WEEKLY_DIGEST_PUSHOVER=true`.
+The brief reads `all_jobs.json` for roles first seen in the last 7 days, groups
+them by salary band and organization, and includes a few standouts ranked by
+`scores.json` when the optional triage agent has run. If `scores.json` is absent,
+it falls back to the same deterministic resume-fit scorer used for instant
+Pushover alerts, so no LLM is required. Optional variables:
+
+| Variable | Value |
+|---|---|
+| `WEEKLY_DIGEST_PUSHOVER` | `true` to enable the scheduled weekly brief |
+| `WEEKLY_DIGEST_DAYS` | Lookback window; default `7` |
+| `DASHBOARD_URL` | Override the link attached to the push |
+
 **Test it** (sends one push to your phone):
 - **From GitHub (recommended):** Actions → **Test Pushover Notification** → *Run
   workflow*. Uses your Actions secrets, so it confirms the real setup. The run
   log prints whether the keys are set and the exact Pushover API response on
   failure (e.g. a bad token/user key).
+- **Weekly digest dry run:** `python notify.py --weekly-digest --dry-run`
 - **Locally:**
   ```bash
   PUSHOVER_TOKEN=xxx PUSHOVER_USER=yyy python notify.py --test
@@ -461,6 +478,7 @@ scrapers and dashboard work fully without them; `scores.json` is optional.
     ├── usajobs_watch.yml           # Daily — USAJOBS (federal jobs, no API key)
     ├── localgov_watch.yml          # Daily — NEOGOV + CalOpps (state & local gov)
     ├── linkedin_watch_backup.yml   # Watchdog :33 PT — re-dispatches missed runs
+    ├── weekly_digest.yml           # Weekly — optional Pushover summary brief
     ├── triage.yml                  # Nightly — optional fit scoring (needs secrets)
     └── evals.yml                   # Triage-agent evals (optional)
 ```
