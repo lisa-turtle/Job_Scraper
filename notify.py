@@ -31,6 +31,7 @@ NOTIFIED_PATH = os.path.join(SCRIPT_DIR, "notified.json")
 ALL_JOBS_PATH = os.path.join(SCRIPT_DIR, "all_jobs.json")
 SCORES_PATH = os.path.join(SCRIPT_DIR, "scores.json")
 CONFIG_PATH = os.path.join(SCRIPT_DIR, "config.json")
+SCORING_PROFILE_PATH = os.path.join(SCRIPT_DIR, "scoring_profile.json")
 PUSHOVER_URL = "https://api.pushover.net/1/messages.json"
 DASHBOARD_URL = "https://scottcoffin.github.io/Job_Scraper/triage.html"
 MAX_PUSHES_PER_RUN = 8     # cap individual pings; the rest get one summary
@@ -44,24 +45,64 @@ STAR_TERMS = [
     ("R/Shiny", re.compile(r'\brshiny\b|\br[\s-]?shiny\b|shiny\s*(?:app|dashboard|server)|\bshiny\b', re.I)),
 ]
 
-# Compact resume-fit (port of FIT_TERMS in triage.html). Title counts x3.
+# Compact resume-fit. Title counts x3, but broad title-only hits are capped and
+# poor-fit role families are penalized so weekly "standouts" do not overstate
+# generic consulting/compliance matches when scores.json is empty.
 FIT_TERMS = [
     (re.compile(r'microplastic|nanoplastic|plastic pollution', re.I), 12),
     (re.compile(r'ecotoxicolog', re.I), 12),
-    (re.compile(r'risk assess|human health risk|ecological risk', re.I), 11),
-    (re.compile(r'\bexposure\b|exposure assess', re.I), 10),
+    (re.compile(r'human health risk|ecological risk|risk character', re.I), 11),
+    (re.compile(r'\brisk assess', re.I), 7),
+    (re.compile(r'\bexposure\b|exposure assess|exposure scien', re.I), 10),
     (re.compile(r'\bqsar\b|read-across', re.I), 11),
     (re.compile(r'\bpfas\b|perfluoro|per- and polyfluoro', re.I), 10),
     (re.compile(r'toxicolog', re.I), 8),
     (re.compile(r'pharmacokinetic|toxicokinetic|\bpbpk\b', re.I), 8),
     (re.compile(r'dose.response|benchmark dose', re.I), 7),
-    (re.compile(r'computational tox|new approach method|\bnam\b|in vitro', re.I), 8),
+    (re.compile(r'computational tox|predictive tox|new approach method|\bnam\b|in vitro|high.throughput', re.I), 8),
+    (re.compile(r'emerging contaminant|\bcec\b|contaminant|pollutant', re.I), 6),
     (re.compile(r'drinking water|water quality', re.I), 7),
     (re.compile(r'hazard assess', re.I), 6),
-    (re.compile(r'endocrine', re.I), 5),
-    (re.compile(r'environmental health|environmental chemist', re.I), 4),
-    (re.compile(r'cheminformatic|chemical safety|chemical risk', re.I), 5),
+    (re.compile(r'endocrine|bioaccumulat|sediment|aquatic|marine|estuar', re.I), 5),
+    (re.compile(r'environmental health|environmental chemist|environmental scien', re.I), 4),
+    (re.compile(r'regulatory|policy|standard setting|guidance', re.I), 4),
+    (re.compile(r'data scien|machine learning|\bshiny\b|\br programming\b|biostatistic|modeling|modelling', re.I), 4),
+    (re.compile(r'cheminformatic|chemical safety|chemical risk|product steward', re.I), 5),
 ]
+
+SIGNATURE_TERMS = [
+    re.compile(p, re.I) for p in [
+        r'microplastic|nanoplastic|plastic pollution|ecotoxicolog',
+        r'endocrine[\s-]?disrupt|\bedcs?\b',
+        r'\bqsar\b|read-across|structure.activity|cheminformatic',
+        r'computational tox|predictive tox|new approach method|\bnam\b',
+        r'pharmacokinetic|toxicokinetic|\bpbpk\b|dose.response|benchmark dose',
+        r'\bexposure\b|exposure assess|exposure scien',
+        r'human health risk|ecological risk|hazard assess|chemical risk',
+        r'\bshiny\b|\br programming\b|data scien|machine learning',
+    ]
+]
+
+POOR_FIT_TERMS = [
+    (re.compile(r'occupational hygiene|industrial hygien|environmental health safety|\behs\b|health safety', re.I), 36),
+    (re.compile(r'customer risk|credit risk|operations risk|operational risk|financial risk|banking|change lead', re.I), 45),
+    (re.compile(r'risk assessment and operations', re.I), 32),
+    (re.compile(r'staff research associate|research associate', re.I), 32),
+    (re.compile(r'contaminated land|remediation|field oversight|hazardous building materials|stormwater', re.I), 24),
+    (re.compile(r'\bwater treatment\b|utilities operations|electrician|air quality project', re.I), 18),
+    (re.compile(r'\bprincipal\b|practice lead|senior manager|director\b|supervisor', re.I), 14),
+    (re.compile(r'clinical|forensic|pharmacologist|physiologist|pharmaceutical|pharmaron|biocompat', re.I), 35),
+]
+
+DEFAULT_SCORING_SETTINGS = {
+    "title_multiplier": 3,
+    "body_multiplier": 1,
+    "score_multiplier": 1.6,
+    "generic_cap": 35,
+    "standout_threshold": 60,
+}
+
+_SCORING_PROFILE: dict | None = None
 
 
 def _min_fit() -> int:
@@ -81,6 +122,80 @@ def _load_config() -> dict:
             return json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         return {}
+
+
+def _compile_patterns(items: list) -> list:
+    out = []
+    for item in items or []:
+        pattern = item.get("pattern") if isinstance(item, dict) else item
+        if not pattern:
+            continue
+        try:
+            out.append(re.compile(str(pattern), re.I))
+        except re.error as e:
+            print(f"  ⚠️  scoring_profile.json ignored invalid regex {pattern!r}: {e}")
+    return out
+
+
+def _compile_weighted_patterns(items: list, value_key: str) -> list:
+    out = []
+    for item in items or []:
+        if isinstance(item, dict):
+            pattern = item.get("pattern")
+            value = item.get(value_key)
+        elif isinstance(item, (list, tuple)) and len(item) >= 2:
+            pattern, value = item[0], item[1]
+        else:
+            continue
+        if not pattern:
+            continue
+        try:
+            value = float(value)
+            out.append((re.compile(str(pattern), re.I), value))
+        except (TypeError, ValueError, re.error) as e:
+            print(f"  ⚠️  scoring_profile.json ignored invalid scoring rule {pattern!r}: {e}")
+    return out
+
+
+def _scoring_profile() -> dict:
+    global _SCORING_PROFILE
+    if _SCORING_PROFILE is not None:
+        return _SCORING_PROFILE
+
+    profile = {
+        "fit_terms": FIT_TERMS,
+        "signature_terms": SIGNATURE_TERMS,
+        "poor_fit_terms": POOR_FIT_TERMS,
+        "settings": dict(DEFAULT_SCORING_SETTINGS),
+    }
+    try:
+        with open(SCORING_PROFILE_PATH, encoding="utf-8") as f:
+            raw = json.load(f)
+    except FileNotFoundError:
+        _SCORING_PROFILE = profile
+        return profile
+    except json.JSONDecodeError as e:
+        print(f"  ⚠️  scoring_profile.json is invalid JSON; using built-in scoring ({e})")
+        _SCORING_PROFILE = profile
+        return profile
+
+    # A custom profile replaces the built-in example terms. Missing sections are
+    # treated as empty so example-domain scoring never leaks into another field.
+    profile["fit_terms"] = _compile_weighted_patterns(raw.get("fit_terms", []), "weight")
+    profile["signature_terms"] = _compile_patterns(raw.get("signature_terms", []))
+    profile["poor_fit_terms"] = _compile_weighted_patterns(raw.get("poor_fit_terms", []), "penalty")
+
+    settings = raw.get("settings", {})
+    if isinstance(settings, dict):
+        for key in DEFAULT_SCORING_SETTINGS:
+            try:
+                if key in settings:
+                    profile["settings"][key] = float(settings[key])
+            except (TypeError, ValueError):
+                print(f"  ⚠️  scoring_profile.json ignored invalid setting {key!r}")
+
+    _SCORING_PROFILE = profile
+    return profile
 
 
 def _weekly_digest_days() -> int:
@@ -105,13 +220,22 @@ def _stars(text: str) -> list:
 
 
 def _fit(title: str, body: str) -> int:
+    profile = _scoring_profile()
+    settings = profile["settings"]
+    text = f"{title} {body}"
+    has_signature = any(rx.search(text) for rx in profile["signature_terms"])
     score = 0
-    for rx, w in FIT_TERMS:
+    for rx, w in profile["fit_terms"]:
         if rx.search(title):
-            score += w * 3
+            score += w * settings["title_multiplier"]
         elif rx.search(body):
-            score += w
-    return max(0, min(100, round(score * 1.6)))
+            score += w * settings["body_multiplier"]
+    for rx, penalty in profile["poor_fit_terms"]:
+        if rx.search(text):
+            score -= penalty
+    if not has_signature:
+        score = min(score, settings["generic_cap"])
+    return max(0, min(100, round(score * settings["score_multiplier"])))
 
 
 def relevance(job: dict) -> tuple[bool, list, int]:
@@ -255,9 +379,18 @@ def _join_counts(counts: list[tuple[str, int]], limit: int = 5) -> str:
     return "; ".join(shown) if shown else "none"
 
 
-def _standout_lines(jobs: list[dict], scores: dict, limit: int = 3) -> list[str]:
+def _norm_key(value: str) -> str:
+    return re.sub(r"[^a-z0-9]+", " ", value.lower()).strip()
+
+
+def _standout_lines(jobs: list[dict], scores: dict, limit: int = 3) -> tuple[str, list[str]]:
     ranked = []
+    seen_roles: set[tuple[str, str]] = set()
     for job in jobs:
+        role_key = (_norm_key(job.get("company", "")), _norm_key(job.get("title", "")))
+        if role_key in seen_roles:
+            continue
+        seen_roles.add(role_key)
         score, source = _score_job(job, scores)
         annual = salary_annual_range(job.get("salary", ""))
         salary_hi = annual[1] if annual else -1
@@ -272,7 +405,9 @@ def _standout_lines(jobs: list[dict], scores: dict, limit: int = 3) -> list[str]
             f"- {score}/100 {source}: {job.get('title', 'Untitled')} @ "
             f"{job.get('company', 'Unknown')} ({where}){salary}"
         )
-    return lines
+    threshold = _scoring_profile()["settings"]["standout_threshold"]
+    heading = "Standouts:" if ranked and ranked[0][0] >= threshold else "Closest matches (no high-confidence standouts):"
+    return heading, lines
 
 
 def build_weekly_digest(days: int | None = None) -> tuple[str, str, str]:
@@ -287,16 +422,18 @@ def build_weekly_digest(days: int | None = None) -> tuple[str, str, str]:
 
     salary_counts = _count_by(jobs, salary_band)
     org_counts = _count_by(jobs, lambda j: j.get("company", "").strip())
+    standout_heading, standout_lines = _standout_lines(jobs, scores, limit=3)
     lines = [
         f"Last {days}d: {len(jobs)} roles across {org_count} organization(s).",
         f"By salary: {_join_counts(salary_counts, limit=6)}.",
         f"Top orgs: {_join_counts(org_counts, limit=5)}.",
-        "Standouts:",
+        standout_heading,
     ]
-    lines.extend(_standout_lines(jobs, scores, limit=3))
+    lines.extend(standout_lines)
     msg = "\n".join(lines)
     if len(msg) > 1000:
-        msg = "\n".join(lines[:4] + _standout_lines(jobs, scores, limit=2))
+        short_heading, short_lines = _standout_lines(jobs, scores, limit=2)
+        msg = "\n".join(lines[:3] + [short_heading] + short_lines)
     if len(msg) > 1000:
         msg = msg[:997] + "..."
     return title, msg, os.environ.get("DASHBOARD_URL") or DASHBOARD_URL

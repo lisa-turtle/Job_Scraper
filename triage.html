@@ -477,7 +477,7 @@
   // Weighted keywords from Dr. Coffin's specializations. Title matches count
   // ~3x (title is the strongest signal); company / agent "why" text also count.
   // Tune these weights freely — higher = stronger pull toward the top of Rank.
-  const FIT_TERMS = [
+  let FIT_TERMS = [
     // Tier 1 — his signature topics
     [/microplastic|nanoplastic|plastic pollution|microfiber/, 12],
     [/ecotoxicolog/, 12],
@@ -500,6 +500,55 @@
     [/data scien|machine learning|\bshiny\b|\br programming\b|biostatistic|modeling|modelling/, 4],
     [/cheminformatic|chemical safety|chemical risk|product steward/, 5],
   ];
+  let SIGNATURE_TERMS = [];
+  let POOR_FIT_TERMS = [];
+  let FIT_SETTINGS = {
+    title_multiplier: 3,
+    body_multiplier: 1,
+    score_multiplier: 1.6,
+    generic_cap: 35,
+  };
+  function compileScoringRegex(pattern) {
+    try { return new RegExp(pattern, 'i'); }
+    catch (e) {
+      console.warn('[scoring_profile] invalid regex:', pattern, e.message);
+      return null;
+    }
+  }
+  function compileWeightedRules(items, key) {
+    if (!Array.isArray(items)) return [];
+    return items.map(item => {
+      const pattern = Array.isArray(item) ? item[0] : item?.pattern;
+      const value = Number(Array.isArray(item) ? item[1] : item?.[key]);
+      const re = pattern ? compileScoringRegex(pattern) : null;
+      return re && Number.isFinite(value) ? [re, value] : null;
+    }).filter(Boolean);
+  }
+  async function loadScoringProfile(bust) {
+    try {
+      const r = await fetch('scoring_profile.json' + bust);
+      if (!r.ok) return;
+      const profile = await r.json();
+      const fit = compileWeightedRules(profile.fit_terms, 'weight');
+      const signatures = Array.isArray(profile.signature_terms)
+        ? profile.signature_terms.map(compileScoringRegex).filter(Boolean) : [];
+      const poor = compileWeightedRules(profile.poor_fit_terms, 'penalty');
+      // A custom profile replaces the built-in example terms. Missing sections
+      // are treated as empty so example-domain scoring never leaks into another field.
+      FIT_TERMS = fit;
+      SIGNATURE_TERMS = signatures;
+      POOR_FIT_TERMS = poor;
+      if (profile.settings && typeof profile.settings === 'object') {
+        for (const key of Object.keys(FIT_SETTINGS)) {
+          const val = Number(profile.settings[key]);
+          if (Number.isFinite(val)) FIT_SETTINGS[key] = val;
+        }
+      }
+      console.info('[scoring_profile] loaded scoring_profile.json');
+    } catch (e) {
+      console.warn('[scoring_profile] ignored scoring_profile.json:', e.message || e);
+    }
+  }
   // Cache of significant tokens from "not relevant"-marked titles → penalty source.
   let IRRELEVANT_CORPUS = {};
   const FIT_STOPWORDS = new Set(('the a an of for and or to in at on with senior staff principal '
@@ -522,19 +571,24 @@
   function computeFit(j) {
     const title = (j.title || '').toLowerCase();
     const extra = `${j.company || ''} ${j._why || ''} ${j.description || ''}`.toLowerCase();
+    const text = `${title} ${extra}`;
+    const hasSignature = !SIGNATURE_TERMS.length || SIGNATURE_TERMS.some(re => re.test(text));
     let score = 0;
     for (const [re, w] of FIT_TERMS) {
-      if (re.test(title)) score += w * 3;        // title hit = strongest
-      else if (re.test(extra)) score += w;        // body/company mention
+      if (re.test(title)) score += w * FIT_SETTINGS.title_multiplier;
+      else if (re.test(extra)) score += w * FIT_SETTINGS.body_multiplier;
     }
+    for (const [re, penalty] of POOR_FIT_TERMS) {
+      if (re.test(text)) score -= penalty;
+    }
+    if (!hasSignature) score = Math.min(score, FIT_SETTINGS.generic_cap);
     // Learn from "not relevant" marks: penalize titles sharing distinctive words.
     let penalty = 0;
     new Set(fitTokens(j.title)).forEach(w => {
       if (!FIT_STOPWORDS.has(w) && IRRELEVANT_CORPUS[w]) penalty += 6 * IRRELEVANT_CORPUS[w];
     });
     score -= Math.min(penalty, 40);
-    // Normalize to ~0–100 (a couple of strong title hits ≈ 100).
-    return Math.max(0, Math.min(100, Math.round(score * 1.6)));
+    return Math.max(0, Math.min(100, Math.round(score * FIT_SETTINGS.score_multiplier)));
   }
 
   // ---------- Salary parsing & harmonization ----------
@@ -727,6 +781,7 @@
 
   async function loadJobs() {
     const bust = `?v=${Date.now()}`;
+    await loadScoringProfile(bust);
     // Fit scores are optional — a 404 (no triage run yet) must never break loading.
     try {
       const r = await fetch('scores.json' + bust);
