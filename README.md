@@ -18,15 +18,21 @@ You only need a free [**GitHub account**](https://github.com/signup). Everything
 
 Choose the option that fits how much you care about receiving future scraper improvements:
 
-### Option A — "Use this template" (quickest, standalone copy)
+### Option A — Fork (quickest)
 
-Click the green **Use this template → Create a new repository** button at the top of this page. Name it (e.g. `job-tracker`), keep it **Public** (GitHub Pages is free for public repos), and click **Create repository**.
+Click **Fork** at the top of this page and create the repo under your account. You get a linked copy; GitHub shows a "Contribute / Sync fork" button when the upstream has new commits.
 
-You get a clean independent copy. No link back to this repo — you won't automatically receive bug fixes or new scrapers, but there are also no merge conflicts to manage.
+> GitHub won't let you fork a repo you already own to the same account. If that applies, use Option B.
 
-### Option B — Import + stay in sync with upstream (recommended for power users)
+### Option B — "Use this template" (clean copy, no history)
 
-This creates your own repo that can pull code improvements from this source repo at any time, without touching your personal config or scraped data.
+If you see a green **Use this template → Create a new repository** button, click it. You get a completely independent repo with no shared history — simpler than a fork for most users.
+
+> The button only appears if the repo owner has enabled **Settings → Template repository**. If you don't see it, use Option A or C.
+
+### Option C — Import + full upstream sync (recommended for power users)
+
+Creates your own repo that can pull code improvements from this source at any time, without touching your config or scraped data. Works even when forking to the same account isn't possible.
 
 1. Go to **[github.com/new/import](https://github.com/new/import)**
 2. Paste `https://github.com/ScottCoffin/Job_Scraper` as the source URL
@@ -46,14 +52,14 @@ This creates your own repo that can pull code improvements from this source repo
 
 5. See [FORK_SETUP.md](FORK_SETUP.md) for the full secrets/Pages checklist.
 
-**Pulling upstream improvements later** is a one-command operation:
+**Pulling upstream improvements later** (Options B and C) is a one-command operation:
 
 ```bash
 git remote add upstream https://github.com/ScottCoffin/Job_Scraper.git  # first time only
 git fetch upstream && git merge upstream/main
 ```
 
-`config.json`, `scoring_profile.json`, and everything in `output/` are gitignored in the upstream repo — they will **never** be overwritten when you pull. Only Python scripts, workflows, and docs change.
+`config.json`, `scoring_profile.json`, and everything in `output/` are gitignored in the upstream repo — they will **never** be overwritten. Only Python scripts, workflows, and docs change.
 
 You can also automate this: the included **`sync_upstream.yml`** workflow runs every Monday and merges new code automatically. Enable it in your repo under **Actions → Sync from upstream → Enable workflow**.
 
