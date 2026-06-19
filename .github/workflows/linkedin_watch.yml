@@ -1,4 +1,4 @@
-name: LinkedIn Env/Tox Watcher
+name: LinkedIn Watcher
 
 on:
   # Native GitHub cron, hourly at :17 during the active window (8am–8pm PT ≈

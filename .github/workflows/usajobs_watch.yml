@@ -1,4 +1,4 @@
-name: USAJOBS Env/Tox Watcher
+name: USAJOBS Watcher
 
 on:
   # Daily — federal postings change at day resolution. Runs at 15:37 UTC

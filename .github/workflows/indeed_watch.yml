@@ -1,4 +1,4 @@
-name: Indeed Env/Tox Watcher
+name: Indeed Watcher
 
 on:
   # Native GitHub cron, hourly at :47 during the active window (8am–8pm PT ≈

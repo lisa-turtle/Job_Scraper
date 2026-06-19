@@ -1,4 +1,4 @@
-name: CalCareers Env/Tox Watcher
+name: CalCareers Watcher
 
 on:
   # Daily — CalCareers postings change at day resolution and the portal is slow,
