@@ -1,13 +1,21 @@
 name: Sync from upstream
 
 # Pull the latest scraper/dashboard improvements from the source template repo.
-# Uses REBASE (not merge) so the fork stays "N commits ahead, 0 behind":
-#   • GitHub's "Sync fork" button then does a clean fast-forward and never
-#     shows the confusing "Discard N commits" prompt.
-#   • config.json, scoring_profile.json, and output/ are gitignored upstream
-#     so they are never present in upstream commits; rebasing replays your
-#     commits on top of upstream without touching your personal files.
-# -X ours auto-resolves any conflict by keeping this fork's version.
+# Uses MERGE (not rebase) with -X ours so the fork's personal files always win:
+#
+#   git merge -X ours  →  "ours" = this fork's branch  →  fork keeps its files ✓
+#   git rebase -X ours →  "ours" = the upstream state   →  upstream deletions win ✗
+#
+# Upstream once had config.json tracked and later deleted it. A rebase would
+# replay that delete commit and wipe the daughter's personalized config.json.
+# Merge with -X ours resolves that modify/delete conflict in the fork's favour.
+# .gitattributes also marks config.json and scoring_profile.json as merge=ours
+# for belt-and-suspenders protection.
+#
+# The fork will show "N commits ahead, M commits behind" in GitHub's UI — that
+# is expected and harmless. Use this workflow (not the "Sync fork" UI button)
+# to stay current; the button offers "Discard N commits" which would delete
+# your config.
 #
 # UPSTREAM SOURCE: https://github.com/ScottCoffin/Job_Scraper
 # Do NOT point this at your own personal fork.
@@ -19,7 +27,7 @@ on:
 
 jobs:
   sync:
-    name: Rebase onto upstream code improvements
+    name: Merge upstream code improvements
     runs-on: ubuntu-latest
 
     permissions:
@@ -31,27 +39,44 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Rebase onto upstream
+      - name: Merge from upstream
         run: |
           git config user.name  "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
           git remote add upstream https://github.com/ScottCoffin/Job_Scraper.git
           git fetch upstream main
 
-          # Rebase this fork's commits on top of upstream/main. After the
-          # force-push the fork is "ahead only" — no more diverged-branch
-          # warnings. -X ours auto-resolves conflicts in this fork's favour
-          # (should never trigger for config.json/scoring_profile.json since
-          # those files don't exist in upstream at all).
-          if git rebase upstream/main -X ours; then
-            git push --force-with-lease origin main
-          else
-            # Rebase failed despite -X ours (extremely unlikely). Fall back to
-            # a merge so the workflow doesn't error silently.
-            git rebase --abort
-            echo "⚠️  rebase failed; falling back to merge"
-            git merge upstream/main --no-edit -X ours \
-              -m "chore: sync from upstream [$(date -u '+%Y-%m-%d')]"
-            git push origin main
+          # Back up personal files before the merge in case any edge case
+          # in the merge machinery drops them (e.g. upstream once tracked then
+          # deleted config.json — that delete is in upstream's history and can
+          # surface as a modify/delete conflict even with -X ours).
+          cp config.json /tmp/_config.json 2>/dev/null || true
+          cp scoring_profile.json /tmp/_scoring_profile.json 2>/dev/null || true
+
+          # Merge upstream code. -X ours resolves any conflict by keeping this
+          # fork's version. config.json and scoring_profile.json are also marked
+          # merge=ours in .gitattributes for file-level protection.
+          git merge upstream/main --no-edit -X ours \
+            -m "chore: sync from upstream [$(date -u '+%Y-%m-%d')]"
+
+          # Unconditionally restore personal files from the pre-merge snapshot.
+          # If the merge preserved them correctly this is a no-op (diff is clean).
+          # If they were dropped or altered, this puts them back.
+          restored=0
+          if [ -f /tmp/_config.json ]; then
+            cp /tmp/_config.json config.json
+            git add -f config.json
+            restored=1
           fi
+          if [ -f /tmp/_scoring_profile.json ]; then
+            cp /tmp/_scoring_profile.json scoring_profile.json
+            git add -f scoring_profile.json
+            restored=1
+          fi
+          if [ "$restored" = "1" ]; then
+            git diff --cached --quiet \
+              || git commit -m "chore: restore personal config after upstream sync"
+          fi
+
+          git push origin main
           echo "✅ Synced successfully."
