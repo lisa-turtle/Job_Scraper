@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-21 19:30 UTC",
+  "scraped_at": "2026-06-22 05:45 UTC",
   "total": 45,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Department of Health and Human Services",
@@ -64,19 +64,6 @@
       "date_posted": "2026-06-11T15:08:14.100Z",
       "description": "U.S. citizen required; background investigation and Public Trust. Mandatory degree in relevant biological/medical/veterinary/physical science or pharmacy with specified coursework. Minimum 52 weeks specialized experience in toxicology, pharmacology, or physiology; ability to perform hazard analyses and prepare technical reports.",
       "salary": "$85k–$158k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Exponent",
-      "title": "Public Health Toxicologist (Ph.D.)",
-      "location": "Austin, Texas, United States",
-      "url": "https://careers-exponent.icims.com/jobs/2485/public-health-toxicologist-%28ph.d.%29/job?in_iframe=1",
-      "direct_url": "https://careers-exponent.icims.com/jobs/2485/public-health-toxicologist-%28ph.d.%29/job?in_iframe=1",
-      "date_posted": "2026-06-19T04:00:00.000Z",
-      "description": "Ph.D. in toxicology/public health or related field, strong human health toxicology and risk assessment expertise, excellent writing and communication, ability to manage multiple projects and work independently or in teams; must be authorized to work in the U.S.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -264,6 +251,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Alliance Technical Group",
+      "title": "Environmental Scientist II/III",
+      "location": "Pasadena, Texas, United States",
+      "url": "https://recruiting2.ultipro.com/all1037alnc/JobBoard/281665a5-6db2-4e7a-8885-7900fe799f07/OpportunityDetail?opportunityId=06eac06c-872b-4f11-b890-7ebe3e4fc96a",
+      "direct_url": "https://recruiting2.ultipro.com/all1037alnc/JobBoard/281665a5-6db2-4e7a-8885-7900fe799f07/OpportunityDetail?opportunityId=06eac06c-872b-4f11-b890-7ebe3e4fc96a",
+      "date_posted": "2026-06-01T14:47:34.077Z",
+      "description": "Bachelor’s in environmental science or related field; 3–5 years environmental consulting; strong writing; travel ability; familiarity with regulations.",
+      "salary": "$68k–$72k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Johnson, Mirmiran & Thompson, Inc.",
       "title": "Senior Environmental Scientist",
       "location": "Jacksonville, Florida, United States",
@@ -350,19 +350,6 @@
       "date_posted": "2026-06-18T01:47:11.696Z",
       "description": "Bachelor's in environmental science or related field required; 1+ years professional experience preferred. Experience with environmental monitoring, scientific instrumentation, telemetry, GIS (ESRI ArcPro), Microsoft Office/Excel, data management, and valid driver's license required.",
       "salary": "$52k–$73k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Audubon",
-      "title": "Environmental Scientist",
-      "location": "Canonsburg, Pennsylvania, United States",
-      "url": "https://myjobs.adp.com/auduboncorporatecareers/cx/job-details?reqId=5001196610906",
-      "direct_url": "https://myjobs.adp.com/auduboncorporatecareers/cx/job-details?reqId=5001196610906",
-      "date_posted": "2026-06-01T21:05:40.988Z",
-      "description": "Bachelor’s degree and 5+ years of experience; wetland surveys and permitting; field and project coordination.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -587,34 +574,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "Other Agencies and Independent Organizations",
-      "title": "Pharmacologist/Physiologist/Toxicologist",
-      "location": "Rockville, Maryland, United States",
-      "url": "https://www.usajobs.gov/job/872779100",
-      "direct_url": "https://www.usajobs.gov/job/872779100",
-      "date_posted": "2026-06-11T15:08:14.100Z",
-      "description": "U.S. citizen required; background investigation and Public Trust. Mandatory degree in relevant biological/medical/veterinary/physical science or pharmacy with specified coursework. Minimum 52 weeks specialized experience in toxicology, pharmacology, or physiology; ability to perform hazard analyses and prepare technical reports.",
-      "salary": "$85k–$158k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
     },
     {
-      "company": "Tricounty Health Department",
-      "title": "Environmental Health Scientist",
-      "location": "Roosevelt or Vernal",
-      "url": "https://tricountyhealth.bamboohr.com/careers/127",
-      "direct_url": "https://tricountyhealth.bamboohr.com/careers/127",
-      "date_posted": "2026-05-27T00:00:00.000Z",
-      "description": "Bachelor of Science in a scientific field; Utah Environmental Health Scientist License or ability to obtain within 1 year.",
-      "salary": "$48k–$81k/yr",
+      "company": "Audubon",
+      "title": "Environmental Scientist",
+      "location": "Canonsburg, Pennsylvania, United States",
+      "url": "https://myjobs.adp.com/auduboncorporatecareers/cx/job-details?reqId=5001196610906",
+      "direct_url": "https://myjobs.adp.com/auduboncorporatecareers/cx/job-details?reqId=5001196610906",
+      "date_posted": "2026-06-01T21:05:40.988Z",
+      "description": "Bachelor’s degree and 5+ years of experience; wetland surveys and permitting; field and project coordination.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     }
-  ]
+  ],
+  "new_jobs": []
 }
