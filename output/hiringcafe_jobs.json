@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-23 21:31 UTC",
+  "scraped_at": "2026-06-23 22:24 UTC",
   "total": 48,
   "new_count": 0,
   "jobs": [
@@ -396,20 +396,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Audubon",
-      "title": "Environmental Scientist",
-      "location": "Canonsburg, Pennsylvania, United States",
-      "url": "https://myjobs.adp.com/auduboncorporatecareers/cx/job-details?reqId=5001196610906",
-      "direct_url": "https://myjobs.adp.com/auduboncorporatecareers/cx/job-details?reqId=5001196610906",
-      "date_posted": "2026-06-01T21:05:40.988Z",
-      "description": "Bachelor’s degree and 5+ years of experience; wetland surveys and permitting; field and project coordination.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Usbank",
       "title": "Risk Assessment Lead - Cybersecurity Risk Oversight",
       "location": "Minneapolis or Cincinnati or Charlotte or Tempe or Saint Louis or Irving",
@@ -495,13 +481,13 @@
     },
     {
       "company": "Common Sense Media",
-      "title": "Risk Assessment Associate (Youth AI Safety Institute)",
+      "title": "Risk Assessment Analyst (Youth AI Safety Institute)",
       "location": "San Francisco, California, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=159738&clientkey=4AA7E7402507528EEEA6308617BB1F08",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=159738&clientkey=4AA7E7402507528EEEA6308617BB1F08",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=159742&clientkey=4AA7E7402507528EEEA6308617BB1F08",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=159742&clientkey=4AA7E7402507528EEEA6308617BB1F08",
       "date_posted": "2026-06-02T00:00:00.000Z",
-      "description": "Bachelor's degree; 2+ years in research/tech; analytical, strong communication; technical aptitude with AI tools; ability to handle sensitive content.",
-      "salary": "$62k–$79k/yr",
+      "description": "Bachelor's degree; 3–5 years in research/data analysis/safety evaluations; technical tools for automated testing; strong communication and content safety experience.",
+      "salary": "$90k–$110k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -673,6 +659,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Audubon",
+      "title": "Environmental Scientist",
+      "location": "Canonsburg, Pennsylvania, United States",
+      "url": "https://myjobs.adp.com/auduboncorporatecareers/cx/job-details?reqId=5001196610906",
+      "direct_url": "https://myjobs.adp.com/auduboncorporatecareers/cx/job-details?reqId=5001196610906",
+      "date_posted": "2026-06-01T21:05:40.988Z",
+      "description": "Bachelor’s degree and 5+ years of experience; wetland surveys and permitting; field and project coordination.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
   ],
