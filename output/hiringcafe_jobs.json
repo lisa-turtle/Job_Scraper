@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-23 22:24 UTC",
-  "total": 48,
-  "new_count": 0,
+  "scraped_at": "2026-06-23 23:22 UTC",
+  "total": 50,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Department of Health and Human Services",
@@ -71,6 +71,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "GSI Environmental Inc.",
+      "title": "Senior Risk Assessor/Toxicologist",
+      "location": "Houston or Austin or Irvine or San Francisco or Folsom or Olympia or Missoula or Helena or Lakewood or Raleigh or Syracuse",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "8+ years human health risk assessment experience; Bachelor's in chemistry, toxicology, public health (Master's preferred); 40-hour OSHA HAZWOPER; project management, DTSC/RWQCB familiarity, valid driver's license, ability to travel.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -208,6 +222,20 @@
       "date_posted": "2026-06-15T13:57:24.000Z",
       "description": "Bachelor's in geology or environmental science required; entry-level, primarily field work (95–100%); valid clean driver\\u0000s license; pass background check and drug test; 40-hour HAZWOPER preferred; Microsoft Office proficiency.",
       "salary": "$50k–$75k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Pae",
+      "title": "Environmental Scientist",
+      "location": "Pittsburgh, Pennsylvania, United States",
+      "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-PA-Pittsburgh/Environmental-Scientist_R0164261",
+      "direct_url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-PA-Pittsburgh/Environmental-Scientist_R0164261",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "Bachelor's in geology/engineering, valid driver license, 2+ years environmental experience (2-4 preferred), ability to travel and stay overnight, pass drug screen, work in PPE/respirator; 40-hour OSHA HAZWOPER available if needed.",
+      "salary": "$60k–$95k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -396,6 +424,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Brown and Caldwell",
+      "title": "Environmental Scientist I - Stormwater",
+      "location": "Walnut Creek, California, United States",
+      "url": "https://recruiting2.ultipro.com/bro1018braca/JobBoard/a06992cf-10e7-4e24-8932-26d607a3049e/OpportunityDetail?opportunityId=bc7dc039-53b5-4b2a-8a59-2d50767089bc",
+      "direct_url": "https://recruiting2.ultipro.com/bro1018braca/JobBoard/a06992cf-10e7-4e24-8932-26d607a3049e/OpportunityDetail?opportunityId=bc7dc039-53b5-4b2a-8a59-2d50767089bc",
+      "date_posted": "2026-06-05T18:29:26.526Z",
+      "description": "Bachelor's in chemistry, physics, environmental or life sciences (or equivalent), 0-2 years environmental/life sciences experience, California driver's license, Excel/Word proficiency, strong written/verbal and quantitative skills, ability to perform field sampling and travel up to 50%.",
+      "salary": "$59k–$95k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Usbank",
       "title": "Risk Assessment Lead - Cybersecurity Risk Oversight",
       "location": "Minneapolis or Cincinnati or Charlotte or Tempe or Saint Louis or Irving",
@@ -477,20 +519,6 @@
       "job_type": "Contract",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Common Sense Media",
-      "title": "Risk Assessment Analyst (Youth AI Safety Institute)",
-      "location": "San Francisco, California, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=159742&clientkey=4AA7E7402507528EEEA6308617BB1F08",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=159742&clientkey=4AA7E7402507528EEEA6308617BB1F08",
-      "date_posted": "2026-06-02T00:00:00.000Z",
-      "description": "Bachelor's degree; 3–5 years in research/data analysis/safety evaluations; technical tools for automated testing; strong communication and content safety experience.",
-      "salary": "$90k–$110k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -676,5 +704,34 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Pae",
+      "title": "Environmental Scientist",
+      "location": "Pittsburgh, Pennsylvania, United States",
+      "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-PA-Pittsburgh/Environmental-Scientist_R0164261",
+      "direct_url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-PA-Pittsburgh/Environmental-Scientist_R0164261",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "Bachelor's in geology/engineering, valid driver license, 2+ years environmental experience (2-4 preferred), ability to travel and stay overnight, pass drug screen, work in PPE/respirator; 40-hour OSHA HAZWOPER available if needed.",
+      "salary": "$60k–$95k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Brown and Caldwell",
+      "title": "Environmental Scientist I - Stormwater",
+      "location": "Walnut Creek, California, United States",
+      "url": "https://recruiting2.ultipro.com/bro1018braca/JobBoard/a06992cf-10e7-4e24-8932-26d607a3049e/OpportunityDetail?opportunityId=bc7dc039-53b5-4b2a-8a59-2d50767089bc",
+      "direct_url": "https://recruiting2.ultipro.com/bro1018braca/JobBoard/a06992cf-10e7-4e24-8932-26d607a3049e/OpportunityDetail?opportunityId=bc7dc039-53b5-4b2a-8a59-2d50767089bc",
+      "date_posted": "2026-06-05T18:29:26.526Z",
+      "description": "Bachelor's in chemistry, physics, environmental or life sciences (or equivalent), 0-2 years environmental/life sciences experience, California driver's license, Excel/Word proficiency, strong written/verbal and quantitative skills, ability to perform field sampling and travel up to 50%.",
+      "salary": "$59k–$95k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    }
+  ]
 }
