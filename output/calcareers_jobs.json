@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-23 17:00 UTC",
+  "scraped_at": "2026-06-24 16:55 UTC",
   "total": 12,
   "new_count": 0,
   "jobs": [
@@ -26,18 +26,6 @@
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of Transportation",
-      "title": "Environmental Scientist",
-      "location": "San Diego County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521123",
-      "date_posted": "2026-06-10",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers",
-      "telework": "In Office",
-      "job_type": "12 Month Limited Term - Full Time",
-      "work_arrangement": "On-site"
     },
     {
       "company": "Department of Fish and Wildlife",
@@ -86,6 +74,18 @@
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Department of Transportation",
+      "title": "Environmental Scientist",
+      "location": "San Diego County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521123",
+      "date_posted": "2026-06-10",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers",
+      "telework": "In Office",
+      "job_type": "12 Month Limited Term - Full Time",
+      "work_arrangement": "On-site"
     },
     {
       "company": "Department of Transportation",
