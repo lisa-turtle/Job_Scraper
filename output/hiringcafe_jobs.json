@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-25 18:40 UTC",
+  "scraped_at": "2026-06-25 19:33 UTC",
   "total": 53,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Department of Health and Human Services",
@@ -746,34 +746,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "J.S. Held LLC",
-      "title": "Principal Consulting Toxicologist",
-      "location": "Redmond, Washington, United States",
-      "url": "https://jobs.smartrecruiters.com/JSHeldLLC/744000134223365-principal-consulting-toxicologist",
-      "direct_url": "https://jobs.smartrecruiters.com/JSHeldLLC/744000134223365-principal-consulting-toxicologist",
-      "date_posted": "2026-06-25T10:04:22.093Z",
-      "description": "PhD in toxicology or related field, ~15+ years professional experience with consulting and leadership, testifying expert experience, deep toxicological risk assessment and regulatory expertise, strong business development and communication skills.",
-      "salary": "$150k–$300k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Apex Companies",
-      "title": "Environmental Scientist",
-      "location": "Omaha or Nebraska or Iowa",
-      "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5278671008",
-      "direct_url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5278671008",
-      "date_posted": "2026-06-24T22:26:49.000Z",
-      "description": "Bachelor's in a related scientific field, 2+ years environmental field sampling and data collection, HAZWOPER preferred, valid driver's license and reliable transportation, Microsoft 365 proficiency, technical writing skills.",
-      "salary": "$55k–$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
