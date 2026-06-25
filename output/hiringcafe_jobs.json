@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-25 22:28 UTC",
-  "total": 54,
-  "new_count": 0,
+  "scraped_at": "2026-06-25 23:27 UTC",
+  "total": 55,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Department of Health and Human Services",
@@ -57,6 +57,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Msd",
+      "title": "Principal Scientist, Toxicologist/Study Director",
+      "location": "West Point, Pennsylvania, United States",
+      "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/Principal-Scientist--Toxicologist-Study-Director_R404329-1",
+      "direct_url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/Principal-Scientist--Toxicologist-Study-Director_R404329-1",
+      "date_posted": "2026-06-25T00:00:00.000Z",
+      "description": "PhD or DVM with graduate/post-graduate training in toxicology or related field; 8+ years toxicology/study director experience; GLP knowledge; immunology/biologics expertise; strong communication and leadership skills.",
+      "salary": "$173k–$273k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -760,5 +774,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Msd",
+      "title": "Principal Scientist, Toxicologist/Study Director",
+      "location": "West Point, Pennsylvania, United States",
+      "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/Principal-Scientist--Toxicologist-Study-Director_R404329-1",
+      "direct_url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/Principal-Scientist--Toxicologist-Study-Director_R404329-1",
+      "date_posted": "2026-06-25T00:00:00.000Z",
+      "description": "PhD or DVM with graduate/post-graduate training in toxicology or related field; 8+ years toxicology/study director experience; GLP knowledge; immunology/biologics expertise; strong communication and leadership skills.",
+      "salary": "$173k–$273k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
