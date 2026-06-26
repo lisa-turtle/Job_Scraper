@@ -1,0 +1,360 @@
+{
+  "_README": "ONE config file drives the whole tracker (scraper + dashboard). Edit it by hand, or generate it from your CV using docs/cv-to-config-prompt.md. After editing, commit it and re-run the workflows. All matching is case-insensitive substring on the JOB TITLE unless noted.",
+
+  "profile": {
+    "title": "Environmental Job Tracker",
+    "subtitle": "Washington | California | British Columbia | Europe",
+    "emoji": "🧪"
+  },
+
+  "keywords": {
+    "_comment": "A job TITLE is kept if it contains any of these. Use full words; multi-word phrases match as substrings.",
+    "include": [
+     "ecotoxicologist", "ecotoxicology", "ecotoxicolog",
+      "environmental toxicolog", "regulatory toxicolog", "computational toxicolog", "predictive toxicolog",
+      "aquatic toxicolog", "wildlife toxicolog", "research toxicolog",
+      "risk assess", "risk assessor", "human health risk", "ecological risk", "exposure scien",
+      "exposure assess", "exposure modeling", "exposure modelling", "hazard assess", "hazard identification",
+      "dose-response", "dose response", "pharmacokinetic", "toxicokinetic", "pbpk",
+      "environmental scien", "environmental health", "environmental chemist", "environmental chemistry",
+      "environmental specialist", "environmental analyst", "environmental protection", "environmental epidemiolog",
+      "environmental data", "environmental monitoring", "environmental assessment", "exposure epidemiolog",
+      "water quality", "drinking water", "watershed", "water resources", "aquatic scien", "limnolog",
+      "microplastic", "microplastics", "nanoplastic", "nanomaterial", "pfas", "per- and polyfluoro",
+      "emerging contaminant", "contaminant", "pollutant", "air pollution", "water pollution", "air quality",
+      "remediation", "environmental remediation", "chemical safety", "chemical risk", "chemical assess",
+      "chemical regulatory", "product steward", "hazardous materials", "hazardous waste",
+      "environmental compliance", "conservation toxicolog", "postdoc", 
+      "postdoctoral", "textile"
+    ],
+    "_exclude_comment": "Titles containing any of these are dropped (junior/off-field roles).",
+    "exclude": [
+      "intern", "interns", "internship", "co-op", "coop", "trainee", "apprentice", "technician",
+      "research assistant", "lab assistant", "teaching assistant", "undergraduate", "work-study", "volunteer", "fellowship", "engineer", "engineering",
+      "ehs", "occupational safety", "occupational health", "health and safety", "health & safety"
+    ]
+  },
+
+  "search_terms": {
+    "_comment": "Queries sent to the job boards' search boxes. Broader than 'keywords' (which then filters the titles).",
+    "linkedin": [
+      "toxicologist", "environmental toxicologist", "ecotoxicologist", "regulatory toxicologist",
+      "computational toxicology", "human health risk assessment", "ecological risk assessment",
+      "exposure scientist", "exposure assessment", "environmental scientist", "environmental health scientist",
+      "environmental chemist", "environmental epidemiologist", "water quality scientist", "microplastics",
+      "PFAS", "emerging contaminants", "air quality scientist", "product stewardship", "chemical safety",
+      "environmental data scientist", "Director of Science",
+    "Science Director",
+    "Director of Research",
+    "Research Director",
+    "Director of Sustainability",
+    "Director of Environmental Science",
+    "Director of Innovation",
+    "Chief Scientist",
+    "Chief Science Officer",
+    "Head of Research",
+    "Head of Science",
+    "Principal Scientist",
+    "Lead Scientist",
+    "Senior Scientist",
+    "Environmental Scientist",
+    "Marine Scientist",
+    "Aquatic Scientist",
+    "Research Scientist",
+    "Microplastics",
+    "Plastic Pollution",
+    "Marine Debris",
+    "Microfibers",
+    "Ocean Conservation",
+    "Environmental Policy",
+    "Science Policy",
+    "Sustainability",
+    "Circular Economy",
+    "Sustainable Materials",
+    "Textiles",
+    "Product Stewardship",
+    "Environmental Health",
+    "Water Quality",
+    "Emerging Contaminants",
+    "PFAS",
+    "Nature-based Solutions",
+    "Wetlands",
+    "Conservation Science",
+    "Technical Advisor",
+    "Science Advisor",
+    "Program Director",
+    "Research Partnerships"
+    ],
+    "indeed": [
+      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
+      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist", "Director of Science",
+    "Director of Research",
+    "Chief Scientist",
+    "Environmental Scientist",
+    "Marine Scientist",
+    "Principal Scientist",
+    "Sustainability",
+    "Plastic Pollution",
+    "Microplastics",
+    "Science Policy",
+    "Research Director",
+    "Environmental Policy",
+    "Technical Advisor"
+    ],
+    "glassdoor": [
+      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
+      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist", "Director of Science",
+    "Director of Research",
+    "Chief Scientist",
+    "Environmental Scientist",
+    "Marine Scientist",
+    "Principal Scientist",
+    "Sustainability",
+    "Plastic Pollution",
+    "Microplastics",
+    "Science Policy",
+    "Research Director",
+    "Environmental Policy",
+    "Technical Advisor"
+    ],
+    "ziprecruiter": [
+      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
+      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist", "Director of Science",
+    "Director of Research",
+    "Environmental Scientist",
+    "Principal Scientist",
+    "Sustainability",
+    "Microplastics",
+    "Plastic Pollution",
+    "Science Policy"
+    ],
+    "google_jobs": [
+      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
+      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist", "Director of Science",
+    "Director of Research",
+    "Chief Scientist",
+    "Environmental Scientist",
+    "Marine Scientist",
+    "Principal Scientist",
+    "Sustainability",
+    "Microplastics",
+    "Plastic Pollution",
+    "Science Policy",
+    "Environmental Policy",
+    "Technical Advisor"
+    ],
+    "hiring_cafe": [
+      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
+      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist", "Director of Science",
+    "Director of Research",
+    "Chief Scientist",
+    "Environmental Scientist",
+    "Principal Scientist",
+    "Sustainability",
+    "Plastic Pollution",
+    "Microplastics",
+    "Science Policy"
+    ]
+  },
+
+  "locations": {
+    "_comment": "LinkedIn needs a geoId (find via the guest endpoint; leave blank to let LinkedIn resolve the text). JobSpy-backed boards such as Indeed, Glassdoor, ZipRecruiter, and Google Jobs need a location + country (USA, Australia, Canada, GB...). HiringCafe currently uses its public US SEO route; locations.hiring_cafe is kept for compatibility. The map auto-fits to wherever the jobs are.",
+    "linkedin": [
+    { "name": "Bellingham, WA", "location": "Bellingham, Washington, United States", "geoId": "" },
+    { "name": "Seattle, WA", "location": "Seattle, Washington, United States", "geoId": "" },
+    { "name": "Washington State", "location": "Washington, United States", "geoId": "" },
+    { "name": "California", "location": "California, United States", "geoId": "102095887" },
+    { "name": "British Columbia", "location": "British Columbia, Canada", "geoId": "" },
+    { "name": "Canada", "location": "Canada", "geoId": "" },
+    { "name": "Great Britain", "location": "United Kingdom", "geoId": "" },
+    { "name": "Sweden", "location": "Sweden", "geoId": "" },
+    { "name": "The Netherlands", "location": "Netherlands", "geoId": "" },
+    { "name": "Belgium", "location": "Belgium", "geoId": "" },
+    { "name": "France", "location": "France", "geoId": "" },
+    { "name": "Norway", "location": "Norway", "geoId": "" },
+    { "name": "Denmark", "location": "Denmark", "geoId": "" },
+    { "name": "Switzerland", "location": "Switzerland", "geoId": "" },
+    { "name": "Australia", "location": "Australia", "geoId": "101452733" },
+    { "name": "Remote", "location": "Remote", "geoId": "" }
+  ],
+
+  "indeed": [
+    { "location": "Bellingham, WA", "country": "USA" },
+    { "location": "Seattle, WA", "country": "USA" },
+    { "location": "Washington", "country": "USA" },
+    { "location": "California", "country": "USA" },
+    { "location": "British Columbia", "country": "Canada" },
+    { "location": "Canada", "country": "Canada" },
+    { "location": "United Kingdom", "country": "GB" },
+    { "location": "Sweden", "country": "Sweden" },
+    { "location": "Netherlands", "country": "Netherlands" },
+    { "location": "Belgium", "country": "Belgium" },
+    { "location": "France", "country": "France" },
+    { "location": "Norway", "country": "Norway" },
+    { "location": "Denmark", "country": "Denmark" },
+    { "location": "Switzerland", "country": "Switzerland" },
+    { "location": "Australia", "country": "Australia" },
+    { "location": "Remote", "country": "USA" }
+  ],
+
+  "glassdoor": [
+    { "location": "Bellingham, WA", "country": "USA" },
+    { "location": "Seattle, WA", "country": "USA" },
+    { "location": "Washington", "country": "USA" },
+    { "location": "California", "country": "USA" },
+    { "location": "British Columbia", "country": "Canada" },
+    { "location": "Canada", "country": "Canada" },
+    { "location": "United Kingdom", "country": "GB" },
+    { "location": "Sweden", "country": "Sweden" },
+    { "location": "Netherlands", "country": "Netherlands" },
+    { "location": "Belgium", "country": "Belgium" },
+    { "location": "France", "country": "France" },
+    { "location": "Norway", "country": "Norway" },
+    { "location": "Denmark", "country": "Denmark" },
+    { "location": "Switzerland", "country": "Switzerland" },
+    { "location": "Australia", "country": "Australia" },
+    { "location": "Remote", "country": "USA" }
+  ],
+
+  "ziprecruiter": [
+    { "location": "Bellingham, WA", "country": "USA" },
+    { "location": "Seattle, WA", "country": "USA" },
+    { "location": "Washington", "country": "USA" },
+    { "location": "California", "country": "USA" },
+    { "location": "Remote", "country": "USA" }
+  ],
+
+  "google_jobs": [
+    { "location": "Bellingham, WA", "country": "USA" },
+    { "location": "Seattle, WA", "country": "USA" },
+    { "location": "Washington", "country": "USA" },
+    { "location": "California", "country": "USA" },
+    { "location": "British Columbia", "country": "Canada" },
+    { "location": "Canada", "country": "Canada" },
+    { "location": "United Kingdom", "country": "GB" },
+    { "location": "Sweden", "country": "Sweden" },
+    { "location": "Netherlands", "country": "Netherlands" },
+    { "location": "Belgium", "country": "Belgium" },
+    { "location": "France", "country": "France" },
+    { "location": "Norway", "country": "Norway" },
+    { "location": "Denmark", "country": "Denmark" },
+    { "location": "Switzerland", "country": "Switzerland" },
+    { "location": "Australia", "country": "Australia" },
+    { "location": "Remote", "country": "USA" }
+  ],
+
+  "hiring_cafe": [
+    { "location": "United States" }
+  ]
+},
+
+  "jobspy": {
+    "_comment": "Optional. Prefer JOBSPY_PROXIES as a GitHub Actions secret/env var for private proxy credentials. Use only if JobSpy-backed boards are blocked.",
+    "proxies": [],
+    "user_agent": ""
+  },
+
+  "hiring_cafe": {
+    "_comment": "Uses HiringCafe's public SSR /jobs/<query> pages. max_pages caps SEO pagination per query; the public route currently defaults to United States.",
+    "max_pages": 3
+  },
+
+  "employers": {
+    "_priority_comment": "Optional. Companies worth a daily 'priority' digest even on a quiet day (case-insensitive substring match on the company name). Leave [] to disable.",
+    "priority": [
+      "Ramboll", "Exponent", "Gradient", "ToxStrategies", "Cardno", "Stantec", "Tetra Tech",
+      "ICF International", "Abt Associates", "Eastern Research Group", "Integral Consulting",
+      "Geosyntec", "Arcadis", "AECOM", "Montrose Environmental", "Trinity Consultants", "GHD Group",
+      "Environmental Resources Management", "SLR Consulting", "Wood Environment", "Sciome", "ChemRisk",
+      "Southern California Coastal Water Research Project", "SCCWRP", "San Francisco Estuary Institute",
+      "Silent Spring Institute", "Environmental Defense Fund", "Natural Resources Defense Council",
+      "Environmental Working Group", "Ocean Conservancy", "Pew Charitable Trusts", "Health Effects Institute",
+      "RTI International", "Battelle", "Green Science Policy Institute", "Defend Our Health", "Moore Institute",
+      "Environmental Protection Agency", "California Environmental Protection", "Office of Environmental Health Hazard",
+      "State Water Resources Control", "California Air Resources Board", "Department of Toxic Substances Control",
+      "National Institute of Environmental Health", "Geological Survey", "BASF Corporation", "Oceana", "The Nature Conservancy", "Ocean Wise",
+      "Natural Resources Defense Council", "World Wildlife Fund", "Surfrider Foundation", "Environmental Investigation Agency",
+      "Break Free From Plastic", "Center for International Environmental Law", "CIEL", "Minderoo Foundation", "Ellen MacArthur Foundation",
+      "Plastic Pollution Coalition", "Monterey Bay Aquarium", "Monterey Bay Aquarium Research Institute", "Scripps Institution of Oceanography", 
+      "Woods Hole Oceanographic Institution", "University of Washington", "University of Western Washington", "Washington Sea Grant",
+      "Stanford Woods Institute", "International Pollutants Elimination Network", "IPEN", "European Environmental Bureau",
+      "Zero Waste Europe", "ChemSec", "Rethink Plastic Alliance", "HEJSupport", "Fauna & Flora", "Fidra", "Common Seas", "GRID-Arendal", 
+      "Nordic Council of Ministers", "European Environment Agency", "OECD", "UNEP", "UN Environment Programme", "International Union for Conservation of Nature",
+      "IUCN", "Global Ocean Commission", "Fashion for Good", "Textile Exchange", "Sustainable Apparel Coalition", "Apparel Impact Institute", 
+      "ZDHC", "Outdoor Industry Association", "Quantis", "Sphera", "Systemiq", "Metabolic", "Eunomia", "Ricardo", "WSP", "Arup",  "AECOM", 
+      "Tetra Tech", "Stantec"
+    ],
+    "_exclude_comment": "Optional. Drop roles from these companies even if the title matches (case-insensitive substring). Used here to remove pharma/drug-development.",
+    "exclude": [
+      "pharmaceutical", "pharma ", "therapeutics", "biopharma", "biotech", "biologics", "biosciences",
+      "genomics", "oncolog", "biomedicine", "genentech", "gilead", "pfizer", "merck", "novartis", "abbvie",
+      "regeneron", "moderna", "biogen", "sanofi", "astrazeneca", "takeda", "biomarin", "alnylam", "incyte",
+      "exelixis", "neurocrine", "ionis", "denali", "acadia", "adarx", "genmab", "galapagos", "insitro",
+      "recursion", "cytokinetics", "vertex pharm", "bristol-myers", "bristol myers"
+    ]
+  },
+
+  "priority_topics": {
+    "_comment": "Optional. Roles touching these get a gold ★ + a 'Priority topics' filter on the dashboard. [name, regex] pairs.",
+    "terms": [
+      ["microplastics", "microplastic|nanoplastic|microfiber"],
+      ["ecotoxicology", "ecotoxicolog"],
+      ["endocrine-disrupting chemicals", "endocrine[\\s-]?disrupt|\\bedcs?\\b"],
+      ["R / Shiny", "\\brshiny\\b|\\br[\\s-]?shiny\\b|shiny\\s*(?:app|dashboard|server)|\\bshiny\\b"]
+    ]
+  },
+
+  "role_categories": {
+    "_comment": "Dashboard 'Role' filter buckets, applied top-to-bottom to each title. [name, regex] pairs.",
+    "terms": [
+   ["Executive Leadership",
+      "chief|executive director|executive|vp\\b|vice president|head of|director of science|director of research|director of sustainability|director of innovation|scientific director"],
+
+    ["Research Leadership",
+      "research director|research manager|principal scientist|lead scientist|staff scientist|senior scientist|science manager|program director"],
+
+    ["Environmental Science",
+      "environmental scientist|marine scientist|aquatic|ocean|coastal|freshwater|ecology|ecologist|environmental"],
+
+    ["Plastic Pollution",
+      "microplastic|microfiber|plastic pollution|marine debris|nanoplastic"],
+
+    ["Water & Oceans",
+      "water|drinking water|watershed|stormwater|marine|ocean|aquatic|coastal|limnolog"],
+
+    ["Sustainability",
+      "sustainab|circular economy|materials|textile|product stewardship|responsible sourcing|impact"],
+
+    ["Policy & Advocacy",
+      "policy|advocacy|government affairs|public affairs|regulatory|legislation"],
+
+    ["NGO / Conservation",
+      "conservation|environmental justice|climate|biodiversity|restoration"],
+
+    ["Research & Innovation",
+      "innovation|research partnership|technology|science advisor|technical advisor"],
+
+    ["Human Health & Toxicology",
+      "toxicolog|exposure|risk assess|hazard|chemical safety|environmental health|epidemiolog"],
+
+    ["Communications & Outreach",
+      "science communication|communications|engagement|education|knowledge mobilization|outreach"],
+
+    ["Data & Analytics",
+      "data scientist|data analyst|statistic|biostatistic|informatics|model"],
+
+    ["Academic",
+      "professor|faculty|lecturer|postdoc|postdoctoral"]
+    ]
+  },
+
+  "notify": {
+    "_comment": "Pushover phone alerts (optional; needs PUSHOVER_TOKEN/USER secrets). Notify when a new role is a priority-topic OR scores at/above min_fit.",
+    "min_fit": 75,
+    "weekly_digest": {
+      "_comment": "Optional weekly Pushover brief. Prefer enabling via the WEEKLY_DIGEST_PUSHOVER repository variable so forks stay quiet by default.",
+      "enabled": false,
+      "days": 7
+    }
+  }
+}
