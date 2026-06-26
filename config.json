@@ -13,9 +13,6 @@
      "ecotoxicologist", "ecotoxicology", "ecotoxicolog",
       "environmental toxicolog", "regulatory toxicolog", "computational toxicolog", "predictive toxicolog",
       "aquatic toxicolog", "wildlife toxicolog", "research toxicolog",
-      "risk assess", "risk assessor", "human health risk", "ecological risk", "exposure scien",
-      "exposure assess", "exposure modeling", "exposure modelling", "hazard assess", "hazard identification",
-      "dose-response", "dose response", "pharmacokinetic", "toxicokinetic", "pbpk",
       "environmental scien", "environmental health", "environmental chemist", "environmental chemistry",
       "environmental specialist", "environmental analyst", "environmental protection", "environmental epidemiolog",
       "environmental data", "environmental monitoring", "environmental assessment", "exposure epidemiolog",
@@ -38,9 +35,7 @@
   "search_terms": {
     "_comment": "Queries sent to the job boards' search boxes. Broader than 'keywords' (which then filters the titles).",
     "linkedin": [
-      "toxicologist", "environmental toxicologist", "ecotoxicologist", "regulatory toxicologist",
-      "computational toxicology", "human health risk assessment", "ecological risk assessment",
-      "exposure scientist", "exposure assessment", "environmental scientist", "environmental health scientist",
+      "ecotoxicologist", "exposure scientist", "exposure assessment", "environmental scientist", "environmental health scientist",
       "environmental chemist", "environmental epidemiologist", "water quality scientist", "microplastics",
       "PFAS", "emerging contaminants", "air quality scientist", "product stewardship", "chemical safety",
       "environmental data scientist", "Director of Science",
