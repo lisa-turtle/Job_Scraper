@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-26 16:51 UTC",
-  "total": 11,
+  "scraped_at": "2026-06-26 19:56 UTC",
+  "total": 12,
   "new_count": 0,
   "jobs": [
     {
@@ -112,6 +112,18 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
+      "company": "Department of Transportation",
+      "title": "Senior Environmental Scientist - Lead Worker",
+      "location": "Inyo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522299",
+      "date_posted": "2026-06-22",
+      "salary": "$7820.00 - $10732.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
       "company": "Environmental Health Hazard Assessment Office",
       "title": "Environmental Health Education and Community Science Program Specialist",
       "location": "United States",
@@ -124,11 +136,11 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "Department of Fish and Wildlife",
+      "company": "Department of Resources Recycling & Recovery",
       "title": "Senior Environmental Scientist (Specialist)",
-      "location": "San Joaquin County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522382",
-      "date_posted": "2026-06-23",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=518460",
+      "date_posted": "2026-06-26",
       "salary": "$7820.00 - $10732.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
