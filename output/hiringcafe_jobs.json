@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-26 03:02 UTC",
+  "scraped_at": "2026-06-26 05:23 UTC",
   "total": 56,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Department of Health and Human Services",
@@ -424,20 +424,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Johnson, Mirmiran & Thompson, Inc.",
-      "title": "Senior Environmental Scientist",
-      "location": "Jacksonville, Florida, United States",
-      "url": "https://jobs.silkroad.com/jmt/jmtcareers/jobs/14989?embedded=true",
-      "direct_url": "https://jobs.silkroad.com/jmt/jmtcareers/jobs/14989?embedded=true",
-      "date_posted": "2026-06-05T18:16:04.721Z",
-      "description": "Conduct environmental investigations, wetland impact analyses and permitting, ecological assessment/restoration, field data collection and sampling, GIS/GPS mapping, technical report writing, and project management/business development support.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "QK",
       "title": "Senior Environmental Scientist",
       "location": "Clovis, California, United States",
@@ -446,6 +432,20 @@
       "date_posted": "2026-06-24T19:55:12.571Z",
       "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
       "salary": "$105k–$120k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Johnson, Mirmiran & Thompson, Inc.",
+      "title": "Senior Environmental Scientist",
+      "location": "Jacksonville, Florida, United States",
+      "url": "https://jobs.silkroad.com/jmt/jmtcareers/jobs/14989?embedded=true",
+      "direct_url": "https://jobs.silkroad.com/jmt/jmtcareers/jobs/14989?embedded=true",
+      "date_posted": "2026-06-05T18:16:04.721Z",
+      "description": "Conduct environmental investigations, wetland impact analyses and permitting, ecological assessment/restoration, field data collection and sampling, GIS/GPS mapping, technical report writing, and project management/business development support.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -788,20 +788,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Ri",
-      "title": "ENVIRONMENTAL SCIENTIST II",
-      "location": "Rhode Island or United States",
-      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-II_JR103206",
-      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-II_JR103206",
-      "date_posted": "2026-06-25T00:00:00.000Z",
-      "description": "Bachelor's in an environmental/physical/biological science or related field and minimum 2 years environmental science/engineering experience; knowledge of environmental laws/regulations, ability to analyze data, conduct inspections, prepare technical documents, and communicate findings.",
-      "salary": "$82k–$93k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
