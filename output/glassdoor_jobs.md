@@ -1,5 +1,5 @@
-# 🟩 Glassdoor — Environmental / Toxicology Roles
-*Last updated: 2026-06-20 19:10 UTC*
+# 🟩 Glassdoor — Environmental Roles
+*Last updated: 2026-06-26 20:36 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
