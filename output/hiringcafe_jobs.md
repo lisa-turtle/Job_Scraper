@@ -1,10 +1,11 @@
 # ☕ HiringCafe — Environmental Roles
-*Last updated: 2026-06-26 23:48 UTC*
+*Last updated: 2026-06-27 09:20 UTC*
 
-**1 new role(s)** since last run · 38 total in last 30d
+**1 new role(s)** since last run · 37 total in last 30d
 
-### [Senior Environmental Scientist](https://careers2-quanta.icims.com/jobs/16589/senior-environmental-scientist/job?in_iframe=1) — Canacre
-- 📍 **Location:** Raleigh, North Carolina, United States
+### [Environmental Scientist](https://careers.trccompanies.com/jobs/26189?lang=en-us) — TRC Companies, Inc.
+- 📍 **Location:** East Providence, Rhode Island, United States
+- 💰 **Salary:** $65k–$85k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-26T04:00:00.000Z
+- 🕒 **Posted:** 2026-06-26T20:15:53.000Z
