@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-27 20:43 UTC",
-  "total": 37,
-  "new_count": 1,
+  "scraped_at": "2026-06-28 08:34 UTC",
+  "total": 36,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Battelle",
@@ -284,20 +284,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Dewberry",
-      "title": "MS4 Environmental Scientist",
-      "location": "Owings Mills, Maryland, United States",
-      "url": "https://careers-dewberry.icims.com/jobs/15825/ms4-environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://careers-dewberry.icims.com/jobs/15825/ms4-environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-05-29T04:00:00.000Z",
-      "description": "Bachelor’s degree in environmental science or related field; 2-4 years experience; ArcGIS; strong written and verbal communication; able to work independently and in a team.",
-      "salary": "$62k–$78k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Alliance Technical Group",
       "title": "Environmental Scientist II/III",
       "location": "Pasadena, Texas, United States",
@@ -312,20 +298,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Johnson, Mirmiran & Thompson, Inc.",
-      "title": "Senior Environmental Scientist",
-      "location": "Jacksonville, Florida, United States",
-      "url": "https://jobs.silkroad.com/jmt/jmtcareers/jobs/14989?embedded=true",
-      "direct_url": "https://jobs.silkroad.com/jmt/jmtcareers/jobs/14989?embedded=true",
-      "date_posted": "2026-06-05T18:16:04.721Z",
-      "description": "Conduct environmental investigations, wetland impact analyses and permitting, ecological assessment/restoration, field data collection and sampling, GIS/GPS mapping, technical report writing, and project management/business development support.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "QK",
       "title": "Senior Environmental Scientist",
       "location": "Clovis, California, United States",
@@ -334,6 +306,20 @@
       "date_posted": "2026-06-24T19:55:12.571Z",
       "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
       "salary": "$105k–$120k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Johnson, Mirmiran & Thompson, Inc.",
+      "title": "Senior Environmental Scientist",
+      "location": "Jacksonville, Florida, United States",
+      "url": "https://jobs.silkroad.com/jmt/jmtcareers/jobs/14989?embedded=true",
+      "direct_url": "https://jobs.silkroad.com/jmt/jmtcareers/jobs/14989?embedded=true",
+      "date_posted": "2026-06-05T18:16:04.721Z",
+      "description": "Conduct environmental investigations, wetland impact analyses and permitting, ecological assessment/restoration, field data collection and sampling, GIS/GPS mapping, technical report writing, and project management/business development support.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -379,20 +365,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Freeport-McMoRan",
-      "title": "Environmental Scientist II",
-      "location": "Phoenix or Tucson",
-      "url": "https://talent.fmjobs.com/careers/job/42580930",
-      "direct_url": "https://talent.fmjobs.com/careers/job/42580930",
-      "date_posted": "2026-06-24T15:41:01.000Z",
-      "description": "Bachelor's in related field plus 3 years' environmental experience OR Master's plus 1 year. Certifications such as HAZWOPER, Method 9, DOT, EMS Auditor, asbestos, water treatment operator, or CHMM may be required. Willingness to travel and perform fieldwork; project management and data analysis experience preferred.",
-      "salary": "$88k–$120k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -466,6 +438,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Freeport-McMoRan",
+      "title": "Environmental Scientist II",
+      "location": "Phoenix or Tucson",
+      "url": "https://talent.fmjobs.com/careers/job/42580930",
+      "direct_url": "https://talent.fmjobs.com/careers/job/42580930",
+      "date_posted": "2026-06-24T15:41:01.000Z",
+      "description": "Bachelor's in related field plus 3 years' environmental experience OR Master's plus 1 year. Certifications such as HAZWOPER, Method 9, DOT, EMS Auditor, asbestos, water treatment operator, or CHMM may be required. Willingness to travel and perform fieldwork; project management and data analysis experience preferred.",
+      "salary": "$88k–$120k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "CDR Companies",
       "title": "Environmental Scientist II - Williamsport",
       "location": "Elmira, New York, United States",
@@ -522,20 +508,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "APTIM",
-      "title": "Environmental Scientist",
-      "location": "Houma, Louisiana, United States",
-      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
-      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
-      "date_posted": "2026-06-27T04:08:25.228Z",
-      "description": "Bachelor's in environmental science or related field, relevant environmental field experience, valid driver's license and watercraft/trailering experience, ability to lift 30–50 lbs, and strong written and verbal communication skills.",
-      "salary": "$48k–$54k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
