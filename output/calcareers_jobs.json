@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-29 21:14 UTC",
+  "scraped_at": "2026-06-30 21:49 UTC",
   "total": 10,
   "new_count": 0,
   "jobs": [
@@ -88,6 +88,18 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
+      "company": "Department of Resources Recycling & Recovery",
+      "title": "Environmental Scientist",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=522430",
+      "date_posted": "2026-06-23",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
       "company": "Department of Parks & Recreation",
       "title": "ENVIRONMENTAL SCIENTIST",
       "location": "Alameda County",
@@ -98,18 +110,6 @@
       "telework": "In Office",
       "job_type": "12 Month Limited Term - Full Time",
       "work_arrangement": "On-site"
-    },
-    {
-      "company": "Environmental Health Hazard Assessment Office",
-      "title": "Environmental Health Education and Community Science Program Specialist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=518467",
-      "date_posted": "2026-05-14",
-      "salary": "$7820.00 - $10732.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
     },
     {
       "company": "Department of Resources Recycling & Recovery",
