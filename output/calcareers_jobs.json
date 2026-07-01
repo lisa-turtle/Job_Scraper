@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-30 21:49 UTC",
-  "total": 10,
+  "scraped_at": "2026-07-01 21:14 UTC",
+  "total": 9,
   "new_count": 0,
   "jobs": [
     {
@@ -13,18 +13,6 @@
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521213",
-      "date_posted": "2026-06-10",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "12 Month Limited Term - Full Time",
       "work_arrangement": "Telecommute eligible"
     },
     {
