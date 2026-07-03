@@ -1,30 +1,28 @@
 # ☕ HiringCafe — Environmental Roles
-*Last updated: 2026-07-02 20:45 UTC*
+*Last updated: 2026-07-03 08:38 UTC*
 
-**4 new role(s)** since last run · 46 total in last 30d
+**4 new role(s)** since last run · 48 total in last 30d
 
-### [ENVIRONMENTAL SCIENTIST 3](https://www.governmentjobs.com/careers/nv/jobs/5392997) — State of Nevada
-- 📍 **Location:** Reno, Nevada, United States
-- 💰 **Salary:** $67k–$100k/yr
+### [Predictive Toxicologist](https://inotivco.wd5.myworkdayjobs.com/ext/job/RTP-NC/Predictive-Toxicologist_JR101525) — Inotivco
+- 📍 **Location:** Research Triangle Park, North Carolina, United States
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-02T00:00:00.000Z
+
+### [Environmental Scientist](https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1) — Kimley-Horn
+- 📍 **Location:** Reston, Virginia, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-29T21:06:20.000Z
+- 🕒 **Posted:** 2026-06-30T04:00:00.000Z
 
-### [Senior Environmental Scientist](https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878) — HDR
-- 📍 **Location:** Seattle or Gig Harbor or Everett or Bellevue or Olympia
+### [Environmental Scientist II - Williamsport](https://jobs.workable.com/view/7bpyuTwhNxwuP7Sfk8qdwn/environmental-scientist-ii---williamsport-in-elmira-at-cdr-companies) — CDR Companies
+- 📍 **Location:** Elmira, New York, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-08T12:00:00.000Z
+- 🕒 **Posted:** 2026-06-30T20:14:55.975Z
 
-### [Environmental Scientist III](https://www.governmentjobs.com/careers/kingcounty/jobs/5395640) — King County, WA
-- 📍 **Location:** Tukwila or Seattle or Renton or Bellevue or North Seattle
-- 💰 **Salary:** $118k–$143k/yr
+### [Environmental Scientist](https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c68fe53878018fee54f4bd039e&id=8a7887a89efb878a019f194c8dae636b&source=&lang=en) — Cedarville Engineering Group
+- 📍 **Location:** Pottstown, Pennsylvania, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-02T18:22:02.000Z
-
-### [Environmental Scientist II - Williamsport](https://jobs.workable.com/view/vXHuicNmCmWDg8w2Wz36v4/environmental-scientist-ii---williamsport-in-williamsport-at-cdr-companies) — CDR Companies
-- 📍 **Location:** Williamsport, Pennsylvania, United States
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-30T20:14:53.773Z
+- 🕒 **Posted:** 2026-06-30T16:11:15.000Z
