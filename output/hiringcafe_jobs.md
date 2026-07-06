@@ -1,16 +1,17 @@
 # ☕ HiringCafe — Environmental Roles
-*Last updated: 2026-07-06 12:16 UTC*
+*Last updated: 2026-07-06 22:01 UTC*
 
-**2 new role(s)** since last run · 43 total in last 30d
+**2 new role(s)** since last run · 44 total in last 30d
 
-### [Environmental Scientist II - Williamsport](https://jobs.workable.com/view/7bpyuTwhNxwuP7Sfk8qdwn/environmental-scientist-ii---williamsport-in-elmira-at-cdr-companies) — CDR Companies
-- 📍 **Location:** Elmira, New York, United States
+### [Environmental Scientist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613) — Environmental Compliance Consultants
+- 📍 **Location:** Anchorage, Alaska, United States
+- 💰 **Salary:** $85k–$95k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-30T20:14:55.975Z
+- 🕒 **Posted:** 2026-07-06T14:10:25.000Z
 
-### [Environmental Scientist](https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c68fe53878018fee54f4bd039e&id=8a7887a89efb878a019f194c8dae636b&source=&lang=en) — Cedarville Engineering Group
-- 📍 **Location:** Pottstown, Pennsylvania, United States
+### [Senior Environmental Scientist](https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878) — HDR
+- 📍 **Location:** Seattle or Gig Harbor or Everett or Bellevue or Olympia
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-30T16:11:15.000Z
+- 🕒 **Posted:** 2026-06-08T12:00:00.000Z
