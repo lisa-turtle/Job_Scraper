@@ -1,17 +1,18 @@
 # ☕ HiringCafe — Environmental Roles
-*Last updated: 2026-07-06 22:01 UTC*
+*Last updated: 2026-07-07 10:41 UTC*
 
-**2 new role(s)** since last run · 44 total in last 30d
+**2 new role(s)** since last run · 46 total in last 30d
 
-### [Environmental Scientist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613) — Environmental Compliance Consultants
-- 📍 **Location:** Anchorage, Alaska, United States
-- 💰 **Salary:** $85k–$95k/yr
+### [Environmental Scientist](https://job-boards.greenhouse.io/whitestoneassociatesinc/jobs/4283822009) — Whitestone Associates, Inc.
+- 📍 **Location:** Pittsburgh, Pennsylvania, United States
+- 💰 **Salary:** $60k–$85k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-06T14:10:25.000Z
+- 🕒 **Posted:** 2026-06-16T16:06:30.000Z
 
-### [Senior Environmental Scientist](https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878) — HDR
-- 📍 **Location:** Seattle or Gig Harbor or Everett or Bellevue or Olympia
+### [Environmental Scientist / Research Environmental Scientist](https://www.usajobs.gov/job/875386200) — National Oceanic and Atmospheric Administration
+- 📍 **Location:** Oxford or Silver Spring or Beaufort or Charleston
+- 💰 **Salary:** $75k–$187k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-08T12:00:00.000Z
+- 🕒 **Posted:** 2026-07-07T00:00:00.000Z
