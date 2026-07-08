@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-07 21:59 UTC",
-  "total": 47,
-  "new_count": 2,
+  "scraped_at": "2026-07-08 07:56 UTC",
+  "total": 44,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Inotivco",
@@ -228,20 +228,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "TRC Companies, Inc.",
-      "title": "Environmental Scientist",
-      "location": "East Providence, Rhode Island, United States",
-      "url": "https://careers.trccompanies.com/jobs/26189?lang=en-us",
-      "direct_url": "https://careers.trccompanies.com/jobs/26189?lang=en-us",
-      "date_posted": "2026-06-26T20:15:53.000Z",
-      "description": "Bachelor's in biology/ecology/environmental science/forestry/wetland science, 5 years relevant experience, permitting and field sampling experience, proficiency with GPS and Microsoft Word/Excel, valid driver's license; HAZWOPER 40-hr and boating safety desired.",
-      "salary": "$65k–$85k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "HDR",
       "title": "Environmental Scientist II",
       "location": "Seattle or Everett or Olympia or Bellevue or Gig Harbor",
@@ -438,6 +424,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Verdantas",
+      "title": "Environmental Scientist III",
+      "location": "Tampa or Florida or United States",
+      "url": "https://verdantas.wd108.myworkdayjobs.com/verdantas/job/Tampa-FL/Environmental-Scientist-III_R-100968",
+      "direct_url": "https://verdantas.wd108.myworkdayjobs.com/verdantas/job/Tampa-FL/Environmental-Scientist-III_R-100968",
+      "date_posted": "2026-06-12T00:00:00.000Z",
+      "description": "5+ years environmental consulting experience, Bachelor’s degree in a related field, PE or PG required/obtainable, HAZWOPER 40-hour preferred (training provided if needed), valid driver’s license, ability to travel regionally, strong communication and data skills, MS Office proficiency.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Stantec",
       "title": "Environmental Scientist",
       "location": "Honolulu, Hawaii, United States",
@@ -550,48 +550,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "HDR",
-      "title": "Senior Environmental Scientist",
-      "location": "Seattle or Gig Harbor or Everett or Bellevue or Olympia",
-      "url": "https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878",
-      "direct_url": "https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878",
-      "date_posted": "2026-06-08T12:00:00.000Z",
-      "description": "Bachelor's in environmental science, 10 years environmental planning/compliance experience, NEPA and EIS expertise, technical field and writing skills, MS Office proficiency, GPS/GIS field experience; PWS preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "South Dakota State Government",
-      "title": "Environmental Scientist I",
-      "location": "Pierre, South Dakota, United States",
-      "url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-i/view/247798",
-      "direct_url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-i/view/247798",
-      "date_posted": "2026-06-09T15:13:35.000Z",
-      "description": "Bachelor's in geology or related field required; valid driver's license, frequent daily travel and occasional overnight travel; knowledge of hydrology, hydrogeology, GIS, Microsoft Office, and environmental laws; ability to review permits, analyze data, and communicate technical findings.",
-      "salary": "$59k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Verdantas",
-      "title": "Environmental Scientist III",
-      "location": "Tampa or Florida or United States",
-      "url": "https://verdantas.wd108.myworkdayjobs.com/verdantas/job/Tampa-FL/Environmental-Scientist-III_R-100968",
-      "direct_url": "https://verdantas.wd108.myworkdayjobs.com/verdantas/job/Tampa-FL/Environmental-Scientist-III_R-100968",
-      "date_posted": "2026-06-12T00:00:00.000Z",
-      "description": "5+ years environmental consulting experience, Bachelor’s degree in a related field, PE or PG required/obtainable, HAZWOPER 40-hour preferred (training provided if needed), valid driver’s license, ability to travel regionally, strong communication and data skills, MS Office proficiency.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "CDR Companies",
       "title": "Environmental Scientist II - Williamsport",
       "location": "Williamsport, Pennsylvania, United States",
@@ -662,34 +620,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "GHD",
-      "title": "Senior Environmental Scientist",
-      "location": "Phoenix, Arizona, United States",
-      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/26447",
-      "direct_url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/26447",
-      "date_posted": "2026-07-07T16:24:13.000Z",
-      "description": "8+ years environmental consulting experience with contamination investigation/remediation, project management, regulatory knowledge, report preparation, team supervision, and strong analytical and communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "CDR Companies",
-      "title": "Environmental Scientist II - Williamsport",
-      "location": "Williamsport, Pennsylvania, United States",
-      "url": "https://jobs.workable.com/view/58NqduxdjezBb5DjUEYoKj/environmental-scientist-ii---williamsport-in-williamsport-at-cdr-companies",
-      "direct_url": "https://jobs.workable.com/view/58NqduxdjezBb5DjUEYoKj/environmental-scientist-ii---williamsport-in-williamsport-at-cdr-companies",
-      "date_posted": "2026-07-07T13:53:05.218Z",
-      "description": "5+ years environmental experience, BS in Environmental Science or related, independent wetland/stream delineation, PADEP/USACE permit experience, sub-meter GPS proficiency, Microsoft Office, valid driver’s license.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
