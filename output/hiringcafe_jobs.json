@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-09 08:56 UTC",
-  "total": 45,
-  "new_count": 5,
+  "scraped_at": "2026-07-09 22:10 UTC",
+  "total": 44,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Inotivco",
@@ -242,20 +242,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Arcadis",
-      "title": "Environmental Scientist",
-      "location": "Bluefield, Virginia, United States",
-      "url": "https://arcadis.eightfold.ai/careers/job/563671532279947",
-      "direct_url": "https://arcadis.eightfold.ai/careers/job/563671532279947",
-      "date_posted": "2026-06-15T13:57:24.000Z",
-      "description": "Bachelor's in geology or environmental science required; entry-level, primarily field work (95–100%); valid clean driver\\u0000s license; pass background check and drug test; 40-hour HAZWOPER preferred; Microsoft Office proficiency.",
-      "salary": "$50k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Breedlove, Dennis and Assoc",
       "title": "Environmental Scientist",
       "location": "Winter Park, Florida, United States",
@@ -270,14 +256,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "BGE, Inc",
+      "company": "Arcadis",
       "title": "Environmental Scientist",
-      "location": "Frisco, Texas, United States",
-      "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
-      "direct_url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
-      "date_posted": "2026-06-25T17:13:32.000Z",
-      "description": "Bachelor's or Master's in environmental science/ecology/biology/geology, 1+ years relevant experience (Phase I/II ESAs, wetlands, ecological surveys), MS Office proficiency, ArcGIS knowledge preferred, strong writing/communication, willingness to travel and perform fieldwork.",
-      "salary": "",
+      "location": "Bluefield, Virginia, United States",
+      "url": "https://arcadis.eightfold.ai/careers/job/563671532279947",
+      "direct_url": "https://arcadis.eightfold.ai/careers/job/563671532279947",
+      "date_posted": "2026-06-15T13:57:24.000Z",
+      "description": "Bachelor's in geology or environmental science required; entry-level, primarily field work (95–100%); valid clean driver\\u0000s license; pass background check and drug test; 40-hour HAZWOPER preferred; Microsoft Office proficiency.",
+      "salary": "$50k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -306,6 +292,20 @@
       "date_posted": "2026-07-06T14:10:25.000Z",
       "description": "Bachelor's degree in a related science/engineering field, 5+ years environmental field and compliance experience, strong technical writing, field sampling, project planning, safety plan development, Microsoft Office skills, valid driver's license, 40-hour HAZWOPER.",
       "salary": "$85k–$95k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "BGE, Inc",
+      "title": "Environmental Scientist",
+      "location": "Frisco, Texas, United States",
+      "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
+      "direct_url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
+      "date_posted": "2026-06-25T17:13:32.000Z",
+      "description": "Bachelor's or Master's in environmental science/ecology/biology/geology, 1+ years relevant experience (Phase I/II ESAs, wetlands, ecological surveys), MS Office proficiency, ArcGIS knowledge preferred, strong writing/communication, willingness to travel and perform fieldwork.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -522,20 +522,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Son",
-      "title": "Environmental Health Scientist I - Environmental Safety",
-      "location": "Lincoln or Lincoln County or Dawson County or Frontier County or Red Willow County or Buffalo County or Perkins County or Chase County or Hayes County or Dundy County or Hitchcock County or Gosper County or Furnas County",
-      "url": "https://son.wd108.myworkdayjobs.com/nebraskastatecareers/job/Lincoln-NE/Environmental-Health-Scientist-I---Environmental-Safety_JR2026-00027091",
-      "direct_url": "https://son.wd108.myworkdayjobs.com/nebraskastatecareers/job/Lincoln-NE/Environmental-Health-Scientist-I---Environmental-Safety_JR2026-00027091",
-      "date_posted": "2026-06-11T00:00:00.000Z",
-      "description": "Post-high-school coursework in physical/life sciences or environmental health; valid driver's license or independent transportation; ability to travel for fieldwork (≈80%), walk uneven terrain, lift 20 lbs, climb ladders, and work outdoors.",
-      "salary": "$43k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Kimley-Horn",
       "title": "Environmental Scientist",
       "location": "Reston, Virginia, United States",
@@ -634,76 +620,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "GHD",
-      "title": "Environmental Scientist",
-      "location": "Golden, Colorado, United States",
-      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/27565",
-      "direct_url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/27565",
-      "date_posted": "2026-07-08T18:21:42.000Z",
-      "description": "Bachelor's in environmental engineering, geology, or environmental science; 3–6 years experience with project management and emergency response; experience in air monitoring, environmental sampling, ICS, SCAT, GIS, and client management.",
-      "salary": "$69k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Kimley-Horn",
-      "title": "Environmental Scientist",
-      "location": "Deerfield, Illinois, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/24985/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24985/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "date_posted": "2026-07-08T15:43:00.000Z",
-      "description": "5+ years environmental experience, bachelor’s or master’s in related field, wetland/species permitting knowledge, ArcGIS familiarity, technical writing, ecological field work, client coordination, and travel flexibility.",
-      "salary": "$90k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Breedlove, Dennis and Assoc",
-      "title": "Environmental Scientist",
-      "location": "Winter Park, Florida, United States",
-      "url": "https://breedlovedennisassoc.bamboohr.com/careers/33",
-      "direct_url": "https://breedlovedennisassoc.bamboohr.com/careers/33",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "Bachelor's degree in a natural science, 2 years environmental science experience, valid Florida driver license, FWC Gopher Tortoise Agent Permit desirable, ability to lift 50 lbs, frequent overnight travel and field work required.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Freeport McMoRan Inc.",
-      "title": "Chief Environmental Scientist",
-      "location": "Morenci, Arizona, United States",
-      "url": "https://jobs.fcx.com/job/Morenci-Chief-Environmental-Scientist-AZ-85540/1406931400/",
-      "direct_url": "https://jobs.fcx.com/job/Morenci-Chief-Environmental-Scientist-AZ-85540/1406931400/",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "Bachelor's in environmental or related science with 7 years' experience OR Master's with 5 years; strong knowledge of environmental regulations, permitting, air/water quality, and project leadership.",
-      "salary": "$112k–$160k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Tetra Tech",
-      "title": "Ecotoxicology Expert in Owings Mills, Maryland, United States",
-      "location": "Owings Mills or United States",
-      "url": "https://tetratech.referrals.selectminds.com/jobs/ecotoxicology-expert-55556",
-      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/ecotoxicology-expert-55556",
-      "date_posted": "2026-07-08T17:03:19.831Z",
-      "description": "PhD in ecology/biology/toxicology, proficiency in aquatic toxicology and risk assessment, strong report writing and independent research skills, experience reviewing technical literature, Microsoft Excel/Word proficiency.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
