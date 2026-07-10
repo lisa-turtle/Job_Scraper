@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-09 22:10 UTC",
-  "total": 44,
-  "new_count": 0,
+  "scraped_at": "2026-07-10 10:37 UTC",
+  "total": 46,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Inotivco",
@@ -57,6 +57,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Tetra Tech",
+      "title": "Environmental Scientist",
+      "location": "Rancho Cordova or Oakland",
+      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55577",
+      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55577",
+      "date_posted": "2026-07-09T23:26:54.910Z",
+      "description": "BS in environmental or physical sciences,2+ years environmental industry experience,practical field sampling experience,multimedia sampling,ability to travel and work outdoors,valid driver's license required.",
+      "salary": "$70k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -564,6 +578,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Consolidated Engineering Laboratories (CEL)",
+      "title": "Environmental Scientist 1",
+      "location": "Redmond or Moclips",
+      "url": "http://celabs.hrmdirect.com/employment/view.php?req=3757595",
+      "direct_url": "http://celabs.hrmdirect.com/employment/view.php?req=3757595",
+      "date_posted": "2026-07-08T03:00:00.000Z",
+      "description": "Bachelor's degree in environmental or related field, 0–5 years experience, CESCL duties, willingness for in-water work and occasional long days/nights/weekends, valid driver's license, proficiency with Microsoft Excel, Bluebeam, and GIS.",
+      "salary": "$62k–$75k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Verdantas",
       "title": "Environmental Scientist III",
       "location": "Tampa or Florida or United States",
@@ -620,5 +648,34 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Tetra Tech",
+      "title": "Environmental Scientist",
+      "location": "Rancho Cordova or Oakland",
+      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55577",
+      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55577",
+      "date_posted": "2026-07-09T23:26:54.910Z",
+      "description": "BS in environmental or physical sciences,2+ years environmental industry experience,practical field sampling experience,multimedia sampling,ability to travel and work outdoors,valid driver's license required.",
+      "salary": "$70k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Consolidated Engineering Laboratories (CEL)",
+      "title": "Environmental Scientist 1",
+      "location": "Redmond or Moclips",
+      "url": "http://celabs.hrmdirect.com/employment/view.php?req=3757595",
+      "direct_url": "http://celabs.hrmdirect.com/employment/view.php?req=3757595",
+      "date_posted": "2026-07-08T03:00:00.000Z",
+      "description": "Bachelor's degree in environmental or related field, 0–5 years experience, CESCL duties, willingness for in-water work and occasional long days/nights/weekends, valid driver's license, proficiency with Microsoft Excel, Bluebeam, and GIS.",
+      "salary": "$62k–$75k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
