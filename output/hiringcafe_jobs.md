@@ -1,18 +1,18 @@
 # ☕ HiringCafe — Environmental Roles
-*Last updated: 2026-07-10 10:37 UTC*
+*Last updated: 2026-07-10 20:56 UTC*
 
-**2 new role(s)** since last run · 46 total in last 30d
+**2 new role(s)** since last run · 44 total in last 30d
 
-### [Environmental Scientist](https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55577) — Tetra Tech
-- 📍 **Location:** Rancho Cordova or Oakland
-- 💰 **Salary:** $70k–$80k/yr
-- **Work mode:** Telecommute eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-09T23:26:54.910Z
-
-### [Environmental Scientist 1](http://celabs.hrmdirect.com/employment/view.php?req=3757595) — Consolidated Engineering Laboratories (CEL)
-- 📍 **Location:** Redmond or Moclips
-- 💰 **Salary:** $62k–$75k/yr
+### [ENVIRONMENTAL SCIENTIST 3 - PART TIME](https://www.governmentjobs.com/careers/nv/jobs/5388532) — State of Nevada (NV)
+- 📍 **Location:** Carson City, Nevada, United States
+- 💰 **Salary:** $67k–$100k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-08T03:00:00.000Z
+- 🕒 **Posted:** 2026-06-24T22:35:07.000Z
+
+### [Environmental Scientist](https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1) — Kansas Department of Agriculture
+- 📍 **Location:** Manhattan or Riley County or Topeka
+- 💰 **Salary:** $55k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-06-25T12:00:00.000Z
