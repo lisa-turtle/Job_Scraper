@@ -1,11 +1,17 @@
 # ☕ HiringCafe — Environmental Roles
-*Last updated: 2026-07-11 20:14 UTC*
+*Last updated: 2026-07-11 23:40 UTC*
 
-**1 new role(s)** since last run · 43 total in last 30d
+**2 new role(s)** since last run · 44 total in last 30d
 
-### [Environmental Scientist](https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1) — Kansas Department of Agriculture
-- 📍 **Location:** Manhattan or Riley County or Topeka
-- 💰 **Salary:** $55k/yr
+### [Environmental Scientist](https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1) — Kimley-Horn
+- 📍 **Location:** Reston, Virginia, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-25T12:00:00.000Z
+- 🕒 **Posted:** 2026-06-30T04:00:00.000Z
+
+### [Environmental Scientist](https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1592?c=utdgohcm) — Utah Department of Environmental Quality
+- 📍 **Location:** Salt Lake City, Utah, United States
+- 💰 **Salary:** $54k–$112k/yr
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-01T00:00:00.000Z

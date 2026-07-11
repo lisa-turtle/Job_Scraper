@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-11 20:14 UTC",
-  "total": 43,
-  "new_count": 1,
+  "scraped_at": "2026-07-11 23:40 UTC",
+  "total": 44,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Inotivco",
@@ -256,6 +256,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "BGE, Inc",
+      "title": "Environmental Scientist",
+      "location": "Frisco, Texas, United States",
+      "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
+      "direct_url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
+      "date_posted": "2026-06-25T17:13:32.000Z",
+      "description": "Bachelor's or Master's in environmental science/ecology/biology/geology, 1+ years relevant experience (Phase I/II ESAs, wetlands, ecological surveys), MS Office proficiency, ArcGIS knowledge preferred, strong writing/communication, willingness to travel and perform fieldwork.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Arcadis",
       "title": "Environmental Scientist",
       "location": "Bluefield, Virginia, United States",
@@ -278,20 +292,6 @@
       "date_posted": "2026-07-06T14:10:25.000Z",
       "description": "Bachelor's degree in a related science/engineering field, 5+ years environmental field and compliance experience, strong technical writing, field sampling, project planning, safety plan development, Microsoft Office skills, valid driver's license, 40-hour HAZWOPER.",
       "salary": "$85k–$95k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "BGE, Inc",
-      "title": "Environmental Scientist",
-      "location": "Frisco, Texas, United States",
-      "url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
-      "direct_url": "https://job-boards.greenhouse.io/bgeinc/jobs/5282386008",
-      "date_posted": "2026-06-25T17:13:32.000Z",
-      "description": "Bachelor's or Master's in environmental science/ecology/biology/geology, 1+ years relevant experience (Phase I/II ESAs, wetlands, ecological surveys), MS Office proficiency, ArcGIS knowledge preferred, strong writing/communication, willingness to travel and perform fieldwork.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -494,6 +494,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Kimley-Horn",
+      "title": "Environmental Scientist",
+      "location": "Reston, Virginia, United States",
+      "url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-06-30T04:00:00.000Z",
+      "description": "4+ years' relevant experience, bachelor's degree in environmental or related field, ecological field work, wetland/species permitting knowledge, technical writing skills, ArcGIS familiarity, and willingness to travel 15-20%.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Tetra Tech",
       "title": "Environmental Scientist",
       "location": "Buffalo, New York, United States",
@@ -578,17 +592,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Cedarville Engineering Group",
+      "company": "Utah Department of Environmental Quality",
       "title": "Environmental Scientist",
-      "location": "Pottstown, Pennsylvania, United States",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c68fe53878018fee54f4bd039e&id=8a7887a89efb878a019f194c8dae636b&source=&lang=en",
-      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c68fe53878018fee54f4bd039e&id=8a7887a89efb878a019f194c8dae636b&source=&lang=en",
-      "date_posted": "2026-06-30T16:11:15.000Z",
-      "description": "Bachelor's degree required; OSHA certifications for fieldwork (HAZWOPER, OSHA 10/30/40) and valid driver's license required; must pass federal background check; ~25% travel; experience with field sampling and technical writing preferred; training provided.",
-      "salary": "",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1592?c=utdgohcm",
+      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1592?c=utdgohcm",
+      "date_posted": "2026-07-01T00:00:00.000Z",
+      "description": "3+ years working with federal/state air quality rules, conducting compliance inspections, stack testing, CEM, and report writing; strong technical reading/writing and verbal communication; ability to travel to remote areas with occasional overnight stays; valid driver's license common.",
+      "salary": "$54k–$112k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -608,17 +622,31 @@
   ],
   "new_jobs": [
     {
-      "company": "Kansas Department of Agriculture",
+      "company": "Kimley-Horn",
       "title": "Environmental Scientist",
-      "location": "Manhattan or Riley County or Topeka",
-      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
-      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-06-25T12:00:00.000Z",
-      "description": "Minimum four years of relevant experience (or equivalent education/training), valid Class C (or higher) driver's license, physical dexterity for field work, GIS and report-preparation skills, and strong oral/written communication.",
-      "salary": "$55k/yr",
+      "location": "Reston, Virginia, United States",
+      "url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-06-30T04:00:00.000Z",
+      "description": "4+ years' relevant experience, bachelor's degree in environmental or related field, ecological field work, wetland/species permitting knowledge, technical writing skills, ArcGIS familiarity, and willingness to travel 15-20%.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Utah Department of Environmental Quality",
+      "title": "Environmental Scientist",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1592?c=utdgohcm",
+      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1592?c=utdgohcm",
+      "date_posted": "2026-07-01T00:00:00.000Z",
+      "description": "3+ years working with federal/state air quality rules, conducting compliance inspections, stack testing, CEM, and report writing; strong technical reading/writing and verbal communication; ability to travel to remote areas with occasional overnight stays; valid driver's license common.",
+      "salary": "$54k–$112k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ]
