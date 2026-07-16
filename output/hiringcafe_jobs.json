@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-15 20:39 UTC",
+  "scraped_at": "2026-07-16 00:13 UTC",
   "total": 41,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Inotivco",
@@ -60,20 +60,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Tetra Tech",
-      "title": "Environmental Scientist",
-      "location": "Rancho Cordova or Oakland",
-      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55577",
-      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55577",
-      "date_posted": "2026-07-09T23:26:54.910Z",
-      "description": "BS in environmental or physical sciences,2+ years environmental industry experience,practical field sampling experience,multimedia sampling,ability to travel and work outdoors,valid driver's license required.",
-      "salary": "$70k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Whitestone Associates, Inc.",
       "title": "Environmental Scientist",
       "location": "Pittsburgh, Pennsylvania, United States",
@@ -88,17 +74,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Stantec",
+      "company": "Tetra Tech",
       "title": "Environmental Scientist",
-      "location": "Buffalo, New York, United States",
-      "url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
-      "direct_url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
-      "date_posted": "2026-06-25T13:03:00.000Z",
-      "description": "Bachelor's in an environmental discipline, 5+ years environmental field experience including wetland delineations, proficiency with GIS and GPS, Microsoft Office skills, physical stamina for remote fieldwork, strong communication and technical writing.",
-      "salary": "$73k–$106k/yr",
+      "location": "Rancho Cordova or Oakland",
+      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55577",
+      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55577",
+      "date_posted": "2026-07-09T23:26:54.910Z",
+      "description": "BS in environmental or physical sciences,2+ years environmental industry experience,practical field sampling experience,multimedia sampling,ability to travel and work outdoors,valid driver's license required.",
+      "salary": "$70k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -111,6 +97,20 @@
       "description": "Bachelor's in environmental science or related field, relevant environmental field experience, valid driver's license and watercraft/trailering experience, ability to lift 30–50 lbs, and strong written and verbal communication skills.",
       "salary": "$48k–$54k/yr",
       "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Stantec",
+      "title": "Environmental Scientist",
+      "location": "Buffalo, New York, United States",
+      "url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
+      "direct_url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
+      "date_posted": "2026-06-25T13:03:00.000Z",
+      "description": "Bachelor's in an environmental discipline, 5+ years environmental field experience including wetland delineations, proficiency with GIS and GPS, Microsoft Office skills, physical stamina for remote fieldwork, strong communication and technical writing.",
+      "salary": "$73k–$106k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -158,6 +158,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Crystal Clean",
+      "title": "Environmental Scientist",
+      "location": "Hoffman Estates, Illinois, United States",
+      "url": "https://myjobs.adp.com/hccexternal/cx/job-details?reqId=5001206392006",
+      "direct_url": "https://myjobs.adp.com/hccexternal/cx/job-details?reqId=5001206392006",
+      "date_posted": "2026-06-17T19:40:48.549Z",
+      "description": "5+ years experience in waste approvals, strong knowledge of RCRA and DOT, Bachelor's in Chemistry or Environmental Science (or equivalent), advanced Microsoft Excel, database/SQL familiarity, technical writing, and occasional travel.",
+      "salary": "$75k–$95k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Apex Companies",
       "title": "Environmental Scientist",
       "location": "Omaha or Nebraska or Iowa",
@@ -180,20 +194,6 @@
       "date_posted": "2026-07-14T15:22:59.723Z",
       "description": "Bachelor's or master's in environmental science or related field (or equivalent experience), minimum 1 year experience with wetland/stream delineations, field and reporting skills, permitting knowledge, ability to travel for field work.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Crystal Clean",
-      "title": "Environmental Scientist",
-      "location": "Hoffman Estates, Illinois, United States",
-      "url": "https://myjobs.adp.com/hccexternal/cx/job-details?reqId=5001206392006",
-      "direct_url": "https://myjobs.adp.com/hccexternal/cx/job-details?reqId=5001206392006",
-      "date_posted": "2026-06-17T19:40:48.549Z",
-      "description": "5+ years experience in waste approvals, strong knowledge of RCRA and DOT, Bachelor's in Chemistry or Environmental Science (or equivalent), advanced Microsoft Excel, database/SQL familiarity, technical writing, and occasional travel.",
-      "salary": "$75k–$95k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -242,14 +242,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kansas Department of Agriculture",
+      "company": "Environmental Compliance Consultants",
       "title": "Environmental Scientist",
-      "location": "Garden City, Kansas, United States",
-      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1",
-      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-07-14T12:00:00.000Z",
-      "description": "Four years experience in environmental/physical/biological/math/engineering or equivalent combination; valid Class C driver's license; ability to lift 35 lbs; capable of long outdoor field work; Kansas Tax Clearance Certificate required post-offer.",
-      "salary": "$55k/yr",
+      "location": "Anchorage, Alaska, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
+      "date_posted": "2026-07-06T14:10:25.000Z",
+      "description": "Bachelor's degree in a related science/engineering field, 5+ years environmental field and compliance experience, strong technical writing, field sampling, project planning, safety plan development, Microsoft Office skills, valid driver's license, 40-hour HAZWOPER.",
+      "salary": "$85k–$95k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -270,14 +270,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Environmental Compliance Consultants",
+      "company": "Kansas Department of Agriculture",
       "title": "Environmental Scientist",
-      "location": "Anchorage, Alaska, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
-      "date_posted": "2026-07-06T14:10:25.000Z",
-      "description": "Bachelor's degree in a related science/engineering field, 5+ years environmental field and compliance experience, strong technical writing, field sampling, project planning, safety plan development, Microsoft Office skills, valid driver's license, 40-hour HAZWOPER.",
-      "salary": "$85k–$95k/yr",
+      "location": "Garden City, Kansas, United States",
+      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1",
+      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1",
+      "date_posted": "2026-07-14T12:00:00.000Z",
+      "description": "Four years experience in environmental/physical/biological/math/engineering or equivalent combination; valid Class C driver's license; ability to lift 35 lbs; capable of long outdoor field work; Kansas Tax Clearance Certificate required post-offer.",
+      "salary": "$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -578,20 +578,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Apex Companies",
-      "title": "Scientist 1 – Water Quality – Northern Wyoming",
-      "location": "Gillette, Wyoming, United States",
-      "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5351083008",
-      "direct_url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5351083008",
-      "date_posted": "2026-07-15T13:17:40.000Z",
-      "description": "BS in environmental science or related field, 0–3 years field sampling/inspection experience, valid driver’s license, ability to lift 70 lbs, Microsoft Office proficiency, pass drug/alcohol screening.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
