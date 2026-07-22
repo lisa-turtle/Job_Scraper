@@ -1,17 +1,18 @@
 # ☕ HiringCafe — Environmental Roles
-*Last updated: 2026-07-22 00:09 UTC*
+*Last updated: 2026-07-22 10:07 UTC*
 
 **2 new role(s)** since last run · 45 total in last 30d
 
-### [Senior Environmental Scientist](https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist) — QK
-- 📍 **Location:** Clovis, California, United States
-- 💰 **Salary:** $105k–$120k/yr
+### [Environmental Scientist ](https://criadvantage.isolvedhire.com/jobs/1825665) — CRI Advantage
+- 📍 **Location:** Idaho Falls, Idaho, United States
+- 💰 **Salary:** $135k–$270k/yr
 - **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-24T19:55:12.571Z
+- **Job type:** Temporary
+- 🕒 **Posted:** 2026-07-21T00:00:00.000Z
 
-### [Associate Environmental Scientist](https://jobs.lever.co/true-environmental/96d4fbd4-2b46-4ade-a626-c1ed7f01b842) — True-environmental
-- 📍 **Location:** Florham Park, New Jersey, United States
-- **Work mode:** On-site
+### [Mid-to Senior-level Scientist, Ecological Risk Assessment and Ecotoxicology](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4339453) — Integral Consulting Inc.
+- 📍 **Location:** United States
+- 💰 **Salary:** $65k–$115k/yr
+- **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-21T17:18:57.933Z
+- 🕒 **Posted:** 2026-07-21T18:25:00.000Z
