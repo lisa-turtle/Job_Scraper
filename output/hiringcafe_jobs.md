@@ -1,17 +1,17 @@
 # ☕ HiringCafe — Environmental Roles
-*Last updated: 2026-07-21 20:51 UTC*
+*Last updated: 2026-07-22 00:09 UTC*
 
-**2 new role(s)** since last run · 43 total in last 30d
+**2 new role(s)** since last run · 45 total in last 30d
 
-### [Environmental Scientist III](https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/79852?c=kypersonnelcabinet) — Energy & Environment Cabinet | Department for Natural Resources
-- 📍 **Location:** Location Varies, Kentucky, United States
-- 💰 **Salary:** $52k–$71k/yr
+### [Senior Environmental Scientist](https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist) — QK
+- 📍 **Location:** Clovis, California, United States
+- 💰 **Salary:** $105k–$120k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-21T00:00:00.000Z
+- 🕒 **Posted:** 2026-06-24T19:55:12.571Z
 
-### [Environmental Scientist](https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c68fe53878018fee54f4bd039e&id=8a7887a89efb878a019f194c8dae636b&source=&lang=en) — Cedarville Engineering Group
-- 📍 **Location:** Pottstown, Pennsylvania, United States
+### [Associate Environmental Scientist](https://jobs.lever.co/true-environmental/96d4fbd4-2b46-4ade-a626-c1ed7f01b842) — True-environmental
+- 📍 **Location:** Florham Park, New Jersey, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-06-30T16:11:15.000Z
+- 🕒 **Posted:** 2026-07-21T17:18:57.933Z
