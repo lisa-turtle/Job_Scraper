@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-23 10:05 UTC",
+  "scraped_at": "2026-07-23 20:41 UTC",
   "total": 50,
-  "new_count": 2,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Inotivco",
@@ -158,20 +158,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Handex Consulting & Remediation",
-      "title": "Environmental Scientist",
-      "location": "Tampa or Florida",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4295005",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4295005",
-      "date_posted": "2026-06-30T17:34:17.000Z",
-      "description": "Bachelor's in geology/environmental science/hydrogeology/engineering (or equivalent), 0-2 years environmental field experience, OSHA 40-hour HAZWOPER (preferred), TWIC card (preferred), Microsoft Office proficiency, and field sampling/monitoring skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "City of El Paso, TX",
       "title": "Environmental Scientist",
       "location": "El Paso, Texas, United States",
@@ -180,6 +166,20 @@
       "date_posted": "2026-07-22T15:57:08.000Z",
       "description": "Bachelor's in natural/physical science, engineering, environmental studies or related plus 2 years environmental experience; valid Texas Class C driver; ability to conduct sampling, inspections, data analysis, reporting, and supervise technical staff.",
       "salary": "$56k–$84k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Handex Consulting & Remediation",
+      "title": "Environmental Scientist",
+      "location": "Tampa or Florida",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4295005",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4295005",
+      "date_posted": "2026-06-30T17:34:17.000Z",
+      "description": "Bachelor's in geology/environmental science/hydrogeology/engineering (or equivalent), 0-2 years environmental field experience, OSHA 40-hour HAZWOPER (preferred), TWIC card (preferred), Microsoft Office proficiency, and field sampling/monitoring skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -452,6 +452,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "GFT.",
+      "title": "Principal Environmental Scientist",
+      "location": "Owings Mills, Maryland, United States",
+      "url": "https://careers-gannettfleming.icims.com/jobs/14446/principal-environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://careers-gannettfleming.icims.com/jobs/14446/principal-environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-07-23T04:00:00.000Z",
+      "description": "Bachelor's in environmental field, 15 years experience in energy licensing/transmission siting, CPCN and permit coordination, technical writing, regulatory interface with state agencies.",
+      "salary": "$140k–$170k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Alliance Technical Group",
       "title": "Environmental Scientist III/IV",
       "location": "Bryant, Arkansas, United States",
@@ -488,20 +502,6 @@
       "date_posted": "2026-07-21T00:00:00.000Z",
       "description": "Bachelor's in a natural/biological/physical science or equivalent experience; 3 years in natural resources or environmental control; strong communication, organization, time management, and decision-making skills.",
       "salary": "$52k–$71k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Vistal",
-      "title": "Environmental Scientist I",
-      "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
-      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "date_posted": "2026-07-01T18:47:25.002Z",
-      "description": "Bachelor's in biology/ecology/environmental science, 3+ years relevant experience, plant ID, GIS experience, knowledge of MN/ND/SD and federal wetland regulations, valid driver's license, insurable.",
-      "salary": "$71k–$97k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -676,6 +676,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Vistal",
+      "title": "Environmental Scientist I",
+      "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
+      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "date_posted": "2026-07-01T18:47:25.002Z",
+      "description": "Bachelor's in biology/ecology/environmental science, 3+ years relevant experience, plant ID, GIS experience, knowledge of MN/ND/SD and federal wetland regulations, valid driver's license, insurable.",
+      "salary": "$71k–$97k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "CDR Companies",
       "title": "Environmental Scientist II - Williamsport",
       "location": "Wilkes-Barre, Pennsylvania, United States",
@@ -688,46 +702,18 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
-    },
-    {
-      "company": "AECOM",
-      "title": "Mid-level Environmental Scientist",
-      "location": "San Jose, California, United States",
-      "url": "https://jobs.smartrecruiters.com/AECOM2/744000133618959-mid-level-environmental-scientist",
-      "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000133618959-mid-level-environmental-scientist",
-      "date_posted": "2026-06-23T14:14:33.479Z",
-      "description": "Bachelor's degree in environmental science/engineering/chemistry, 4+ years environmental compliance experience, US citizenship required, valid driver's license, regulatory knowledge (Clean Air, Clean Water, RCRA, TSCA, EPCRA), and proficiency with compliance tracking tools and spreadsheets.",
-      "salary": "$85k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "City of El Paso, TX",
-      "title": "Environmental Scientist",
-      "location": "El Paso, Texas, United States",
-      "url": "https://www.governmentjobs.com/careers/elpaso/jobs/5416779",
-      "direct_url": "https://www.governmentjobs.com/careers/elpaso/jobs/5416779",
-      "date_posted": "2026-07-22T15:57:08.000Z",
-      "description": "Bachelor's in natural/physical science, engineering, environmental studies or related plus 2 years environmental experience; valid Texas Class C driver; ability to conduct sampling, inspections, data analysis, reporting, and supervise technical staff.",
-      "salary": "$56k–$84k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "SWCA Environmental Consultants",
-      "title": "Assistant Project Water Resources Scientist – Water Quality",
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://swca.jibeapply.com/jobs/14775",
-      "direct_url": "https://swca.jibeapply.com/jobs/14775",
-      "date_posted": "2026-07-22T19:57:41.000Z",
-      "description": "Bachelor's in related field, minimum 3 years environmental/water-resources experience, technical writing and permitting experience, familiarity with ArcGIS/GPS, ability to conduct field work (10–25% travel).",
-      "salary": "$57k–$78k/yr",
+      "company": "GFT.",
+      "title": "Principal Environmental Scientist",
+      "location": "Owings Mills, Maryland, United States",
+      "url": "https://careers-gannettfleming.icims.com/jobs/14446/principal-environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://careers-gannettfleming.icims.com/jobs/14446/principal-environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-07-23T04:00:00.000Z",
+      "description": "Bachelor's in environmental field, 15 years experience in energy licensing/transmission siting, CPCN and permit coordination, technical writing, regulatory interface with state agencies.",
+      "salary": "$140k–$170k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
