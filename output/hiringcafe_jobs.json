@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-23 20:41 UTC",
+  "scraped_at": "2026-07-24 00:14 UTC",
   "total": 50,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Inotivco",
@@ -214,20 +214,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "GSI Environmental Inc.",
-      "title": "Environmental Scientist",
-      "location": "Emeryville, California, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=222811&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=222811&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Bachelor's in civil/environmental engineering or related, 2 years related experience, skills in geohazard simulation, H&H and groundwater modeling, statistical and ML analysis, numerical modeling, and report preparation.",
-      "salary": "$97k–$110k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Kimley-Horn",
       "title": "Environmental Scientist",
       "location": "Deerfield, Illinois, United States",
@@ -239,6 +225,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "GSI Environmental Inc.",
+      "title": "Environmental Scientist",
+      "location": "Emeryville, California, United States",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=222811&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=222811&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "date_posted": "2026-07-20T00:00:00.000Z",
+      "description": "Bachelor's in civil/environmental engineering or related, 2 years related experience, skills in geohazard simulation, H&H and groundwater modeling, statistical and ML analysis, numerical modeling, and report preparation.",
+      "salary": "$97k–$110k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -284,14 +284,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Environmental Compliance Consultants",
+      "company": "Kansas Department of Agriculture",
       "title": "Environmental Scientist",
-      "location": "Anchorage, Alaska, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
-      "date_posted": "2026-07-06T14:10:25.000Z",
-      "description": "Bachelor's degree in a related science/engineering field, 5+ years environmental field and compliance experience, strong technical writing, field sampling, project planning, safety plan development, Microsoft Office skills, valid driver's license, 40-hour HAZWOPER.",
-      "salary": "$85k–$95k/yr",
+      "location": "Garden City, Kansas, United States",
+      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1",
+      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1",
+      "date_posted": "2026-07-14T12:00:00.000Z",
+      "description": "Four years experience in environmental/physical/biological/math/engineering or equivalent combination; valid Class C driver's license; ability to lift 35 lbs; capable of long outdoor field work; Kansas Tax Clearance Certificate required post-offer.",
+      "salary": "$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -312,14 +312,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kansas Department of Agriculture",
+      "company": "Environmental Compliance Consultants",
       "title": "Environmental Scientist",
-      "location": "Garden City, Kansas, United States",
-      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1",
-      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221964&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-07-14T12:00:00.000Z",
-      "description": "Four years experience in environmental/physical/biological/math/engineering or equivalent combination; valid Class C driver's license; ability to lift 35 lbs; capable of long outdoor field work; Kansas Tax Clearance Certificate required post-offer.",
-      "salary": "$55k/yr",
+      "location": "Anchorage, Alaska, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4306613",
+      "date_posted": "2026-07-06T14:10:25.000Z",
+      "description": "Bachelor's degree in a related science/engineering field, 5+ years environmental field and compliance experience, strong technical writing, field sampling, project planning, safety plan development, Microsoft Office skills, valid driver's license, 40-hour HAZWOPER.",
+      "salary": "$85k–$95k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -396,20 +396,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ri",
-      "title": "ENVIRONMENTAL SCIENTIST I",
-      "location": "Providence, Rhode Island, United States",
-      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/235-Promenade-St/ENVIRONMENTAL-SCIENTIST-I_JR103139",
-      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/235-Promenade-St/ENVIRONMENTAL-SCIENTIST-I_JR103139",
-      "date_posted": "2026-07-18T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental/physical/biological science or related field required; conduct fieldwork, inspections, data collection/analysis, and prepare technical reports; knowledge of environmental laws and regulations.",
-      "salary": "$71k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "T&M Associates",
       "title": "Environmental Scientist 2",
       "location": "Indianapolis, Indiana, United States",
@@ -424,6 +410,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Ri",
+      "title": "ENVIRONMENTAL SCIENTIST I",
+      "location": "Providence, Rhode Island, United States",
+      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/235-Promenade-St/ENVIRONMENTAL-SCIENTIST-I_JR103139",
+      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/235-Promenade-St/ENVIRONMENTAL-SCIENTIST-I_JR103139",
+      "date_posted": "2026-07-18T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental/physical/biological science or related field required; conduct fieldwork, inspections, data collection/analysis, and prepare technical reports; knowledge of environmental laws and regulations.",
+      "salary": "$71k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Canacre",
       "title": "Senior Environmental Scientist",
       "location": "Raleigh, North Carolina, United States",
@@ -432,20 +432,6 @@
       "date_posted": "2026-06-26T04:00:00.000Z",
       "description": "Requires a bachelor’s (master’s preferred) in environmental science/ecology/environmental planning or related, 2+ years relevant experience, familiarity with GIS, Microsoft Office proficiency, fieldwork capability, and strong communication skills.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Freeport-McMoRan",
-      "title": "Chief Environmental Scientist",
-      "location": "Morenci, Arizona, United States",
-      "url": "https://talent.fmjobs.com/careers/job/43028326",
-      "direct_url": "https://talent.fmjobs.com/careers/job/43028326",
-      "date_posted": "2026-07-08T18:40:20.000Z",
-      "description": "Bachelor's in a related field with 7+ years (or Master's with 5+ years); expertise in environmental regulations, permits, project management, and team leadership for large mining operations.",
-      "salary": "$112k–$160k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -466,6 +452,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Freeport-McMoRan",
+      "title": "Chief Environmental Scientist",
+      "location": "Morenci, Arizona, United States",
+      "url": "https://talent.fmjobs.com/careers/job/43028326",
+      "direct_url": "https://talent.fmjobs.com/careers/job/43028326",
+      "date_posted": "2026-07-08T18:40:20.000Z",
+      "description": "Bachelor's in a related field with 7+ years (or Master's with 5+ years); expertise in environmental regulations, permits, project management, and team leadership for large mining operations.",
+      "salary": "$112k–$160k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Alliance Technical Group",
       "title": "Environmental Scientist III/IV",
       "location": "Bryant, Arkansas, United States",
@@ -480,20 +480,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "True-environmental",
-      "title": "Associate Environmental Scientist",
-      "location": "Florham Park, New Jersey, United States",
-      "url": "https://jobs.lever.co/true-environmental/96d4fbd4-2b46-4ade-a626-c1ed7f01b842",
-      "direct_url": "https://jobs.lever.co/true-environmental/96d4fbd4-2b46-4ade-a626-c1ed7f01b842",
-      "date_posted": "2026-07-21T17:18:57.933Z",
-      "description": "BS in environmental field, valid driver's license, ability to perform field sampling and site investigations, strong writing and quantitative skills, respirator use, pass drug testing.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Energy & Environment Cabinet | Department for Natural Resources",
       "title": "Environmental Scientist III",
       "location": "Location Varies, Kentucky, United States",
@@ -502,6 +488,20 @@
       "date_posted": "2026-07-21T00:00:00.000Z",
       "description": "Bachelor's in a natural/biological/physical science or equivalent experience; 3 years in natural resources or environmental control; strong communication, organization, time management, and decision-making skills.",
       "salary": "$52k–$71k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "True-environmental",
+      "title": "Associate Environmental Scientist",
+      "location": "Florham Park, New Jersey, United States",
+      "url": "https://jobs.lever.co/true-environmental/96d4fbd4-2b46-4ade-a626-c1ed7f01b842",
+      "direct_url": "https://jobs.lever.co/true-environmental/96d4fbd4-2b46-4ade-a626-c1ed7f01b842",
+      "date_posted": "2026-07-21T17:18:57.933Z",
+      "description": "BS in environmental field, valid driver's license, ability to perform field sampling and site investigations, strong writing and quantitative skills, respirator use, pass drug testing.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -662,20 +662,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Moore Engineering, Inc.",
-      "title": "Environmental Scientist I",
-      "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
-      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "date_posted": "2026-07-01T18:47:25.002Z",
-      "description": "Bachelor's in biology/ecology/environmental sciences, 3+ years relevant experience, plant ID, GIS proficiency, knowledge of federal and MN/ND/SD wetland regulations, valid driver’s license and insurable.",
-      "salary": "$71k–$97k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Vistal",
       "title": "Environmental Scientist I",
       "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
@@ -683,6 +669,20 @@
       "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
       "date_posted": "2026-07-01T18:47:25.002Z",
       "description": "Bachelor's in biology/ecology/environmental science, 3+ years relevant experience, plant ID, GIS experience, knowledge of MN/ND/SD and federal wetland regulations, valid driver's license, insurable.",
+      "salary": "$71k–$97k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Moore Engineering, Inc.",
+      "title": "Environmental Scientist I",
+      "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
+      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "date_posted": "2026-07-01T18:47:25.002Z",
+      "description": "Bachelor's in biology/ecology/environmental sciences, 3+ years relevant experience, plant ID, GIS proficiency, knowledge of federal and MN/ND/SD wetland regulations, valid driver’s license and insurable.",
       "salary": "$71k–$97k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -704,20 +704,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "GFT.",
-      "title": "Principal Environmental Scientist",
-      "location": "Owings Mills, Maryland, United States",
-      "url": "https://careers-gannettfleming.icims.com/jobs/14446/principal-environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://careers-gannettfleming.icims.com/jobs/14446/principal-environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-07-23T04:00:00.000Z",
-      "description": "Bachelor's in environmental field, 15 years experience in energy licensing/transmission siting, CPCN and permit coordination, technical writing, regulatory interface with state agencies.",
-      "salary": "$140k–$170k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
