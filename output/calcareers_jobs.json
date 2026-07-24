@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-23 20:19 UTC",
-  "total": 12,
+  "scraped_at": "2026-07-24 20:47 UTC",
+  "total": 10,
   "new_count": 0,
   "jobs": [
     {
@@ -100,18 +100,6 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "State Air Resources Board",
-      "title": "Staff Air Pollution Specialist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525513",
-      "date_posted": "2026-07-21",
-      "salary": "$10521.00 - $13173.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
       "company": "Department of Transportation",
       "title": "Branch Chief, Water Resources Construction",
       "location": "Alameda County",
@@ -134,18 +122,6 @@
       "telework": "In Office",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "On-site"
-    },
-    {
-      "company": "State Water Resources Control Board",
-      "title": "Environmental Scientist",
-      "location": "San Luis Obispo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=482161",
-      "date_posted": "2026-07-08",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
     }
   ],
   "new_jobs": []
