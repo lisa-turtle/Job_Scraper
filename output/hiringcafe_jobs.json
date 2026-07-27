@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-27 22:01 UTC",
+  "scraped_at": "2026-07-27 23:58 UTC",
   "total": 44,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Inotivco",
@@ -88,6 +88,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Omega Technical Services",
+      "title": "Environmental Scientist",
+      "location": "Idaho Falls, Idaho, United States",
+      "url": "https://omegatechserv.career.page/jobs/1292?lang=en-us",
+      "direct_url": "https://omegatechserv.career.page/jobs/1292?lang=en-us",
+      "date_posted": "2026-07-17T15:31:34.000Z",
+      "description": "5+ years supporting environmental remediation, site characterization, waste management or restoration; technical writing; environmental and radiological analyses; DOE clearance eligibility; US citizenship and pre-employment screening required.",
+      "salary": "$150k–$190k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Penncolor",
       "title": "Environmental Scientist",
       "location": "Pittsburgh, Pennsylvania, United States",
@@ -110,20 +124,6 @@
       "date_posted": "2026-07-09T22:26:54.882Z",
       "description": "Bachelor's in environmental or physical science, 3+ years environmental consulting in Hawaii, DOH HEER program familiarity, field sampling and site investigation experience, MS Office proficiency, valid driver's license.",
       "salary": "$65k–$85k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Omega Technical Services",
-      "title": "Environmental Scientist",
-      "location": "Idaho Falls, Idaho, United States",
-      "url": "https://omegatechserv.career.page/jobs/1292?lang=en-us",
-      "direct_url": "https://omegatechserv.career.page/jobs/1292?lang=en-us",
-      "date_posted": "2026-07-17T15:31:34.000Z",
-      "description": "5+ years supporting environmental remediation, site characterization, waste management or restoration; technical writing; environmental and radiological analyses; DOE clearance eligibility; US citizenship and pre-employment screening required.",
-      "salary": "$150k–$190k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -214,20 +214,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kimley-Horn",
-      "title": "Environmental Scientist",
-      "location": "Deerfield, Illinois, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/24985/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24985/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "date_posted": "2026-07-08T15:43:00.000Z",
-      "description": "5+ years environmental experience, bachelor’s or master’s in related field, wetland/species permitting knowledge, ArcGIS familiarity, technical writing, ecological field work, client coordination, and travel flexibility.",
-      "salary": "$90k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "GSI Environmental Inc.",
       "title": "Environmental Scientist",
       "location": "Emeryville, California, United States",
@@ -239,6 +225,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kimley-Horn",
+      "title": "Environmental Scientist",
+      "location": "Deerfield, Illinois, United States",
+      "url": "https://careers-kimley-horn.icims.com/jobs/24985/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24985/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-07-08T15:43:00.000Z",
+      "description": "5+ years environmental experience, bachelor’s or master’s in related field, wetland/species permitting knowledge, ArcGIS familiarity, technical writing, ecological field work, client coordination, and travel flexibility.",
+      "salary": "$90k–$115k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -382,6 +382,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Eisholding",
+      "title": "Staff Environmental Scientist",
+      "location": "West Columbia or Irmo or Orangeburg or Chapin or Newberry or Aiken or Columbia or Camden or Lexington",
+      "url": "https://jobs.dayforcehcm.com/en-US/eisholding/candidateportal/jobs/117",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/eisholding/candidateportal/jobs/117",
+      "date_posted": "2026-07-27T05:00:00.000Z",
+      "description": "Conduct asbestos and lead surveys, collect environmental samples, prepare technical reports; requires bachelor\\u0002s or equivalent, 1+ years environmental consulting experience, required accreditations for SC/NC, valid driver license.",
+      "salary": "$60k–$70k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Freeport-McMoRan",
       "title": "Chief Environmental Scientist",
       "location": "Morenci, Arizona, United States",
@@ -424,20 +438,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "True-environmental",
-      "title": "Associate Environmental Scientist",
-      "location": "Florham Park, New Jersey, United States",
-      "url": "https://jobs.lever.co/true-environmental/96d4fbd4-2b46-4ade-a626-c1ed7f01b842",
-      "direct_url": "https://jobs.lever.co/true-environmental/96d4fbd4-2b46-4ade-a626-c1ed7f01b842",
-      "date_posted": "2026-07-21T17:18:57.933Z",
-      "description": "BS in environmental field, valid driver's license, ability to perform field sampling and site investigations, strong writing and quantitative skills, respirator use, pass drug testing.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Energy & Environment Cabinet | Department for Natural Resources",
       "title": "Environmental Scientist III",
       "location": "Location Varies, Kentucky, United States",
@@ -452,14 +452,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Vistal",
-      "title": "Environmental Scientist I",
-      "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
-      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "date_posted": "2026-07-01T18:47:25.002Z",
-      "description": "Bachelor's in biology/ecology/environmental science, 3+ years relevant experience, plant ID, GIS experience, knowledge of MN/ND/SD and federal wetland regulations, valid driver's license, insurable.",
-      "salary": "$71k–$97k/yr",
+      "company": "True-environmental",
+      "title": "Associate Environmental Scientist",
+      "location": "Florham Park, New Jersey, United States",
+      "url": "https://jobs.lever.co/true-environmental/96d4fbd4-2b46-4ade-a626-c1ed7f01b842",
+      "direct_url": "https://jobs.lever.co/true-environmental/96d4fbd4-2b46-4ade-a626-c1ed7f01b842",
+      "date_posted": "2026-07-21T17:18:57.933Z",
+      "description": "BS in environmental field, valid driver's license, ability to perform field sampling and site investigations, strong writing and quantitative skills, respirator use, pass drug testing.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -564,20 +564,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kimley-Horn",
-      "title": "Environmental Scientist",
-      "location": "Reston, Virginia, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-06-30T04:00:00.000Z",
-      "description": "4+ years' relevant experience, bachelor's degree in environmental or related field, ecological field work, wetland/species permitting knowledge, technical writing skills, ArcGIS familiarity, and willingness to travel 15-20%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "New Mexico Environment Department",
       "title": "Senior Environmental Scientist (NMED #22131)",
       "location": "Ruidoso, New Mexico, United States",
@@ -586,6 +572,20 @@
       "date_posted": "2026-07-21T12:00:00.000Z",
       "description": "Bachelor's in physical/natural/environmental science or equivalent experience, 4+ years related experience, valid driver's license and Defensive Driving Course certification, knowledge of environmental health regulations.",
       "salary": "$76k–$114k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Vistal",
+      "title": "Environmental Scientist I",
+      "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
+      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "date_posted": "2026-07-01T18:47:25.002Z",
+      "description": "Bachelor's in biology/ecology/environmental science, 3+ years relevant experience, plant ID, GIS experience, knowledge of MN/ND/SD and federal wetland regulations, valid driver's license, insurable.",
+      "salary": "$71k–$97k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -620,5 +620,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Eisholding",
+      "title": "Staff Environmental Scientist",
+      "location": "West Columbia or Irmo or Orangeburg or Chapin or Newberry or Aiken or Columbia or Camden or Lexington",
+      "url": "https://jobs.dayforcehcm.com/en-US/eisholding/candidateportal/jobs/117",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/eisholding/candidateportal/jobs/117",
+      "date_posted": "2026-07-27T05:00:00.000Z",
+      "description": "Conduct asbestos and lead surveys, collect environmental samples, prepare technical reports; requires bachelor\\u0002s or equivalent, 1+ years environmental consulting experience, required accreditations for SC/NC, valid driver license.",
+      "salary": "$60k–$70k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
