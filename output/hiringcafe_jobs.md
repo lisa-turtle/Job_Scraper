@@ -1,10 +1,10 @@
 # ☕ HiringCafe — Environmental Roles
-*Last updated: 2026-07-28 18:09 UTC*
+*Last updated: 2026-07-28 20:13 UTC*
 
-**1 new role(s)** since last run · 42 total in last 30d
+**1 new role(s)** since last run · 43 total in last 30d
 
-### [Water Quality Environmental Scientist (Junior-Level)](https://job-boards.greenhouse.io/environmentalscienceassociates/jobs/5225852008) — Environmental Science Associates
-- 📍 **Location:** Orlando or Tampa
-- **Work mode:** Telecommute eligible
+### [Environmental Scientist](https://careers-kimley-horn.icims.com/jobs/25548/environmental-scientist/job?hub=7&in_iframe=1) — Overview
+- 📍 **Location:** Alpharetta, Georgia, United States
+- **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-15T19:39:25.000Z
+- 🕒 **Posted:** 2026-07-28T04:00:00.000Z
