@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-28 21:59 UTC",
+  "scraped_at": "2026-07-28 23:55 UTC",
   "total": 43,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Inotivco",
@@ -606,20 +606,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "State of Louisiana",
-      "title": "Environmental Health Scientist 1, 2, Coordinator",
-      "location": "New Orleans, Louisiana, United States",
-      "url": "https://www.governmentjobs.com/careers/louisiana/jobs/5427269",
-      "direct_url": "https://www.governmentjobs.com/careers/louisiana/jobs/5427269",
-      "date_posted": "2026-07-28T18:11:39.000Z",
-      "description": "Bachelor's in public health/biological/physical/earth/environmental sciences or engineering; conduct exposure investigations, data analysis, reporting, public outreach; weekend/holiday screening duties ~twice monthly.",
-      "salary": "$36k–$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
