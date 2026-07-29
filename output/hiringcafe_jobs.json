@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-29 20:09 UTC",
+  "scraped_at": "2026-07-29 21:55 UTC",
   "total": 46,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Inotivco",
@@ -88,20 +88,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Tetra Tech",
-      "title": "Environmental Scientist",
-      "location": "Pearl City, Hawaii, United States",
-      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55576",
-      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55576",
-      "date_posted": "2026-07-09T22:26:54.882Z",
-      "description": "Bachelor's in environmental or physical science, 3+ years environmental consulting in Hawaii, DOH HEER program familiarity, field sampling and site investigation experience, MS Office proficiency, valid driver's license.",
-      "salary": "$65k–$85k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Penncolor",
       "title": "Environmental Scientist",
       "location": "Pittsburgh, Pennsylvania, United States",
@@ -124,6 +110,20 @@
       "date_posted": "2026-07-17T15:31:34.000Z",
       "description": "5+ years supporting environmental remediation, site characterization, waste management or restoration; technical writing; environmental and radiological analyses; DOE clearance eligibility; US citizenship and pre-employment screening required.",
       "salary": "$150k–$190k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Tetra Tech",
+      "title": "Environmental Scientist",
+      "location": "Pearl City, Hawaii, United States",
+      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55576",
+      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55576",
+      "date_posted": "2026-07-09T22:26:54.882Z",
+      "description": "Bachelor's in environmental or physical science, 3+ years environmental consulting in Hawaii, DOH HEER program familiarity, field sampling and site investigation experience, MS Office proficiency, valid driver's license.",
+      "salary": "$65k–$85k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -396,20 +396,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Freeport-McMoRan",
-      "title": "Chief Environmental Scientist",
-      "location": "Morenci, Arizona, United States",
-      "url": "https://talent.fmjobs.com/careers/job/43028326",
-      "direct_url": "https://talent.fmjobs.com/careers/job/43028326",
-      "date_posted": "2026-07-08T18:40:20.000Z",
-      "description": "Bachelor's in a related field with 7+ years (or Master's with 5+ years); expertise in environmental regulations, permits, project management, and team leadership for large mining operations.",
-      "salary": "$112k–$160k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "GFT.",
       "title": "Principal Environmental Scientist",
       "location": "Owings Mills, Maryland, United States",
@@ -421,6 +407,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Freeport-McMoRan",
+      "title": "Chief Environmental Scientist",
+      "location": "Morenci, Arizona, United States",
+      "url": "https://talent.fmjobs.com/careers/job/43028326",
+      "direct_url": "https://talent.fmjobs.com/careers/job/43028326",
+      "date_posted": "2026-07-08T18:40:20.000Z",
+      "description": "Bachelor's in a related field with 7+ years (or Master's with 5+ years); expertise in environmental regulations, permits, project management, and team leadership for large mining operations.",
+      "salary": "$112k–$160k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -438,20 +438,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kentucky Energy and Environment Cabinet",
-      "title": "Environmental Scientist III",
-      "location": "Franklin County or United States",
-      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/80054?c=kypersonnelcabinet",
-      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/80054?c=kypersonnelcabinet",
-      "date_posted": "2026-07-29T00:00:00.000Z",
-      "description": "Bachelor's in natural/biological/physical science or equivalent experience; 3 years experience in natural resources or environmental control; strong communication, organizational, and decision-making skills.",
-      "salary": "$52k–$71k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "SWCA Environmental Consultants",
       "title": "Senior Environmental Scientist",
       "location": "Scarborough, Maine, United States",
@@ -463,6 +449,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kentucky Energy and Environment Cabinet",
+      "title": "Environmental Scientist III",
+      "location": "Franklin County or United States",
+      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/80054?c=kypersonnelcabinet",
+      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/80054?c=kypersonnelcabinet",
+      "date_posted": "2026-07-29T00:00:00.000Z",
+      "description": "Bachelor's in natural/biological/physical science or equivalent experience; 3 years experience in natural resources or environmental control; strong communication, organizational, and decision-making skills.",
+      "salary": "$52k–$71k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -606,20 +606,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Vistal",
-      "title": "Environmental Scientist I",
-      "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
-      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "date_posted": "2026-07-01T18:47:25.002Z",
-      "description": "Bachelor's in biology/ecology/environmental science, 3+ years relevant experience, plant ID, GIS experience, knowledge of MN/ND/SD and federal wetland regulations, valid driver's license, insurable.",
-      "salary": "$71k–$97k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Moore Engineering, Inc.",
       "title": "Environmental Scientist I",
       "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
@@ -627,6 +613,20 @@
       "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
       "date_posted": "2026-07-01T18:47:25.002Z",
       "description": "Bachelor's in biology/ecology/environmental sciences, 3+ years relevant experience, plant ID, GIS proficiency, knowledge of federal and MN/ND/SD wetland regulations, valid driver’s license and insurable.",
+      "salary": "$71k–$97k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Vistal",
+      "title": "Environmental Scientist I",
+      "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
+      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
+      "date_posted": "2026-07-01T18:47:25.002Z",
+      "description": "Bachelor's in biology/ecology/environmental science, 3+ years relevant experience, plant ID, GIS experience, knowledge of MN/ND/SD and federal wetland regulations, valid driver's license, insurable.",
       "salary": "$71k–$97k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -648,20 +648,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Mott MacDonald",
-      "title": "Environmental Scientist",
-      "location": "Los Angeles, California, United States",
-      "url": "https://apply.mottmac.com/job/Los-Angeles-Environmental-Scientist-CA-90001/1368047157/",
-      "direct_url": "https://apply.mottmac.com/job/Los-Angeles-Environmental-Scientist-CA-90001/1368047157/",
-      "date_posted": "2026-07-29T00:00:00.000Z",
-      "description": "Bachelor's in environmental science or related, 3+ years experience with environmental consulting/project management, CEQA/NEPA and permitting knowledge, strong technical writing, field survey and stakeholder skills.",
-      "salary": "$89k–$109k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
