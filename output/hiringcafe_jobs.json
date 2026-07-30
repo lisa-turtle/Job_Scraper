@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-30 20:12 UTC",
-  "total": 46,
-  "new_count": 1,
+  "scraped_at": "2026-07-30 22:07 UTC",
+  "total": 44,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Inotivco",
@@ -522,34 +522,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Nevada (NV)",
-      "title": "ENVIRONMENTAL SCIENTIST 3",
-      "location": "Reno, Nevada, United States",
-      "url": "https://www.governmentjobs.com/careers/nv/jobs/5417952",
-      "direct_url": "https://www.governmentjobs.com/careers/nv/jobs/5417952",
-      "date_posted": "2026-07-21T17:57:37.000Z",
-      "description": "Bachelor’s in physical/natural resource/life sciences or engineering plus 3 years environmental experience (or HS+5 yrs, or Environmental Scientist 2), skills in permitting, monitoring, inspections, modeling, and technical reporting.",
-      "salary": "$67k–$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "CRI Advantage",
-      "title": "Environmental Scientist ",
-      "location": "Idaho Falls, Idaho, United States",
-      "url": "https://criadvantage.isolvedhire.com/jobs/1825665",
-      "direct_url": "https://criadvantage.isolvedhire.com/jobs/1825665",
-      "date_posted": "2026-07-21T00:00:00.000Z",
-      "description": "Bachelor's in environmental science/engineering/geology, 5+ years environmental remediation/site characterization experience, DOE standards knowledge, technical writing, ability to work onsite on a 4x10 schedule.",
-      "salary": "$135k–$270k/yr",
-      "job_type": "Temporary",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Dewberry",
       "title": "Environmental Scientist III",
       "location": "Fairfax or Virginia Beach or Richmond",
@@ -648,20 +620,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "State of Nevada (NV)",
-      "title": "ENVIRONMENTAL SCIENTIST 3",
-      "location": "Las Vegas, Nevada, United States",
-      "url": "https://www.governmentjobs.com/careers/nv/jobs/5422193",
-      "direct_url": "https://www.governmentjobs.com/careers/nv/jobs/5422193",
-      "date_posted": "2026-07-23T21:44:21.000Z",
-      "description": "Conduct environmental inspections, audits, permit review, compliance monitoring, report writing, data analysis, and enforcement related to stormwater and other environmental programs.",
-      "salary": "$67k–$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
