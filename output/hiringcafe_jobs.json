@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-01 20:44 UTC",
+  "scraped_at": "2026-08-01 21:50 UTC",
   "total": 41,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "GHD",
@@ -172,20 +172,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kimley-Horn",
-      "title": "Environmental Scientist",
-      "location": "Deerfield, Illinois, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/24985/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24985/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "date_posted": "2026-07-08T15:43:00.000Z",
-      "description": "5+ years environmental experience, bachelor’s or master’s in related field, wetland/species permitting knowledge, ArcGIS familiarity, technical writing, ecological field work, client coordination, and travel flexibility.",
-      "salary": "$90k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "APTIM",
       "title": "Environmental Scientist",
       "location": "Irvine, California, United States",
@@ -194,6 +180,20 @@
       "date_posted": "2026-07-20T16:25:42.670Z",
       "description": "Bachelor's in environmental science or core science,4+ years related experience,knowledge of RCRA and state hazardous waste regulations,strong communication and organizational skills,ability to travel and perform fieldwork.",
       "salary": "$90k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kimley-Horn",
+      "title": "Environmental Scientist",
+      "location": "Deerfield, Illinois, United States",
+      "url": "https://careers-kimley-horn.icims.com/jobs/24985/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24985/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-07-08T15:43:00.000Z",
+      "description": "5+ years environmental experience, bachelor’s or master’s in related field, wetland/species permitting knowledge, ArcGIS familiarity, technical writing, ecological field work, client coordination, and travel flexibility.",
+      "salary": "$90k–$115k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -284,20 +284,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Freeport McMoRan Inc.",
-      "title": "Chief Environmental Scientist",
-      "location": "Morenci, Arizona, United States",
-      "url": "https://jobs.fcx.com/job/Morenci-Chief-Environmental-Scientist-AZ-85540/1406931400/",
-      "direct_url": "https://jobs.fcx.com/job/Morenci-Chief-Environmental-Scientist-AZ-85540/1406931400/",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "Bachelor's in environmental or related science with 7 years' experience OR Master's with 5 years; strong knowledge of environmental regulations, permitting, air/water quality, and project leadership.",
-      "salary": "$112k–$160k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "QK",
       "title": "Associate Environmental Scientist",
       "location": "Visalia, California, United States",
@@ -306,6 +292,20 @@
       "date_posted": "2026-07-31T14:35:39.257Z",
       "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
       "salary": "$67k–$83k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Freeport McMoRan Inc.",
+      "title": "Chief Environmental Scientist",
+      "location": "Morenci, Arizona, United States",
+      "url": "https://jobs.fcx.com/job/Morenci-Chief-Environmental-Scientist-AZ-85540/1406931400/",
+      "direct_url": "https://jobs.fcx.com/job/Morenci-Chief-Environmental-Scientist-AZ-85540/1406931400/",
+      "date_posted": "2026-07-08T00:00:00.000Z",
+      "description": "Bachelor's in environmental or related science with 7 years' experience OR Master's with 5 years; strong knowledge of environmental regulations, permitting, air/water quality, and project leadership.",
+      "salary": "$112k–$160k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -578,34 +578,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Apex Companies",
-      "title": "Scientist 1 – Water Quality – Northern Wyoming",
-      "location": "Gillette, Wyoming, United States",
-      "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5351083008",
-      "direct_url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5351083008",
-      "date_posted": "2026-07-15T13:17:40.000Z",
-      "description": "BS in environmental science or related field, 0–3 years field sampling/inspection experience, valid driver’s license, ability to lift 70 lbs, Microsoft Office proficiency, pass drug/alcohol screening.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Nevada",
-      "title": "ENVIRONMENTAL SCIENTIST 2",
-      "location": "Reno, Nevada, United States",
-      "url": "https://www.governmentjobs.com/careers/nv/jobs/5425254",
-      "direct_url": "https://www.governmentjobs.com/careers/nv/jobs/5425254",
-      "date_posted": "2026-07-26T17:16:56.000Z",
-      "description": "Bachelor's in physical/natural resource/life sciences or engineering plus 18 months environmental experience OR HS plus 3.5 years experience; valid driver\\u0002s license required; ability to perform permitting, compliance, sampling, inspections, and technical reporting.",
-      "salary": "$64k–$96k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
