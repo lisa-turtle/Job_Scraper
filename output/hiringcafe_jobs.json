@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-01 03:41 UTC",
-  "total": 40,
-  "new_count": 2,
+  "scraped_at": "2026-08-01 06:23 UTC",
+  "total": 41,
+  "new_count": 1,
   "jobs": [
     {
       "company": "GHD",
@@ -144,20 +144,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kimley-Horn",
-      "title": "Environmental Scientist",
-      "location": "Deerfield, Illinois, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/24985/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24985/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "date_posted": "2026-07-08T15:43:00.000Z",
-      "description": "5+ years environmental experience, bachelor’s or master’s in related field, wetland/species permitting knowledge, ArcGIS familiarity, technical writing, ecological field work, client coordination, and travel flexibility.",
-      "salary": "$90k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "GSI Environmental Inc.",
       "title": "Environmental Scientist",
       "location": "Emeryville, California, United States",
@@ -169,6 +155,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "APTIM",
+      "title": "Environmental Scientist",
+      "location": "Irvine, California, United States",
+      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001212533006",
+      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001212533006",
+      "date_posted": "2026-07-20T16:25:42.670Z",
+      "description": "Bachelor's in environmental science or core science,4+ years related experience,knowledge of RCRA and state hazardous waste regulations,strong communication and organizational skills,ability to travel and perform fieldwork.",
+      "salary": "$90k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -508,6 +508,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Kimley-Horn",
+      "title": "Environmental Scientist",
+      "location": "Deerfield, Illinois, United States",
+      "url": "https://careers-kimley-horn.icims.com/jobs/24985/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24985/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-07-08T15:43:00.000Z",
+      "description": "5+ years environmental experience, bachelor’s or master’s in related field, wetland/species permitting knowledge, ArcGIS familiarity, technical writing, ecological field work, client coordination, and travel flexibility.",
+      "salary": "$90k–$115k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Dewberry",
       "title": "Environmental Scientist III",
       "location": "Fairfax or Virginia Beach or Richmond",
@@ -566,31 +580,17 @@
   ],
   "new_jobs": [
     {
-      "company": "Ddcdine",
-      "title": "Environmental Scientist II",
-      "location": "Greenbelt, Maryland, United States",
-      "url": "https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/NASA-Goddard/Environmental-Scientist-II_JR100269",
-      "direct_url": "https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/NASA-Goddard/Environmental-Scientist-II_JR100269",
-      "date_posted": "2026-07-31T00:00:00.000Z",
-      "description": "Bachelor's in relevant environmental discipline, 2+ years environmental compliance experience, 40-hour HAZWOPER, DOT/IATA/RCRA hazardous waste training, able to obtain NASA PIV badge.",
-      "salary": "$65k–$75k/yr",
+      "company": "APTIM",
+      "title": "Environmental Scientist",
+      "location": "Irvine, California, United States",
+      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001212533006",
+      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001212533006",
+      "date_posted": "2026-07-20T16:25:42.670Z",
+      "description": "Bachelor's in environmental science or core science,4+ years related experience,knowledge of RCRA and state hazardous waste regulations,strong communication and organizational skills,ability to travel and perform fieldwork.",
+      "salary": "$90k–$100k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "GFT.",
-      "title": "Principal Environmental Scientist",
-      "location": "Owings Mills, Maryland, United States",
-      "url": "https://careers-gannettfleming.icims.com/jobs/14446/principal-environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://careers-gannettfleming.icims.com/jobs/14446/principal-environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-07-23T04:00:00.000Z",
-      "description": "Bachelor's in environmental field, 15 years experience in energy licensing/transmission siting, CPCN and permit coordination, technical writing, regulatory interface with state agencies.",
-      "salary": "$140k–$170k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ]
