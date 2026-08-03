@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-03 02:44 UTC",
+  "scraped_at": "2026-08-03 06:16 UTC",
   "total": 41,
   "new_count": 0,
   "jobs": [
@@ -200,20 +200,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Timmons Group",
-      "title": "Environmental Scientist",
-      "location": "Raleigh, North Carolina, United States",
-      "url": "https://jobs.smartrecruiters.com/TimmonsGroup1/744000137694639-environmental-scientist",
-      "direct_url": "https://jobs.smartrecruiters.com/TimmonsGroup1/744000137694639-environmental-scientist",
-      "date_posted": "2026-07-14T15:22:59.723Z",
-      "description": "Bachelor's or master's in environmental science or related field (or equivalent experience), minimum 1 year experience with wetland/stream delineations, field and reporting skills, permitting knowledge, ability to travel for field work.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Pondco",
       "title": "Environmental Scientist",
       "location": "Peachtree Corners, Georgia, United States",
@@ -221,6 +207,20 @@
       "direct_url": "https://jobs.dayforcehcm.com/en-US/pondco/candidateportal/jobs/1799",
       "date_posted": "2026-07-22T04:00:00.000Z",
       "description": "Bachelor's in relevant field required (MS preferred),0-2 years environmental field experience, proficiency with MS Office,GIS and CAD,valid driver’s license,teamwork and technical writing skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Timmons Group",
+      "title": "Environmental Scientist",
+      "location": "Raleigh, North Carolina, United States",
+      "url": "https://jobs.smartrecruiters.com/TimmonsGroup1/744000137694639-environmental-scientist",
+      "direct_url": "https://jobs.smartrecruiters.com/TimmonsGroup1/744000137694639-environmental-scientist",
+      "date_posted": "2026-07-14T15:22:59.723Z",
+      "description": "Bachelor's or master's in environmental science or related field (or equivalent experience), minimum 1 year experience with wetland/stream delineations, field and reporting skills, permitting knowledge, ability to travel for field work.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
