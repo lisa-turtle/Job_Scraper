@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-04 18:27 UTC",
+  "scraped_at": "2026-08-04 20:21 UTC",
   "total": 47,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Central Nevada Gold",
@@ -214,20 +214,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Overview",
-      "title": "Environmental Scientist",
-      "location": "Alpharetta, Georgia, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/25548/environmental-scientist/job?hub=7&in_iframe=1",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/25548/environmental-scientist/job?hub=7&in_iframe=1",
-      "date_posted": "2026-07-28T04:00:00.000Z",
-      "description": "4+ years environmental experience, bachelor's degree in related field, wetland/species permitting knowledge, ecological fieldwork, technical writing, ArcGIS interest, strong communication and project management skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "APTIM",
       "title": "Environmental Scientist",
       "location": "Irvine, California, United States",
@@ -236,6 +222,20 @@
       "date_posted": "2026-07-20T16:25:42.670Z",
       "description": "Bachelor's in environmental science or core science,4+ years related experience,knowledge of RCRA and state hazardous waste regulations,strong communication and organizational skills,ability to travel and perform fieldwork.",
       "salary": "$90k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Overview",
+      "title": "Environmental Scientist",
+      "location": "Alpharetta, Georgia, United States",
+      "url": "https://careers-kimley-horn.icims.com/jobs/25548/environmental-scientist/job?hub=7&in_iframe=1",
+      "direct_url": "https://careers-kimley-horn.icims.com/jobs/25548/environmental-scientist/job?hub=7&in_iframe=1",
+      "date_posted": "2026-07-28T04:00:00.000Z",
+      "description": "4+ years environmental experience, bachelor's degree in related field, wetland/species permitting knowledge, ecological fieldwork, technical writing, ArcGIS interest, strong communication and project management skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -662,48 +662,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Central Nevada Gold",
-      "title": "Environmental Scientist",
-      "location": "Elko or Battle Mountain or Carlin",
-      "url": "https://ats.rippling.com/cng/jobs/dbbbec2b-89ea-4b70-90ba-f405673d2602",
-      "direct_url": "https://ats.rippling.com/cng/jobs/dbbbec2b-89ea-4b70-90ba-f405673d2602",
-      "date_posted": "2026-07-31T12:54:53.882Z",
-      "description": "Bachelor's degree in environmental science or related field, 3+ years environmental experience in mining or regulated industries, knowledge of federal and Nevada environmental regulations, permit preparation, monitoring, and reporting.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Jacobs",
-      "title": "Environmental Scientist",
-      "location": "New York City or Morristown or Clark or Philadelphia",
-      "url": "https://careers.jacobs.com/en_US/careers/JobDetail/Environmental-Scientist/43098",
-      "direct_url": "https://careers.jacobs.com/en_US/careers/JobDetail/Environmental-Scientist/43098",
-      "date_posted": "2026-08-03T12:00:00.000Z",
-      "description": "Bachelor's in biology/ecology/environmental science, 7+ years preparing federal/state/local environmental permits, USACE/NJDEP permitting and wetland delineation experience, 40-hr HAZWOPER or ability to attain, US citizenship.",
-      "salary": "$99k–$176k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Kimley-Horn",
-      "title": "Environmental Scientist",
-      "location": "Alpharetta, Georgia, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/25548/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/25548/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "date_posted": "2026-07-28T16:17:00.000Z",
-      "description": "4+ years experience with wetland/species permitting, Bachelors in environmental science or related field, ecological fieldwork, strong technical writing, ArcGIS interest/knowledge, travel flexibility.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
