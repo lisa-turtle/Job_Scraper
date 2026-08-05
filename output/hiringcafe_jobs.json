@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-05 03:56 UTC",
+  "scraped_at": "2026-08-05 06:31 UTC",
   "total": 41,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Central Nevada Gold",
@@ -118,20 +118,6 @@
     {
       "company": "AECOM",
       "title": "Environmental Scientist",
-      "location": "Arlington or Washington",
-      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "date_posted": "2026-07-24T15:54:59.000Z",
-      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
-      "salary": "$60k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AECOM",
-      "title": "Environmental Scientist",
       "location": "Arlington, Virginia, United States",
       "url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
       "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
@@ -155,6 +141,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "AECOM",
+      "title": "Environmental Scientist",
+      "location": "Arlington or Washington",
+      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "date_posted": "2026-07-24T15:54:59.000Z",
+      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
+      "salary": "$60k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -312,20 +312,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Freeport McMoRan Inc.",
-      "title": "Chief Environmental Scientist",
-      "location": "Morenci, Arizona, United States",
-      "url": "https://jobs.fcx.com/job/Morenci-Chief-Environmental-Scientist-AZ-85540/1406931400/",
-      "direct_url": "https://jobs.fcx.com/job/Morenci-Chief-Environmental-Scientist-AZ-85540/1406931400/",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "Bachelor's in environmental or related science with 7 years' experience OR Master's with 5 years; strong knowledge of environmental regulations, permitting, air/water quality, and project leadership.",
-      "salary": "$112k–$160k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "QK",
       "title": "Associate Environmental Scientist",
       "location": "Visalia, California, United States",
@@ -334,6 +320,20 @@
       "date_posted": "2026-07-31T14:35:39.257Z",
       "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
       "salary": "$67k–$83k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Freeport McMoRan Inc.",
+      "title": "Chief Environmental Scientist",
+      "location": "Morenci, Arizona, United States",
+      "url": "https://jobs.fcx.com/job/Morenci-Chief-Environmental-Scientist-AZ-85540/1406931400/",
+      "direct_url": "https://jobs.fcx.com/job/Morenci-Chief-Environmental-Scientist-AZ-85540/1406931400/",
+      "date_posted": "2026-07-08T00:00:00.000Z",
+      "description": "Bachelor's in environmental or related science with 7 years' experience OR Master's with 5 years; strong knowledge of environmental regulations, permitting, air/water quality, and project leadership.",
+      "salary": "$112k–$160k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -578,20 +578,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "CDR Companies",
-      "title": "Environmental Scientist II - Williamsport",
-      "location": "State College, Pennsylvania, United States",
-      "url": "https://jobs.workable.com/view/56QrJw3QtxvpAPwBTDMMiq/environmental-scientist-ii---williamsport-in-state-college-at-cdr-companies",
-      "direct_url": "https://jobs.workable.com/view/56QrJw3QtxvpAPwBTDMMiq/environmental-scientist-ii---williamsport-in-state-college-at-cdr-companies",
-      "date_posted": "2026-08-04T12:57:49.653Z",
-      "description": "5+ years environmental experience, BS in Environmental Science or related, independent wetland/stream delineation, PADEP/USACE permit preparation, sub-meter GPS experience, Microsoft Office proficiency, valid driver's license.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
