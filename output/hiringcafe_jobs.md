@@ -1,11 +1,10 @@
 # ☕ HiringCafe — Environmental Roles
-*Last updated: 2026-08-04 23:58 UTC*
+*Last updated: 2026-08-05 03:56 UTC*
 
-**1 new role(s)** since last run · 47 total in last 30d
+**1 new role(s)** since last run · 41 total in last 30d
 
-### [Environmental Scientist](https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/) — AECOM
-- 📍 **Location:** Arlington or Washington
-- 💰 **Salary:** $60k–$80k/yr
+### [Environmental Scientist II - Williamsport](https://jobs.workable.com/view/56QrJw3QtxvpAPwBTDMMiq/environmental-scientist-ii---williamsport-in-state-college-at-cdr-companies) — CDR Companies
+- 📍 **Location:** State College, Pennsylvania, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-24T15:54:59.000Z
+- 🕒 **Posted:** 2026-08-04T12:57:49.653Z
