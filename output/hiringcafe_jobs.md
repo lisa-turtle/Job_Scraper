@@ -1,6 +1,11 @@
 # ☕ HiringCafe — Environmental Roles
-*Last updated: 2026-08-05 20:22 UTC*
+*Last updated: 2026-08-05 22:08 UTC*
 
-**0 new role(s)** since last run · 40 total in last 30d
+**1 new role(s)** since last run · 41 total in last 30d
 
-No new roles since the last run.
+### [Environmental Scientist](https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/) — AECOM
+- 📍 **Location:** Arlington or Washington
+- 💰 **Salary:** $60k–$80k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-24T15:54:59.000Z
