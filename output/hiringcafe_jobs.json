@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-05 23:56 UTC",
-  "total": 42,
-  "new_count": 1,
+  "scraped_at": "2026-08-06 02:50 UTC",
+  "total": 43,
+  "new_count": 2,
   "jobs": [
     {
       "company": "State of Nevada (NV)",
@@ -180,6 +180,20 @@
       "date_posted": "2026-07-24T15:54:59.000Z",
       "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
       "salary": "$60k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Utahcounty",
+      "title": "Environmental Health Scientist II",
+      "location": "Provo, Utah, United States",
+      "url": "https://utahcounty.wd1.myworkdayjobs.com/utah_county_careers/job/1--Health---Environmental-Health/Environmental-Health-Scientist-II_R0001775",
+      "direct_url": "https://utahcounty.wd1.myworkdayjobs.com/utah_county_careers/job/1--Health---Environmental-Health/Environmental-Health-Scientist-II_R0001775",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "Bachelor's degree with 30 natural science credits, three years as a licensed environmental health scientist, Utah licensure, and applicable environmental health certifications.",
+      "salary": "$75k–$86k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -550,6 +564,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Utah Department of Environmental Quality",
+      "title": "Environmental Scientist I-III",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/2059?c=utdgohcm",
+      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/2059?c=utdgohcm",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "Requires 2+ years of environmental science experience, independent work, analytical skills, stakeholder communication, and problem solving. Bachelor's degree, health physics, HAZWOPER, and radiation safety expertise preferred.",
+      "salary": "$54k–$112k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "New Mexico Environment Department",
       "title": "Senior Environmental Scientist (NMED #22131)",
       "location": "Ruidoso, New Mexico, United States",
@@ -576,35 +604,35 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
-    },
-    {
-      "company": "CDR Companies",
-      "title": "Environmental Scientist II - Williamsport",
-      "location": "State College, Pennsylvania, United States",
-      "url": "https://jobs.workable.com/view/56QrJw3QtxvpAPwBTDMMiq/environmental-scientist-ii---williamsport-in-state-college-at-cdr-companies",
-      "direct_url": "https://jobs.workable.com/view/56QrJw3QtxvpAPwBTDMMiq/environmental-scientist-ii---williamsport-in-state-college-at-cdr-companies",
-      "date_posted": "2026-08-04T12:57:49.653Z",
-      "description": "5+ years environmental experience, BS in Environmental Science or related, independent wetland/stream delineation, PADEP/USACE permit preparation, sub-meter GPS experience, Microsoft Office proficiency, valid driver's license.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "Apex Companies",
-      "title": "Environmental Scientist ",
-      "location": "Rockville or North America",
-      "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
-      "direct_url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
-      "date_posted": "2026-08-05T19:03:36.000Z",
-      "description": "Bachelor's degree in environmental science, geology, or related science; 0–2 years of environmental field experience; technical reporting, Microsoft 365, driver's license, reliable transportation, and field sampling skills.",
-      "salary": "$45k–$55k/yr",
+      "company": "Utahcounty",
+      "title": "Environmental Health Scientist II",
+      "location": "Provo, Utah, United States",
+      "url": "https://utahcounty.wd1.myworkdayjobs.com/utah_county_careers/job/1--Health---Environmental-Health/Environmental-Health-Scientist-II_R0001775",
+      "direct_url": "https://utahcounty.wd1.myworkdayjobs.com/utah_county_careers/job/1--Health---Environmental-Health/Environmental-Health-Scientist-II_R0001775",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "Bachelor's degree with 30 natural science credits, three years as a licensed environmental health scientist, Utah licensure, and applicable environmental health certifications.",
+      "salary": "$75k–$86k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Utah Department of Environmental Quality",
+      "title": "Environmental Scientist I-III",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/2059?c=utdgohcm",
+      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/2059?c=utdgohcm",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "Requires 2+ years of environmental science experience, independent work, analytical skills, stakeholder communication, and problem solving. Bachelor's degree, health physics, HAZWOPER, and radiation safety expertise preferred.",
+      "salary": "$54k–$112k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ]
