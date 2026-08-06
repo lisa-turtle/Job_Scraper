@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-06 02:50 UTC",
-  "total": 43,
-  "new_count": 2,
+  "scraped_at": "2026-08-06 05:43 UTC",
+  "total": 44,
+  "new_count": 1,
   "jobs": [
     {
       "company": "State of Nevada (NV)",
@@ -102,6 +102,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Apex Companies",
+      "title": "Environmental Scientist ",
+      "location": "Rockville or North America",
+      "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
+      "direct_url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
+      "date_posted": "2026-08-05T19:03:36.000Z",
+      "description": "Bachelor's degree in environmental science, geology, or related science; 0–2 years of environmental field experience; technical reporting, Microsoft 365, driver's license, reliable transportation, and field sampling skills.",
+      "salary": "$45k–$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Tetra Tech",
       "title": "Environmental Scientist",
       "location": "Pearl City, Hawaii, United States",
@@ -130,14 +144,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Apex Companies",
-      "title": "Environmental Scientist ",
-      "location": "Rockville or North America",
-      "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
-      "direct_url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
-      "date_posted": "2026-08-05T19:03:36.000Z",
-      "description": "Bachelor's degree in environmental science, geology, or related science; 0–2 years of environmental field experience; technical reporting, Microsoft 365, driver's license, reliable transportation, and field sampling skills.",
-      "salary": "$45k–$55k/yr",
+      "company": "AECOM",
+      "title": "Environmental Scientist",
+      "location": "Arlington or Washington",
+      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "date_posted": "2026-07-24T15:54:59.000Z",
+      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
+      "salary": "$60k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -172,20 +186,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "AECOM",
-      "title": "Environmental Scientist",
-      "location": "Arlington or Washington",
-      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "date_posted": "2026-07-24T15:54:59.000Z",
-      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
-      "salary": "$60k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Utahcounty",
       "title": "Environmental Health Scientist II",
       "location": "Provo, Utah, United States",
@@ -194,6 +194,20 @@
       "date_posted": "2026-08-05T00:00:00.000Z",
       "description": "Bachelor's degree with 30 natural science credits, three years as a licensed environmental health scientist, Utah licensure, and applicable environmental health certifications.",
       "salary": "$75k–$86k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Colliers Engineering & Design",
+      "title": "Environmental Scientist",
+      "location": "Mount Laurel, New Jersey, United States",
+      "url": "https://careers.colliersengineering.com/jobs/13912?lang=en-us",
+      "direct_url": "https://careers.colliersengineering.com/jobs/13912?lang=en-us",
+      "date_posted": "2026-08-05T23:12:09.000Z",
+      "description": "Requires 2+ years of environmental or geologic consulting experience, relevant bachelor's degree, HAZWOPER training, regulatory familiarity, communication skills, and willingness to travel for field work.",
+      "salary": "$65k–$83k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -608,31 +622,17 @@
   ],
   "new_jobs": [
     {
-      "company": "Utahcounty",
-      "title": "Environmental Health Scientist II",
-      "location": "Provo, Utah, United States",
-      "url": "https://utahcounty.wd1.myworkdayjobs.com/utah_county_careers/job/1--Health---Environmental-Health/Environmental-Health-Scientist-II_R0001775",
-      "direct_url": "https://utahcounty.wd1.myworkdayjobs.com/utah_county_careers/job/1--Health---Environmental-Health/Environmental-Health-Scientist-II_R0001775",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "Bachelor's degree with 30 natural science credits, three years as a licensed environmental health scientist, Utah licensure, and applicable environmental health certifications.",
-      "salary": "$75k–$86k/yr",
+      "company": "Colliers Engineering & Design",
+      "title": "Environmental Scientist",
+      "location": "Mount Laurel, New Jersey, United States",
+      "url": "https://careers.colliersengineering.com/jobs/13912?lang=en-us",
+      "direct_url": "https://careers.colliersengineering.com/jobs/13912?lang=en-us",
+      "date_posted": "2026-08-05T23:12:09.000Z",
+      "description": "Requires 2+ years of environmental or geologic consulting experience, relevant bachelor's degree, HAZWOPER training, regulatory familiarity, communication skills, and willingness to travel for field work.",
+      "salary": "$65k–$83k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Utah Department of Environmental Quality",
-      "title": "Environmental Scientist I-III",
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/2059?c=utdgohcm",
-      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/2059?c=utdgohcm",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "Requires 2+ years of environmental science experience, independent work, analytical skills, stakeholder communication, and problem solving. Bachelor's degree, health physics, HAZWOPER, and radiation safety expertise preferred.",
-      "salary": "$54k–$112k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ]
