@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-07 00:38 UTC",
+  "scraped_at": "2026-08-07 03:46 UTC",
   "total": 42,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "State of Nevada (NV)",
@@ -592,20 +592,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "New York State",
-      "title": "Research Scientist 1 (Water Pollution)",
-      "location": "Albany, New York, United States",
-      "url": "https://statejobsny.com/public/vacancyDetailsView.cfm?id=221289",
-      "direct_url": "https://statejobsny.com/public/vacancyDetailsView.cfm?id=221289",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "Bachelor's degree in an environmental or natural resources field and two years of professional research experience. Driver's license required; field sampling, environmental data analysis, and water quality expertise preferred.",
-      "salary": "$67k–$85k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
