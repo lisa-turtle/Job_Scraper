@@ -1,11 +1,11 @@
 # ☕ HiringCafe — Environmental Roles
-*Last updated: 2026-08-06 05:43 UTC*
+*Last updated: 2026-08-07 00:38 UTC*
 
-**1 new role(s)** since last run · 44 total in last 30d
+**1 new role(s)** since last run · 42 total in last 30d
 
-### [Environmental Scientist](https://careers.colliersengineering.com/jobs/13912?lang=en-us) — Colliers Engineering & Design
-- 📍 **Location:** Mount Laurel, New Jersey, United States
-- 💰 **Salary:** $65k–$83k/yr
-- **Work mode:** On-site
+### [Research Scientist 1 (Water Pollution)](https://statejobsny.com/public/vacancyDetailsView.cfm?id=221289) — New York State
+- 📍 **Location:** Albany, New York, United States
+- 💰 **Salary:** $67k–$85k/yr
+- **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-05T23:12:09.000Z
+- 🕒 **Posted:** 2026-08-06T00:00:00.000Z
