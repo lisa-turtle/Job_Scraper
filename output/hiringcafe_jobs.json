@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-07 22:29 UTC",
-  "total": 40,
-  "new_count": 0,
+  "scraped_at": "2026-08-07 23:28 UTC",
+  "total": 41,
+  "new_count": 1,
   "jobs": [
     {
       "company": "State of Nevada (NV)",
@@ -60,28 +60,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State Water Resources Control Board",
+      "company": "United Water Conservation District",
       "title": "Environmental Scientist",
-      "location": "Sacramento County, California, United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525603",
-      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525603",
-      "date_posted": "2026-07-23T12:00:00.000Z",
-      "description": "Prepare and review CEQA/NEPA environmental documents, conduct statewide site inspections, coordinate with federal/state/local agencies, and provide environmental guidance; must reside in California upon appointment.",
-      "salary": "$53k–$112k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Apex Companies",
-      "title": "Environmental Scientist ",
-      "location": "Rockville or North America",
-      "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
-      "direct_url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
-      "date_posted": "2026-08-05T19:03:36.000Z",
-      "description": "Bachelor's degree in environmental science, geology, or related science; 0–2 years of environmental field experience; technical reporting, Microsoft 365, driver's license, reliable transportation, and field sampling skills.",
-      "salary": "$45k–$55k/yr",
+      "location": "Oxnard, California, United States",
+      "url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
+      "direct_url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
+      "date_posted": "2026-08-07T19:57:38.000Z",
+      "description": "Bachelor's degree in an environmental field, 4–6 years of environmental regulatory and permitting experience, project management expertise, CEQA and NEPA experience, and a valid California Class C driver's license.",
+      "salary": "$100k–$121k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -96,6 +82,20 @@
       "date_posted": "2026-07-28T23:21:00.000Z",
       "description": "BSc in environmental science or related, 2+ years environmental field experience preferred, advanced Microsoft Excel and MS Office, ArcGIS Pro a plus, valid driver's license, strong communication skills.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Apex Companies",
+      "title": "Environmental Scientist ",
+      "location": "Rockville or North America",
+      "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
+      "direct_url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
+      "date_posted": "2026-08-05T19:03:36.000Z",
+      "description": "Bachelor's degree in environmental science, geology, or related science; 0–2 years of environmental field experience; technical reporting, Microsoft 365, driver's license, reliable transportation, and field sampling skills.",
+      "salary": "$45k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -222,6 +222,20 @@
       "date_posted": "2026-07-29T15:03:46.142Z",
       "description": "Bachelor's in environmental or related field, six years environmental analysis or management experience, Maryland driver's license, knowledge of environmental compliance programs and EMS.",
       "salary": "$77k–$121k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Department of Transportation",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "location": "Los Angeles County, California, United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526522",
+      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526522",
+      "date_posted": "2026-07-28T12:00:00.000Z",
+      "description": "Prepare and review complex environmental documents, analyze project impacts under CEQA/NEPA, provide consultation, perform field visits, and manage project cost/schedule within transportation projects.",
+      "salary": "$53k–$112k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
@@ -564,5 +578,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "United Water Conservation District",
+      "title": "Environmental Scientist",
+      "location": "Oxnard, California, United States",
+      "url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
+      "direct_url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
+      "date_posted": "2026-08-07T19:57:38.000Z",
+      "description": "Bachelor's degree in an environmental field, 4–6 years of environmental regulatory and permitting experience, project management expertise, CEQA and NEPA experience, and a valid California Class C driver's license.",
+      "salary": "$100k–$121k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
