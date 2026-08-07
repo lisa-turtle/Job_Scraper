@@ -1,5 +1,5 @@
 # 🎓 CSU Careers — California State University Environmental Roles
-*Last updated: 2026-08-05 18:06 UTC*
+*Last updated: 2026-08-07 17:26 UTC*
 
 **0 new role(s)** since last run · 0 total in current CSU Careers postings
 
