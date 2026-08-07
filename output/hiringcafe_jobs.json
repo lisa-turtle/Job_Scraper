@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-07 19:49 UTC",
+  "scraped_at": "2026-08-07 20:35 UTC",
   "total": 40,
   "new_count": 0,
   "jobs": [
@@ -74,20 +74,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Hudbay",
-      "title": "Environmental Scientist",
-      "location": "Helvetia or Sahuarita",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=75035fc6-bd6d-4aae-bbc2-5ec6ab98eb64&ccId=19000101_000001&jobId=578087&lang=en_US",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=75035fc6-bd6d-4aae-bbc2-5ec6ab98eb64&ccId=19000101_000001&jobId=578087&lang=en_US",
-      "date_posted": "2026-07-28T23:21:00.000Z",
-      "description": "BSc in environmental science or related, 2+ years environmental field experience preferred, advanced Microsoft Excel and MS Office, ArcGIS Pro a plus, valid driver's license, strong communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Apex Companies",
       "title": "Environmental Scientist ",
       "location": "Rockville or North America",
@@ -96,6 +82,20 @@
       "date_posted": "2026-08-05T19:03:36.000Z",
       "description": "Bachelor's degree in environmental science, geology, or related science; 0–2 years of environmental field experience; technical reporting, Microsoft 365, driver's license, reliable transportation, and field sampling skills.",
       "salary": "$45k–$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Hudbay",
+      "title": "Environmental Scientist",
+      "location": "Helvetia or Sahuarita",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=75035fc6-bd6d-4aae-bbc2-5ec6ab98eb64&ccId=19000101_000001&jobId=578087&lang=en_US",
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=75035fc6-bd6d-4aae-bbc2-5ec6ab98eb64&ccId=19000101_000001&jobId=578087&lang=en_US",
+      "date_posted": "2026-07-28T23:21:00.000Z",
+      "description": "BSc in environmental science or related, 2+ years environmental field experience preferred, advanced Microsoft Excel and MS Office, ArcGIS Pro a plus, valid driver's license, strong communication skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
