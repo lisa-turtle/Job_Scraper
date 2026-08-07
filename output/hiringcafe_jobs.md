@@ -1,6 +1,6 @@
 # ☕ HiringCafe — Environmental Roles
-*Last updated: 2026-08-07 17:43 UTC*
+*Last updated: 2026-08-07 18:47 UTC*
 
-**0 new role(s)** since last run · 42 total in last 30d
+**0 new role(s)** since last run · 40 total in last 30d
 
 No new roles since the last run.
