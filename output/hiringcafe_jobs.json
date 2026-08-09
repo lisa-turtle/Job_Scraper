@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-09 19:28 UTC",
+  "scraped_at": "2026-08-09 20:25 UTC",
   "total": 40,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "State of Nevada (NV)",
@@ -564,34 +564,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Environmental Research Group",
-      "title": "Environmental Scientist",
-      "location": "Boise or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838763",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838763",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, and ability to obtain clearances and a passport.",
-      "salary": "$80k–$90k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "CDR Companies",
-      "title": "Environmental Scientist II - Williamsport",
-      "location": "State College, Pennsylvania, United States",
-      "url": "https://jobs.workable.com/view/56QrJw3QtxvpAPwBTDMMiq/environmental-scientist-ii---williamsport-in-state-college-at-cdr-companies",
-      "direct_url": "https://jobs.workable.com/view/56QrJw3QtxvpAPwBTDMMiq/environmental-scientist-ii---williamsport-in-state-college-at-cdr-companies",
-      "date_posted": "2026-08-04T12:57:49.653Z",
-      "description": "5+ years environmental experience, BS in Environmental Science or related, independent wetland/stream delineation, PADEP/USACE permit preparation, sub-meter GPS experience, Microsoft Office proficiency, valid driver's license.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
