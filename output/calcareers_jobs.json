@@ -1,32 +1,8 @@
 {
-  "scraped_at": "2026-08-10 17:02 UTC",
+  "scraped_at": "2026-08-11 17:07 UTC",
   "total": 12,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "Department of Pesticide Regulation",
-      "title": "Environmental Scientist",
-      "location": "Orange County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525317",
-      "date_posted": "2026-07-20",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of Food & Agriculture",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526281",
-      "date_posted": "2026-07-27",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
     {
       "company": "Department of Transportation",
       "title": "ENVIRONMENTAL SCIENTIST",
@@ -76,6 +52,18 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
+      "company": "Department of Pesticide Regulation",
+      "title": "Environmental Scientist",
+      "location": "Orange County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525317",
+      "date_posted": "2026-07-20",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
       "company": "Department of Resources Recycling & Recovery",
       "title": "Environmental Scientist",
       "location": "Sacramento County",
@@ -122,6 +110,18 @@
       "telework": "In Office",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "On-site"
+    },
+    {
+      "company": "State Water Resources Control Board",
+      "title": "Environmental Scientist",
+      "location": "Shasta County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527839",
+      "date_posted": "2026-08-10",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
     },
     {
       "company": "Department of Forestry & Fire Protection",
