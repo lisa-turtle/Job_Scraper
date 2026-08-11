@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-10 23:29 UTC",
-  "total": 42,
-  "new_count": 0,
+  "scraped_at": "2026-08-11 01:16 UTC",
+  "total": 41,
+  "new_count": 1,
   "jobs": [
     {
       "company": "State of Nevada (NV)",
@@ -32,6 +32,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Energy Northwest",
+      "title": "Environmental Scientist",
+      "location": "Richland, Washington, United States",
+      "url": "https://energynorthwest.wd1.myworkdayjobs.com/external/job/Richland-WA/Environmental-Scientist_REQ26_255",
+      "direct_url": "https://energynorthwest.wd1.myworkdayjobs.com/external/job/Richland-WA/Environmental-Scientist_REQ26_255",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental science, engineering, chemistry, biological science, or related technical field and eight years of environmental experience; regulatory, permitting, audit, and environmental program expertise required.",
+      "salary": "$126k–$190k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Environmental Research Group",
       "title": "Environmental Scientist",
       "location": "Boise or United States",
@@ -43,6 +57,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State Water Resources Control Board",
+      "title": "Environmental Scientist",
+      "location": "Shasta County or Redding or Sacramento",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527839",
+      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527839",
+      "date_posted": "2026-08-10T12:00:00.000Z",
+      "description": "Environmental science role requiring water quality and environmental regulation knowledge, scientific reporting, field investigations, strong communication, organization, teamwork, and computer application experience.",
+      "salary": "$53k–$112k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -236,20 +264,6 @@
       "date_posted": "2026-07-29T15:03:46.142Z",
       "description": "Bachelor's in environmental or related field, six years environmental analysis or management experience, Maryland driver's license, knowledge of environmental compliance programs and EMS.",
       "salary": "$77k–$121k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Department of Transportation",
-      "title": "ENVIRONMENTAL SCIENTIST",
-      "location": "Los Angeles County, California, United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526522",
-      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526522",
-      "date_posted": "2026-07-28T12:00:00.000Z",
-      "description": "Prepare and review complex environmental documents, analyze project impacts under CEQA/NEPA, provide consultation, perform field visits, and manage project cost/schedule within transportation projects.",
-      "salary": "$53k–$112k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
@@ -494,20 +508,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Environmental Science Associates",
-      "title": "Water Quality Environmental Scientist (Junior-Level)",
-      "location": "Orlando or Tampa",
-      "url": "https://job-boards.greenhouse.io/environmentalscienceassociates/jobs/5225852008",
-      "direct_url": "https://job-boards.greenhouse.io/environmentalscienceassociates/jobs/5225852008",
-      "date_posted": "2026-07-15T19:39:25.000Z",
-      "description": "Bachelor's degree in ecology/environmental science/hydrology,2+ years professional experience,water quality and watershed data analysis,QA/QC,statistical programming (R or SAS),GIS skills,and valid driver's license.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "CK Associates",
       "title": "Environmental Scientist/Water Quality Specialist",
       "location": "Baton Rouge, Louisiana, United States",
@@ -550,20 +550,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Environmental Research Group",
-      "title": "Environmental Scientist",
-      "location": "Denver or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
-      "salary": "$80k–$90k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Utah Department of Environmental Quality",
       "title": "Environmental Scientist I-III",
       "location": "Salt Lake City, Utah, United States",
@@ -592,5 +578,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Energy Northwest",
+      "title": "Environmental Scientist",
+      "location": "Richland, Washington, United States",
+      "url": "https://energynorthwest.wd1.myworkdayjobs.com/external/job/Richland-WA/Environmental-Scientist_REQ26_255",
+      "direct_url": "https://energynorthwest.wd1.myworkdayjobs.com/external/job/Richland-WA/Environmental-Scientist_REQ26_255",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental science, engineering, chemistry, biological science, or related technical field and eight years of environmental experience; regulatory, permitting, audit, and environmental program expertise required.",
+      "salary": "$126k–$190k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
