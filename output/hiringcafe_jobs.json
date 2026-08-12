@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-11 23:34 UTC",
-  "total": 42,
-  "new_count": 0,
+  "scraped_at": "2026-08-12 01:24 UTC",
+  "total": 45,
+  "new_count": 3,
   "jobs": [
     {
       "company": "State of Nevada (NV)",
@@ -550,6 +550,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Environmental Research Group",
+      "title": "Environmental Scientist",
+      "location": "Denver or United States",
+      "url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
+      "salary": "$80k–$90k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Utah Department of Environmental Quality",
       "title": "Environmental Scientist I-III",
       "location": "Salt Lake City, Utah, United States",
@@ -578,6 +592,34 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Ayres Associates",
+      "title": "Environmental Scientist",
+      "location": "Green Bay, Wisconsin, United States",
+      "url": "https://recruiting2.ultipro.com/ayr1000ayres/JobBoard/65753e62-eccf-4a31-8153-b4952c2a4d4c/OpportunityDetail?opportunityId=beee9916-4fbe-4723-826a-73262ef4547b",
+      "direct_url": "https://recruiting2.ultipro.com/ayr1000ayres/JobBoard/65753e62-eccf-4a31-8153-b4952c2a4d4c/OpportunityDetail?opportunityId=beee9916-4fbe-4723-826a-73262ef4547b",
+      "date_posted": "2026-08-11T20:41:07.441Z",
+      "description": "Bachelor's degree in geology or environmental earth science; 0–5 years relevant experience; Microsoft Office Suite proficiency; driver's license; environmental investigation, sampling, reporting, and regulatory knowledge.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Johnson, Mirmiran & Thompson, Inc.",
+      "title": "Environmental Scientist",
+      "location": "Newark, Delaware, United States",
+      "url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15397?embedded=true",
+      "direct_url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15397?embedded=true",
+      "date_posted": "2026-08-11T22:48:49.165Z",
+      "description": "Bachelor's degree in a relevant natural or environmental science field; 0–5 years of experience; Microsoft Office, AutoCAD or MicroStation, and GIS proficiency; successful motor vehicle screening.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Chesapeake Bay Foundation Inc",
       "title": "Watershed Policy Specialist",
       "location": "Annapolis, Maryland, United States",
@@ -592,5 +634,48 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Environmental Research Group",
+      "title": "Environmental Scientist",
+      "location": "Denver or United States",
+      "url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
+      "salary": "$80k–$90k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ayres Associates",
+      "title": "Environmental Scientist",
+      "location": "Green Bay, Wisconsin, United States",
+      "url": "https://recruiting2.ultipro.com/ayr1000ayres/JobBoard/65753e62-eccf-4a31-8153-b4952c2a4d4c/OpportunityDetail?opportunityId=beee9916-4fbe-4723-826a-73262ef4547b",
+      "direct_url": "https://recruiting2.ultipro.com/ayr1000ayres/JobBoard/65753e62-eccf-4a31-8153-b4952c2a4d4c/OpportunityDetail?opportunityId=beee9916-4fbe-4723-826a-73262ef4547b",
+      "date_posted": "2026-08-11T20:41:07.441Z",
+      "description": "Bachelor's degree in geology or environmental earth science; 0–5 years relevant experience; Microsoft Office Suite proficiency; driver's license; environmental investigation, sampling, reporting, and regulatory knowledge.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Johnson, Mirmiran & Thompson, Inc.",
+      "title": "Environmental Scientist",
+      "location": "Newark, Delaware, United States",
+      "url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15397?embedded=true",
+      "direct_url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15397?embedded=true",
+      "date_posted": "2026-08-11T22:48:49.165Z",
+      "description": "Bachelor's degree in a relevant natural or environmental science field; 0–5 years of experience; Microsoft Office, AutoCAD or MicroStation, and GIS proficiency; successful motor vehicle screening.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
