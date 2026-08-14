@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-14 20:25 UTC",
-  "total": 47,
-  "new_count": 0,
+  "scraped_at": "2026-08-14 21:20 UTC",
+  "total": 48,
+  "new_count": 1,
   "jobs": [
     {
       "company": "State Water Resources Control Board",
@@ -648,6 +648,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Kimley-Horn",
+      "title": "Environmental Scientist",
+      "location": "Jupiter, Florida, United States",
+      "url": "https://careers-kimley-horn.icims.com/jobs/25827/environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://careers-kimley-horn.icims.com/jobs/25827/environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-08-14T04:00:00.000Z",
+      "description": "6+ years of environmental experience, wetland and species permitting knowledge, ecological fieldwork, technical report writing, and a degree in environmental science or a related field. ArcGIS knowledge is desired.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Chesapeake Bay Foundation Inc",
       "title": "Watershed Policy Specialist",
       "location": "Annapolis, Maryland, United States",
@@ -662,5 +676,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Kimley-Horn",
+      "title": "Environmental Scientist",
+      "location": "Jupiter, Florida, United States",
+      "url": "https://careers-kimley-horn.icims.com/jobs/25827/environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://careers-kimley-horn.icims.com/jobs/25827/environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-08-14T04:00:00.000Z",
+      "description": "6+ years of environmental experience, wetland and species permitting knowledge, ecological fieldwork, technical report writing, and a degree in environmental science or a related field. ArcGIS knowledge is desired.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
