@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-15 02:14 UTC",
+  "scraped_at": "2026-08-15 03:33 UTC",
   "total": 48,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "State Water Resources Control Board",
@@ -368,20 +368,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Calista Brice",
-      "title": "Environmental Scientist II",
-      "location": "Anchorage or Grand Junction or Fairbanks or Salt Lake City",
-      "url": "https://calistacorp.wd1.myworkdayjobs.com/calistabrice/job/Anchorage-AK/Environmental-Scientist-II_JR109609",
-      "direct_url": "https://calistacorp.wd1.myworkdayjobs.com/calistabrice/job/Anchorage-AK/Environmental-Scientist-II_JR109609",
-      "date_posted": "2026-08-13T00:00:00.000Z",
-      "description": "Bachelor’s degree in physical or environmental science, 5–10 years of environmental project experience, regulatory knowledge, driver’s license, and ability to pass drug and background screening.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Langan Engineering & Environmental Services",
       "title": "Staff Environmental Scientist",
       "location": "Parsippany, New Jersey, United States",
@@ -390,6 +376,20 @@
       "date_posted": "2026-08-14T18:58:27.000Z",
       "description": "Bachelor's degree in environmental engineering, environmental science, or geology; 1+ year of related experience; GPA of 3.0 minimum; driver's license and reliable transportation; overtime availability.",
       "salary": "$68k–$93k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Calista Brice",
+      "title": "Environmental Scientist II",
+      "location": "Anchorage or Grand Junction or Fairbanks or Salt Lake City",
+      "url": "https://calistacorp.wd1.myworkdayjobs.com/calistabrice/job/Anchorage-AK/Environmental-Scientist-II_JR109609",
+      "direct_url": "https://calistacorp.wd1.myworkdayjobs.com/calistabrice/job/Anchorage-AK/Environmental-Scientist-II_JR109609",
+      "date_posted": "2026-08-13T00:00:00.000Z",
+      "description": "Bachelor’s degree in physical or environmental science, 5–10 years of environmental project experience, regulatory knowledge, driver’s license, and ability to pass drug and background screening.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -550,20 +550,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Environmental Research Group",
-      "title": "Environmental Scientist",
-      "location": "Denver or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
-      "salary": "$80k–$90k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Utah Department of Environmental Quality",
       "title": "Environmental Scientist I-III",
       "location": "Salt Lake City, Utah, United States",
@@ -674,7 +660,36 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
+    },
+    {
+      "company": "Chesapeake Bay Foundation Inc",
+      "title": "Watershed Policy Specialist",
+      "location": "Annapolis, Maryland, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408633",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408633",
+      "date_posted": "2026-08-11T13:02:58.000Z",
+      "description": "Bachelor’s degree and 1–2 years’ experience in land use, planning, sustainable development, stormwater, environmental science, policy, or law; strong writing, public speaking, collaboration, time management, and computer skills.",
+      "salary": "$60k–$64k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Chesapeake Bay Foundation Inc",
+      "title": "Watershed Policy Specialist",
+      "location": "Annapolis, Maryland, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408633",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408633",
+      "date_posted": "2026-08-11T13:02:58.000Z",
+      "description": "Bachelor’s degree and 1–2 years’ experience in land use, planning, sustainable development, stormwater, environmental science, policy, or law; strong writing, public speaking, collaboration, time management, and computer skills.",
+      "salary": "$60k–$64k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
