@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-16 19:17 UTC",
-  "total": 49,
-  "new_count": 0,
+  "scraped_at": "2026-08-16 20:15 UTC",
+  "total": 50,
+  "new_count": 1,
   "jobs": [
     {
       "company": "State Water Resources Control Board",
@@ -466,6 +466,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Integral Consulting Inc.",
+      "title": "Mid-to Senior-level Scientist, Ecological Risk Assessment and Ecotoxicology",
+      "location": "United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4339453",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4339453",
+      "date_posted": "2026-07-21T18:25:00.000Z",
+      "description": "M.S. or Ph.D. in environmental sciences or related field, 5+ years ecological risk assessment/ecotoxicology experience, strong technical writing, quantitative/statistical skills, ProUCL or R proficiency, project management experience.",
+      "salary": "$65k–$115k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "City of Loveland",
       "title": "Water Quality Scientist I - Wastewater (Temp)",
       "location": "Loveland, Colorado, United States",
@@ -578,20 +592,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Salt River Project",
-      "title": "Senior Environmental Scientist",
-      "location": "Casa Grande, Arizona, United States",
-      "url": "https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/",
-      "direct_url": "https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "Bachelor's degree in a relevant field, 5+ years for the senior level, valid Arizona driver's license, environmental compliance expertise, reporting, audits, permitting, and regulatory agency coordination.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Atlas Technical Consultants",
       "title": "Environmental Scientist 1",
       "location": "Bellingham, Washington, United States",
@@ -600,6 +600,20 @@
       "date_posted": "2026-08-10T03:00:00.000Z",
       "description": "Bachelor’s degree in a related environmental field, 0–5 years of experience, fieldwork ability, technical reporting skills, driver’s license, and proficiency with MS Excel, Bluebeam, and GIS.",
       "salary": "$62k–$75k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Salt River Project",
+      "title": "Senior Environmental Scientist",
+      "location": "Casa Grande, Arizona, United States",
+      "url": "https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/",
+      "direct_url": "https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/",
+      "date_posted": "2026-08-06T00:00:00.000Z",
+      "description": "Bachelor's degree in a relevant field, 5+ years for the senior level, valid Arizona driver's license, environmental compliance expertise, reporting, audits, permitting, and regulatory agency coordination.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -690,5 +704,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Integral Consulting Inc.",
+      "title": "Mid-to Senior-level Scientist, Ecological Risk Assessment and Ecotoxicology",
+      "location": "United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4339453",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4339453",
+      "date_posted": "2026-07-21T18:25:00.000Z",
+      "description": "M.S. or Ph.D. in environmental sciences or related field, 5+ years ecological risk assessment/ecotoxicology experience, strong technical writing, quantitative/statistical skills, ProUCL or R proficiency, project management experience.",
+      "salary": "$65k–$115k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    }
+  ]
 }
