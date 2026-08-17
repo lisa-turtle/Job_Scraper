@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-17 20:19 UTC",
+  "scraped_at": "2026-08-17 21:20 UTC",
   "total": 50,
   "new_count": 0,
   "jobs": [
@@ -354,20 +354,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "QK",
-      "title": "Associate Environmental Scientist",
-      "location": "Visalia, California, United States",
-      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "date_posted": "2026-07-31T14:35:39.257Z",
-      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
-      "salary": "$67k–$83k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Langan Engineering & Environmental Services",
       "title": "Staff Environmental Scientist",
       "location": "Parsippany, New Jersey, United States",
@@ -376,6 +362,20 @@
       "date_posted": "2026-08-14T18:58:27.000Z",
       "description": "Bachelor's degree in environmental engineering, environmental science, or geology; 1+ year of related experience; GPA of 3.0 minimum; driver's license and reliable transportation; overtime availability.",
       "salary": "$68k–$93k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "QK",
+      "title": "Associate Environmental Scientist",
+      "location": "Visalia, California, United States",
+      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "date_posted": "2026-07-31T14:35:39.257Z",
+      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
+      "salary": "$67k–$83k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -396,20 +396,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "South Dakota State Government",
-      "title": "Environmental Scientist 1",
-      "location": "Pierre, South Dakota, United States",
-      "url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-1/view/259533",
-      "direct_url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-1/view/259533",
-      "date_posted": "2026-08-15T16:21:14.000Z",
-      "description": "Bachelor's degree in geology or a related environmental or physical science field; valid driver's license; scientific analysis, GIS, Microsoft Office, communication, and environmental law skills required.",
-      "salary": "$56k–$63k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "HDR",
       "title": "Environmental Scientist 2",
       "location": "Bellevue, Washington, United States",
@@ -418,6 +404,20 @@
       "date_posted": "2026-07-20T21:00:46.869Z",
       "description": "Bachelor's in Environmental Science, 5+ years technical/field experience preparing environmental documents, strong writing, communication, MS Office proficiency, and ability to work independently and on teams.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "South Dakota State Government",
+      "title": "Environmental Scientist 1",
+      "location": "Pierre, South Dakota, United States",
+      "url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-1/view/259533",
+      "direct_url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-1/view/259533",
+      "date_posted": "2026-08-15T16:21:14.000Z",
+      "description": "Bachelor's degree in geology or a related environmental or physical science field; valid driver's license; scientific analysis, GIS, Microsoft Office, communication, and environmental law skills required.",
+      "salary": "$56k–$63k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
