@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-17 02:21 UTC",
+  "scraped_at": "2026-08-17 03:44 UTC",
   "total": 49,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "State Water Resources Control Board",
@@ -466,20 +466,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Integral Consulting Inc.",
-      "title": "Mid-to Senior-level Scientist, Ecological Risk Assessment and Ecotoxicology",
-      "location": "United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4339453",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4339453",
-      "date_posted": "2026-07-21T18:25:00.000Z",
-      "description": "M.S. or Ph.D. in environmental sciences or related field, 5+ years ecological risk assessment/ecotoxicology experience, strong technical writing, quantitative/statistical skills, ProUCL or R proficiency, project management experience.",
-      "salary": "$65k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "City of Loveland",
       "title": "Water Quality Scientist I - Wastewater (Temp)",
       "location": "Loveland, Colorado, United States",
@@ -558,6 +544,20 @@
       "date_posted": "2026-08-13T14:02:39.000Z",
       "description": "Bachelor's degree in environmental health or a related science, eligibility for Utah environmental health scientist-in-training licensure, and a valid Utah driver's license. No experience required.",
       "salary": "$54k–$72k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Environmental Research Group",
+      "title": "Environmental Scientist",
+      "location": "Denver or United States",
+      "url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
+      "salary": "$80k–$90k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -690,5 +690,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Environmental Research Group",
+      "title": "Environmental Scientist",
+      "location": "Denver or United States",
+      "url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
+      "salary": "$80k–$90k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
