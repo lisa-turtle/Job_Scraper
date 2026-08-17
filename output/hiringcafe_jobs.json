@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-17 22:18 UTC",
+  "scraped_at": "2026-08-17 23:18 UTC",
   "total": 51,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "State Water Resources Control Board",
@@ -592,20 +592,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Salt River Project",
-      "title": "Senior Environmental Scientist",
-      "location": "Casa Grande, Arizona, United States",
-      "url": "https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/",
-      "direct_url": "https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "Bachelor's degree in a relevant field, 5+ years for the senior level, valid Arizona driver's license, environmental compliance expertise, reporting, audits, permitting, and regulatory agency coordination.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Atlas Technical Consultants",
       "title": "Environmental Scientist 1",
       "location": "Bellingham, Washington, United States",
@@ -614,6 +600,20 @@
       "date_posted": "2026-08-10T03:00:00.000Z",
       "description": "Bachelor’s degree in a related environmental field, 0–5 years of experience, fieldwork ability, technical reporting skills, driver’s license, and proficiency with MS Excel, Bluebeam, and GIS.",
       "salary": "$62k–$75k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Salt River Project",
+      "title": "Senior Environmental Scientist",
+      "location": "Casa Grande, Arizona, United States",
+      "url": "https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/",
+      "direct_url": "https://careers.srpnet.com/job/Casa-Grande-Senior-Environmental-Scientist-AZ/1416886000/",
+      "date_posted": "2026-08-06T00:00:00.000Z",
+      "description": "Bachelor's degree in a relevant field, 5+ years for the senior level, valid Arizona driver's license, environmental compliance expertise, reporting, audits, permitting, and regulatory agency coordination.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -718,20 +718,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Kentucky Energy & Environment Cabinet",
-      "title": "Environmental Scientist II",
-      "location": "Frankfort, Kentucky, United States",
-      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/80554?c=kypersonnelcabinet",
-      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/80554?c=kypersonnelcabinet",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree in natural, biological, or physical science and one year of related experience. Requires environmental permitting, water assessment, GIS, regulatory, communication, and project management skills.",
-      "salary": "$47k–$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
