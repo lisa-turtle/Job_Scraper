@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-18 19:23 UTC",
+  "scraped_at": "2026-08-18 20:17 UTC",
   "total": 51,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "State Water Resources Control Board",
@@ -284,20 +284,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "GSI Environmental Inc.",
-      "title": "Environmental Scientist",
-      "location": "Emeryville, California, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=222811&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=222811&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Bachelor's in civil/environmental engineering or related, 2 years related experience, skills in geohazard simulation, H&H and groundwater modeling, statistical and ML analysis, numerical modeling, and report preparation.",
-      "salary": "$97k–$110k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Barton & Loguidice, D.P.C.",
       "title": "Environmental Scientist",
       "location": "Albany, New York, United States",
@@ -309,6 +295,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "GSI Environmental Inc.",
+      "title": "Environmental Scientist",
+      "location": "Emeryville, California, United States",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=222811&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=222811&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "date_posted": "2026-07-20T00:00:00.000Z",
+      "description": "Bachelor's in civil/environmental engineering or related, 2 years related experience, skills in geohazard simulation, H&H and groundwater modeling, statistical and ML analysis, numerical modeling, and report preparation.",
+      "salary": "$97k–$110k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -396,20 +396,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "HDR",
-      "title": "Environmental Scientist 2",
-      "location": "Bellevue, Washington, United States",
-      "url": "https://hdr.referrals.selectminds.com/jobs/environmental-scientist-2-44574",
-      "direct_url": "https://hdr.referrals.selectminds.com/jobs/environmental-scientist-2-44574",
-      "date_posted": "2026-07-20T21:00:46.869Z",
-      "description": "Bachelor's in Environmental Science, 5+ years technical/field experience preparing environmental documents, strong writing, communication, MS Office proficiency, and ability to work independently and on teams.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "South Dakota State Government",
       "title": "Environmental Scientist 1",
       "location": "Pierre, South Dakota, United States",
@@ -418,6 +404,20 @@
       "date_posted": "2026-08-15T16:21:14.000Z",
       "description": "Bachelor's degree in geology or a related environmental or physical science field; valid driver's license; scientific analysis, GIS, Microsoft Office, communication, and environmental law skills required.",
       "salary": "$56k–$63k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "HDR",
+      "title": "Environmental Scientist 2",
+      "location": "Bellevue, Washington, United States",
+      "url": "https://hdr.referrals.selectminds.com/jobs/environmental-scientist-2-44574",
+      "direct_url": "https://hdr.referrals.selectminds.com/jobs/environmental-scientist-2-44574",
+      "date_posted": "2026-07-20T21:00:46.869Z",
+      "description": "Bachelor's in Environmental Science, 5+ years technical/field experience preparing environmental documents, strong writing, communication, MS Office proficiency, and ability to work independently and on teams.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -592,6 +592,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Atlas Technical Consultants",
+      "title": "Environmental Scientist 1",
+      "location": "Bellingham, Washington, United States",
+      "url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430649",
+      "direct_url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430649",
+      "date_posted": "2026-08-10T03:00:00.000Z",
+      "description": "Bachelor’s degree in a related environmental field, 0–5 years of experience, fieldwork ability, technical reporting skills, driver’s license, and proficiency with MS Excel, Bluebeam, and GIS.",
+      "salary": "$62k–$75k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Kentucky Energy & Environment Cabinet",
       "title": "Environmental Scientist II",
       "location": "Frankfort, Kentucky, United States",
@@ -614,20 +628,6 @@
       "date_posted": "2026-08-06T00:00:00.000Z",
       "description": "Bachelor's degree in a relevant field, 5+ years for the senior level, valid Arizona driver's license, environmental compliance expertise, reporting, audits, permitting, and regulatory agency coordination.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Atlas Technical Consultants",
-      "title": "Environmental Scientist 1",
-      "location": "Bellingham, Washington, United States",
-      "url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430649",
-      "direct_url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430649",
-      "date_posted": "2026-08-10T03:00:00.000Z",
-      "description": "Bachelor’s degree in a related environmental field, 0–5 years of experience, fieldwork ability, technical reporting skills, driver’s license, and proficiency with MS Excel, Bluebeam, and GIS.",
-      "salary": "$62k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -676,20 +676,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Rhode Island",
-      "title": "ENVIRONMENTAL SCIENTIST IV",
-      "location": "Providence, Rhode Island, United States",
-      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-IV_JR103657",
-      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-IV_JR103657",
-      "date_posted": "2026-08-15T00:00:00.000Z",
-      "description": "Bachelor’s degree plus 7 years of environmental science or engineering experience, including 2 years supervising staff; or master’s degree plus 5 years, including 2 years supervising staff.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Ddcdine",
       "title": "Environmental Scientist IV",
       "location": "Greenbelt, Maryland, United States",
@@ -698,6 +684,20 @@
       "date_posted": "2026-07-31T00:00:00.000Z",
       "description": "8–12 years environmental compliance experience, bachelor's degree required (master's preferred), 40-hour HAZWOPER required, CHMM/REM/PE preferred, able to obtain NASA PIV badge.",
       "salary": "$90k–$105k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Rhode Island",
+      "title": "ENVIRONMENTAL SCIENTIST IV",
+      "location": "Providence, Rhode Island, United States",
+      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-IV_JR103657",
+      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-IV_JR103657",
+      "date_posted": "2026-08-15T00:00:00.000Z",
+      "description": "Bachelor’s degree plus 7 years of environmental science or engineering experience, including 2 years supervising staff; or master’s degree plus 5 years, including 2 years supervising staff.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -718,20 +718,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Barton & Loguidice, D.P.C.",
-      "title": "Environmental Scientist",
-      "location": "Albany, New York, United States",
-      "url": "https://secure7.saashr.com/ta/6206147.careers?ShowJob=621251691",
-      "direct_url": "https://secure7.saashr.com/ta/6206147.careers?ShowJob=621251691",
-      "date_posted": "2026-08-18T16:58:51.409Z",
-      "description": "Bachelor’s degree in an environmental or related discipline, valid driver’s license, strong computer, writing, communication, and problem-solving skills, and ability to perform outdoor fieldwork and lift up to 50 pounds.",
-      "salary": "$54k–$62k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
