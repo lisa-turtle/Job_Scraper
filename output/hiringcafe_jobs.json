@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-18 21:18 UTC",
+  "scraped_at": "2026-08-18 22:17 UTC",
   "total": 53,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Barr",
@@ -382,20 +382,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "QK",
-      "title": "Associate Environmental Scientist",
-      "location": "Visalia, California, United States",
-      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "date_posted": "2026-07-31T14:35:39.257Z",
-      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
-      "salary": "$67k–$83k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Langan Engineering & Environmental Services",
       "title": "Staff Environmental Scientist",
       "location": "Parsippany, New Jersey, United States",
@@ -404,6 +390,20 @@
       "date_posted": "2026-08-14T18:58:27.000Z",
       "description": "Bachelor's degree in environmental engineering, environmental science, or geology; 1+ year of related experience; GPA of 3.0 minimum; driver's license and reliable transportation; overtime availability.",
       "salary": "$68k–$93k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "QK",
+      "title": "Associate Environmental Scientist",
+      "location": "Visalia, California, United States",
+      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "date_posted": "2026-07-31T14:35:39.257Z",
+      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
+      "salary": "$67k–$83k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -620,20 +620,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Atlas Technical Consultants",
-      "title": "Environmental Scientist 1",
-      "location": "Bellingham, Washington, United States",
-      "url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430649",
-      "direct_url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430649",
-      "date_posted": "2026-08-10T03:00:00.000Z",
-      "description": "Bachelor’s degree in a related environmental field, 0–5 years of experience, fieldwork ability, technical reporting skills, driver’s license, and proficiency with MS Excel, Bluebeam, and GIS.",
-      "salary": "$62k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Kentucky Energy & Environment Cabinet",
       "title": "Environmental Scientist II",
       "location": "Frankfort, Kentucky, United States",
@@ -656,6 +642,20 @@
       "date_posted": "2026-08-06T00:00:00.000Z",
       "description": "Bachelor's degree in a relevant field, 5+ years for the senior level, valid Arizona driver's license, environmental compliance expertise, reporting, audits, permitting, and regulatory agency coordination.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Atlas Technical Consultants",
+      "title": "Environmental Scientist 1",
+      "location": "Bellingham, Washington, United States",
+      "url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430649",
+      "direct_url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430649",
+      "date_posted": "2026-08-10T03:00:00.000Z",
+      "description": "Bachelor’s degree in a related environmental field, 0–5 years of experience, fieldwork ability, technical reporting skills, driver’s license, and proficiency with MS Excel, Bluebeam, and GIS.",
+      "salary": "$62k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -704,20 +704,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ddcdine",
-      "title": "Environmental Scientist IV",
-      "location": "Greenbelt, Maryland, United States",
-      "url": "https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/NASA-Goddard/Environmental-Scientist-IV_JR100270",
-      "direct_url": "https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/NASA-Goddard/Environmental-Scientist-IV_JR100270",
-      "date_posted": "2026-07-31T00:00:00.000Z",
-      "description": "8–12 years environmental compliance experience, bachelor's degree required (master's preferred), 40-hour HAZWOPER required, CHMM/REM/PE preferred, able to obtain NASA PIV badge.",
-      "salary": "$90k–$105k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "State of Rhode Island",
       "title": "ENVIRONMENTAL SCIENTIST IV",
       "location": "Providence, Rhode Island, United States",
@@ -726,6 +712,20 @@
       "date_posted": "2026-08-15T00:00:00.000Z",
       "description": "Bachelor’s degree plus 7 years of environmental science or engineering experience, including 2 years supervising staff; or master’s degree plus 5 years, including 2 years supervising staff.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ddcdine",
+      "title": "Environmental Scientist IV",
+      "location": "Greenbelt, Maryland, United States",
+      "url": "https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/NASA-Goddard/Environmental-Scientist-IV_JR100270",
+      "direct_url": "https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/NASA-Goddard/Environmental-Scientist-IV_JR100270",
+      "date_posted": "2026-07-31T00:00:00.000Z",
+      "description": "8–12 years environmental compliance experience, bachelor's degree required (master's preferred), 40-hour HAZWOPER required, CHMM/REM/PE preferred, able to obtain NASA PIV badge.",
+      "salary": "$90k–$105k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -746,34 +746,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Barr",
-      "title": "Environmental Toxicologist – Senior Level (Hybrid)",
-      "location": "Seattle or Denver",
-      "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Seattle-WA/Senior-Environmental-Toxicologist_R-102262",
-      "direct_url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Seattle-WA/Senior-Environmental-Toxicologist_R-102262",
-      "date_posted": "2026-08-18T00:00:00.000Z",
-      "description": "Master’s degree in a related environmental field, 8+ years of relevant experience, advanced toxicology knowledge, Microsoft Office Suite proficiency, valid driver’s license, and unrestricted US work authorization.",
-      "salary": "$95k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Bayer",
-      "title": "Principle Scientist - Regulatory Toxicology",
-      "location": "Chesterfield, Missouri, United States",
-      "url": "https://talent.bayer.com/careers/job/562949978354135",
-      "direct_url": "https://talent.bayer.com/careers/job/562949978354135",
-      "date_posted": "2026-08-18T16:28:47.000Z",
-      "description": "MS in toxicology, environmental health, exposure science, pharmacology, chemistry, biomedical science, or related field; agrochemical regulatory toxicology experience, strong data science, communication, organization, and strategic leadership skills.",
-      "salary": "$115k–$170k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
