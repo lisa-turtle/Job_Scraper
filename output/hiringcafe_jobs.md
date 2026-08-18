@@ -1,11 +1,11 @@
 # ☕ HiringCafe — Environmental Roles
-*Last updated: 2026-08-18 17:21 UTC*
+*Last updated: 2026-08-18 18:29 UTC*
 
 **1 new role(s)** since last run · 50 total in last 30d
 
-### [Environmental Scientist I](https://careers.trccompanies.com/jobs/26597?lang=en-us) — TRC Companies, Inc.
-- 📍 **Location:** Chicago, Illinois, United States
-- 💰 **Salary:** $52k–$75k/yr
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
+- 📍 **Location:** Boise or United States
+- 💰 **Salary:** $80k–$90k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-17T15:04:32.000Z
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
