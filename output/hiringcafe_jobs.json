@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19 17:22 UTC",
+  "scraped_at": "2026-08-19 18:26 UTC",
   "total": 53,
-  "new_count": 3,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Barr",
@@ -174,20 +174,6 @@
     {
       "company": "AECOM",
       "title": "Environmental Scientist",
-      "location": "Arlington or Washington",
-      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "date_posted": "2026-07-24T15:54:59.000Z",
-      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
-      "salary": "$60k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AECOM",
-      "title": "Environmental Scientist",
       "location": "Arlington, Virginia, United States",
       "url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
       "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
@@ -211,6 +197,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "AECOM",
+      "title": "Environmental Scientist",
+      "location": "Arlington or Washington",
+      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "date_posted": "2026-07-24T15:54:59.000Z",
+      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
+      "salary": "$60k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -295,6 +295,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Austin",
+      "title": "Environmental Scientist",
+      "location": "Austin or United States",
+      "url": "https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/5202/Environmental-Scientist_JR104845",
+      "direct_url": "https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/5202/Environmental-Scientist_JR104845",
+      "date_posted": "2026-08-19T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental, life, natural science, or related field plus 4 years of relevant experience. Requires valid Texas Class C driver's license and pre-employment background investigation.",
+      "salary": "$62k–$78k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -592,20 +606,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Environmental Research Group",
-      "title": "Environmental Scientist",
-      "location": "Denver or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
-      "salary": "$80k–$90k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Tetra Tech",
       "title": "Environmental Scientist",
       "location": "Germantown or Frederick County or Carroll County or Baltimore County or United States",
@@ -748,45 +748,17 @@
   ],
   "new_jobs": [
     {
-      "company": "State of Rhode Island",
-      "title": "ENVIRONMENTAL SCIENTIST I",
-      "location": "Providence, Rhode Island, United States",
-      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/235-Promenade-St/ENVIRONMENTAL-SCIENTIST-I_JR103613",
-      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/235-Promenade-St/ENVIRONMENTAL-SCIENTIST-I_JR103613",
+      "company": "City of Austin",
+      "title": "Environmental Scientist",
+      "location": "Austin or United States",
+      "url": "https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/5202/Environmental-Scientist_JR104845",
+      "direct_url": "https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/5202/Environmental-Scientist_JR104845",
       "date_posted": "2026-08-19T00:00:00.000Z",
-      "description": "Bachelor’s degree in an environmental, physical, or biological science, engineering, meteorology, environmental economics, or related field; current motor vehicle license required; environmental fieldwork and regulatory knowledge required.",
-      "salary": "$73k–$82k/yr",
+      "description": "Bachelor's degree in environmental, life, natural science, or related field plus 4 years of relevant experience. Requires valid Texas Class C driver's license and pre-employment background investigation.",
+      "salary": "$62k–$78k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Greenman-Pedersen, Inc.",
-      "title": "Senior Environmental Scientist",
-      "location": "Albany, New York, United States",
-      "url": "https://secure4.saashr.com/ta/6162827.careers?ShowJob=1023711832",
-      "direct_url": "https://secure4.saashr.com/ta/6162827.careers?ShowJob=1023711832",
-      "date_posted": "2026-08-19T15:33:46.114Z",
-      "description": "Bachelor's degree in biology, environmental science, or related natural resource field; 8+ years of environmental consulting or agency experience; driver's license; environmental regulations, permitting, fieldwork, and technical writing expertise.",
-      "salary": "$75k–$95k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Pacific Commercial Services",
-      "title": "Environmental Scientist I",
-      "location": "Kapolei, Hawaii, United States",
-      "url": "https://pcshi.bamboohr.com/careers/27",
-      "direct_url": "https://pcshi.bamboohr.com/careers/27",
-      "date_posted": "2026-08-19T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental science or a related field, 2+ years of experience, change management exposure, strong communication, writing, analytical, teamwork, and leadership skills.",
-      "salary": "$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ]
