@@ -1,25 +1,25 @@
 # ☕ HiringCafe — Environmental Roles
-*Last updated: 2026-08-19 04:31 UTC*
+*Last updated: 2026-08-19 17:22 UTC*
 
 **3 new role(s)** since last run · 53 total in last 30d
 
-### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
-- 📍 **Location:** Boise or United States
-- 💰 **Salary:** $80k–$90k/yr
+### [ENVIRONMENTAL SCIENTIST I](https://ri.wd5.myworkdayjobs.com/ri/job/235-Promenade-St/ENVIRONMENTAL-SCIENTIST-I_JR103613) — State of Rhode Island
+- 📍 **Location:** Providence, Rhode Island, United States
+- 💰 **Salary:** $73k–$82k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
+- 🕒 **Posted:** 2026-08-19T00:00:00.000Z
 
-### [Environmental Scientist IV](https://ddcdine.wd501.myworkdayjobs.com/ddc_careers/job/NASA-Goddard/Environmental-Scientist-IV_JR100270) — Ddcdine
-- 📍 **Location:** Greenbelt, Maryland, United States
-- 💰 **Salary:** $90k–$105k/yr
+### [Senior Environmental Scientist](https://secure4.saashr.com/ta/6162827.careers?ShowJob=1023711832) — Greenman-Pedersen, Inc.
+- 📍 **Location:** Albany, New York, United States
+- 💰 **Salary:** $75k–$95k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-31T00:00:00.000Z
+- 🕒 **Posted:** 2026-08-19T15:33:46.114Z
 
-### [Watershed Policy Specialist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408633) — Chesapeake Bay Foundation Inc
-- 📍 **Location:** Annapolis, Maryland, United States
-- 💰 **Salary:** $60k–$64k/yr
+### [Environmental Scientist I](https://pcshi.bamboohr.com/careers/27) — Pacific Commercial Services
+- 📍 **Location:** Kapolei, Hawaii, United States
+- 💰 **Salary:** $65k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-11T13:02:58.000Z
+- 🕒 **Posted:** 2026-08-19T00:00:00.000Z
