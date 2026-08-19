@@ -1,11 +1,10 @@
 # ☕ HiringCafe — Environmental Roles
-*Last updated: 2026-08-18 23:16 UTC*
+*Last updated: 2026-08-19 00:55 UTC*
 
-**1 new role(s)** since last run · 54 total in last 30d
+**1 new role(s)** since last run · 52 total in last 30d
 
-### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838758) — Environmental Research Group
-- 📍 **Location:** Denver or United States
-- 💰 **Salary:** $80k–$90k/yr
+### [Environmental Scientist II](https://hdr.referrals.selectminds.com/jobs/environmental-scientist-ii-45209) — HDR
+- 📍 **Location:** Fort Worth, Texas, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
+- 🕒 **Posted:** 2026-08-18T17:01:17.704Z
