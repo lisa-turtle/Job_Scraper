@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-20 22:21 UTC",
-  "total": 50,
-  "new_count": 0,
+  "scraped_at": "2026-08-20 23:20 UTC",
+  "total": 51,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Synensys LLC",
@@ -46,20 +46,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Energy Northwest",
-      "title": "Environmental Scientist",
-      "location": "Richland, Washington, United States",
-      "url": "https://energynorthwest.wd1.myworkdayjobs.com/external/job/Richland-WA/Environmental-Scientist_REQ26_255",
-      "direct_url": "https://energynorthwest.wd1.myworkdayjobs.com/external/job/Richland-WA/Environmental-Scientist_REQ26_255",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental science, engineering, chemistry, biological science, or related technical field and eight years of environmental experience; regulatory, permitting, audit, and environmental program expertise required.",
-      "salary": "$126k–$190k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Central Nevada Gold",
       "title": "Environmental Scientist",
       "location": "Elko or Battle Mountain or Carlin",
@@ -74,13 +60,27 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Energy Northwest",
+      "title": "Environmental Scientist",
+      "location": "Richland, Washington, United States",
+      "url": "https://energynorthwest.wd1.myworkdayjobs.com/external/job/Richland-WA/Environmental-Scientist_REQ26_255",
+      "direct_url": "https://energynorthwest.wd1.myworkdayjobs.com/external/job/Richland-WA/Environmental-Scientist_REQ26_255",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental science, engineering, chemistry, biological science, or related technical field and eight years of environmental experience; regulatory, permitting, audit, and environmental program expertise required.",
+      "salary": "$126k–$190k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Environmental Research Group",
       "title": "Environmental Scientist",
-      "location": "Boise or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838763",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838763",
+      "location": "Denver or United States",
+      "url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
       "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, and ability to obtain clearances and a passport.",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
       "salary": "$80k–$90k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -174,20 +174,6 @@
     {
       "company": "AECOM",
       "title": "Environmental Scientist",
-      "location": "Arlington or Washington",
-      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "date_posted": "2026-07-24T15:54:59.000Z",
-      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
-      "salary": "$60k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AECOM",
-      "title": "Environmental Scientist",
       "location": "Arlington, Virginia, United States",
       "url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
       "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
@@ -211,6 +197,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "AECOM",
+      "title": "Environmental Scientist",
+      "location": "Arlington or Washington",
+      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "date_posted": "2026-07-24T15:54:59.000Z",
+      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
+      "salary": "$60k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -277,6 +277,20 @@
       "direct_url": "https://careers-kimley-horn.icims.com/jobs/25548/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
       "date_posted": "2026-07-28T16:17:00.000Z",
       "description": "4+ years experience with wetland/species permitting, Bachelors in environmental science or related field, ecological fieldwork, strong technical writing, ArcGIS interest/knowledge, travel flexibility.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Dewberry",
+      "title": "Environmental Scientist",
+      "location": "Daphne or United States",
+      "url": "https://careers-dewberry.icims.com/jobs/16184/environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://careers-dewberry.icims.com/jobs/16184/environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-08-20T04:00:00.000Z",
+      "description": "Bachelor's degree in an environmental field and 5–10 years of relevant experience required. Requires permitting and assessment expertise, fieldwork, communication skills, Microsoft Office, and local travel.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -550,6 +564,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Environmental Research Group",
+      "title": "Environmental Scientist",
+      "location": "Boise or United States",
+      "url": "https://envrg.isolvedhire.com/jobs/1838763",
+      "direct_url": "https://envrg.isolvedhire.com/jobs/1838763",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, and ability to obtain clearances and a passport.",
+      "salary": "$80k–$90k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Tetra Tech",
       "title": "Environmental Scientist",
       "location": "Germantown or Frederick County or Carroll County or Baltimore County or United States",
@@ -634,20 +662,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Johnson, Mirmiran & Thompson, Inc.",
-      "title": "Senior Environmental Scientist",
-      "location": "Jacksonville or South Carolina or Georgia or Alabama or Florida or North America",
-      "url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15400?embedded=true",
-      "direct_url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15400?embedded=true",
-      "date_posted": "2026-08-12T19:19:39.203Z",
-      "description": "Requires environmental consulting experience, natural resource investigations, permitting, regulatory coordination, technical reporting, field data collection, Microsoft 365, and ArcGIS proficiency; Florida experience preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Wsc",
       "title": "Environmental Scientist I",
       "location": "Des Moines, Iowa, United States",
@@ -655,6 +669,20 @@
       "direct_url": "https://wsc.wd1.myworkdayjobs.com/eoc/job/Des-Moines-Iowa/Environmental-Scientist-I_JR124470",
       "date_posted": "2026-08-13T00:00:00.000Z",
       "description": "Bachelor’s degree in environmental science, engineering, or related field or equivalent experience; 0–2 years relevant experience; fieldwork, data collection, reporting, communication, and organizational skills required.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Johnson, Mirmiran & Thompson, Inc.",
+      "title": "Senior Environmental Scientist",
+      "location": "Jacksonville or South Carolina or Georgia or Alabama or Florida or North America",
+      "url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15400?embedded=true",
+      "direct_url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15400?embedded=true",
+      "date_posted": "2026-08-12T19:19:39.203Z",
+      "description": "Requires environmental consulting experience, natural resource investigations, permitting, regulatory coordination, technical reporting, field data collection, Microsoft 365, and ArcGIS proficiency; Florida experience preferred.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -676,20 +704,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Environmental Research Group",
-      "title": "Environmental Scientist",
-      "location": "Denver or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
-      "salary": "$80k–$90k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Chesapeake Bay Foundation Inc",
       "title": "Watershed Policy Specialist",
       "location": "Annapolis, Maryland, United States",
@@ -704,5 +718,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Dewberry",
+      "title": "Environmental Scientist",
+      "location": "Daphne or United States",
+      "url": "https://careers-dewberry.icims.com/jobs/16184/environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://careers-dewberry.icims.com/jobs/16184/environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-08-20T04:00:00.000Z",
+      "description": "Bachelor's degree in an environmental field and 5–10 years of relevant experience required. Requires permitting and assessment expertise, fieldwork, communication skills, Microsoft Office, and local travel.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
