@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-19 23:18 UTC",
-  "total": 52,
+  "scraped_at": "2026-08-20 00:55 UTC",
+  "total": 51,
   "new_count": 0,
   "jobs": [
     {
@@ -326,20 +326,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Rhode Island",
-      "title": "ENVIRONMENTAL SCIENTIST I",
-      "location": "Providence, Rhode Island, United States",
-      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/235-Promenade-St/ENVIRONMENTAL-SCIENTIST-I_JR103613",
-      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/235-Promenade-St/ENVIRONMENTAL-SCIENTIST-I_JR103613",
-      "date_posted": "2026-08-19T00:00:00.000Z",
-      "description": "Bachelor’s degree in an environmental, physical, or biological science, engineering, meteorology, environmental economics, or related field; current motor vehicle license required; environmental fieldwork and regulatory knowledge required.",
-      "salary": "$73k–$82k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Muckleshoot Indian Tribe",
       "title": "Environmental Scientist",
       "location": "Auburn, Washington, United States",
@@ -354,6 +340,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "State of Rhode Island",
+      "title": "ENVIRONMENTAL SCIENTIST I",
+      "location": "Providence, Rhode Island, United States",
+      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/235-Promenade-St/ENVIRONMENTAL-SCIENTIST-I_JR103613",
+      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/235-Promenade-St/ENVIRONMENTAL-SCIENTIST-I_JR103613",
+      "date_posted": "2026-08-19T00:00:00.000Z",
+      "description": "Bachelor’s degree in an environmental, physical, or biological science, engineering, meteorology, environmental economics, or related field; current motor vehicle license required; environmental fieldwork and regulatory knowledge required.",
+      "salary": "$73k–$82k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Greenman-Pedersen, Inc.",
       "title": "Senior Environmental Scientist",
       "location": "Albany, New York, United States",
@@ -362,20 +362,6 @@
       "date_posted": "2026-08-19T15:33:46.114Z",
       "description": "Bachelor's degree in biology, environmental science, or related natural resource field; 8+ years of environmental consulting or agency experience; driver's license; environmental regulations, permitting, fieldwork, and technical writing expertise.",
       "salary": "$75k–$95k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Allen Engineering and Science, Inc.",
-      "title": "Environmental Scientist",
-      "location": "Hattiesburg, Mississippi, United States",
-      "url": "https://allenes.bamboohr.com/careers/44",
-      "direct_url": "https://allenes.bamboohr.com/careers/44",
-      "date_posted": "2026-07-21T00:00:00.000Z",
-      "description": "B.S. in a related field, 2–5 years environmental consulting/regulatory experience preferred, valid driver\\u0002s license, strong technical writing, field sampling and permitting experience, ability to lift 50 lb and work outdoors.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
