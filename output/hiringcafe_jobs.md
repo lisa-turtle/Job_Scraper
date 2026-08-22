@@ -1,10 +1,17 @@
 # ☕ HiringCafe — Environmental Roles
-*Last updated: 2026-08-21 23:18 UTC*
+*Last updated: 2026-08-22 00:55 UTC*
 
-**1 new role(s)** since last run · 52 total in last 30d
+**2 new role(s)** since last run · 53 total in last 30d
 
-### [Environmental Scientist/Ecologist](https://hntb.jobs/nashville-tn/environmental-scientistecologist/C75813D8E93A4500A10EEA4E2FF9530A/job/) — HNTB
-- 📍 **Location:** Nashville, Tennessee, United States
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
+- 📍 **Location:** Boise or United States
+- 💰 **Salary:** $80k–$90k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-21T14:48:47.000Z
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
+
+### [Environmental Scientist I](https://wsc.wd1.myworkdayjobs.com/eoc/job/Des-Moines-Iowa/Environmental-Scientist-I_JR124470) — Wsc
+- 📍 **Location:** Des Moines, Iowa, United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-13T00:00:00.000Z
