@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-22 02:16 UTC",
+  "scraped_at": "2026-08-22 03:37 UTC",
   "total": 52,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Synensys LLC",
@@ -102,20 +102,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "APTIM",
-      "title": "Environmental Scientist",
-      "location": "Irvine, California, United States",
-      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001220107206",
-      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001220107206",
-      "date_posted": "2026-08-21T16:46:28.016Z",
-      "description": "Bachelor's degree in environmental science, core science, engineering, or related field; 3–4 years of experience; RCRA and environmental compliance knowledge; strong communication, organization, and computer skills.",
-      "salary": "$73k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Mott MacDonald",
       "title": "Environmental Scientist",
       "location": "Los Angeles, California, United States",
@@ -130,14 +116,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "United Water Conservation District",
+      "company": "APTIM",
       "title": "Environmental Scientist",
-      "location": "Oxnard, California, United States",
-      "url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
-      "direct_url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
-      "date_posted": "2026-08-07T19:57:38.000Z",
-      "description": "Bachelor's degree in an environmental field, 4–6 years of environmental regulatory and permitting experience, project management expertise, CEQA and NEPA experience, and a valid California Class C driver's license.",
-      "salary": "$100k–$121k/yr",
+      "location": "Winter Garden, Florida, United States",
+      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001218229506",
+      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001218229506",
+      "date_posted": "2026-08-12T20:05:32.050Z",
+      "description": "Bachelor's degree in environmental science, science, engineering, or related field; 2–4 years of related experience; environmental compliance knowledge; strong communication, organization, and Microsoft application skills.",
+      "salary": "$68k–$73k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -152,6 +138,20 @@
       "date_posted": "2026-08-11T20:41:07.441Z",
       "description": "Bachelor's degree in geology or environmental earth science; 0–5 years relevant experience; Microsoft Office Suite proficiency; driver's license; environmental investigation, sampling, reporting, and regulatory knowledge.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "United Water Conservation District",
+      "title": "Environmental Scientist",
+      "location": "Oxnard, California, United States",
+      "url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
+      "direct_url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
+      "date_posted": "2026-08-07T19:57:38.000Z",
+      "description": "Bachelor's degree in an environmental field, 4–6 years of environmental regulatory and permitting experience, project management expertise, CEQA and NEPA experience, and a valid California Class C driver's license.",
+      "salary": "$100k–$121k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -732,34 +732,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Salt Lake County",
-      "title": "Water Quality Environmental Health Supervisor - Health Department",
-      "location": "Murray, Utah, United States",
-      "url": "https://careers-slco.icims.com/jobs/41346/water-quality-environmental-health-supervisor---health-department/job?in_iframe=1",
-      "direct_url": "https://careers-slco.icims.com/jobs/41346/water-quality-environmental-health-supervisor---health-department/job?in_iframe=1",
-      "date_posted": "2026-08-21T04:00:00.000Z",
-      "description": "Bachelor’s degree in Environmental Health or related field, Utah Environmental Health Scientist licensure or eligibility, 3 years of public or environmental health experience, and a valid driver’s license required.",
-      "salary": "$79k–$118k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Salt Lake County",
-      "title": "Water Quality Environmental Health Supervisor - Health Department",
-      "location": "Murray, Utah, United States",
-      "url": "https://careersspanish-slco.icims.com/jobs/41346/water-quality-environmental-health-supervisor---health-department/job?in_iframe=1",
-      "direct_url": "https://careersspanish-slco.icims.com/jobs/41346/water-quality-environmental-health-supervisor---health-department/job?in_iframe=1",
-      "date_posted": "2026-08-21T04:00:00.000Z",
-      "description": "Bachelor’s degree in environmental health or related field, Utah environmental health scientist licensure or eligibility, 3 years of public or environmental health experience, and a valid driver’s license required.",
-      "salary": "$79k–$118k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
