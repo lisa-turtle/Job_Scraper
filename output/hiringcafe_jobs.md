@@ -1,10 +1,17 @@
 # ☕ HiringCafe — Environmental Roles
-*Last updated: 2026-08-23 21:15 UTC*
+*Last updated: 2026-08-23 22:16 UTC*
 
-**1 new role(s)** since last run · 48 total in last 30d
+**2 new role(s)** since last run · 49 total in last 30d
 
-### [Senior Environmental Scientist](https://jobs.silkroad.com/JMT/JMTCareers/jobs/15400?embedded=true) — Johnson, Mirmiran & Thompson, Inc.
-- 📍 **Location:** Jacksonville or South Carolina or Georgia or Alabama or Florida or North America
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
+- 📍 **Location:** Boise or United States
+- 💰 **Salary:** $80k–$90k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-12T19:19:39.203Z
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
+
+### [Environmental Scientist I](https://wsc.wd1.myworkdayjobs.com/eoc/job/Des-Moines-Iowa/Environmental-Scientist-I_JR124470) — Wsc
+- 📍 **Location:** Des Moines, Iowa, United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-13T00:00:00.000Z
