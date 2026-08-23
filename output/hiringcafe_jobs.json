@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-23 19:18 UTC",
+  "scraped_at": "2026-08-23 20:16 UTC",
   "total": 49,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Synensys LLC",
@@ -690,20 +690,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "HNTB",
-      "title": "Environmental Scientist/Ecologist",
-      "location": "Nashville, Tennessee, United States",
-      "url": "https://hntb.jobs/nashville-tn/environmental-scientistecologist/C75813D8E93A4500A10EEA4E2FF9530A/job/",
-      "direct_url": "https://hntb.jobs/nashville-tn/environmental-scientistecologist/C75813D8E93A4500A10EEA4E2FF9530A/job/",
-      "date_posted": "2026-08-21T14:48:47.000Z",
-      "description": "Bachelor's degree in a related science plus 4 years' relevant experience, or master's degree plus 3 years. Environmental investigations, regulations, permitting, reporting, and GIS experience preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
