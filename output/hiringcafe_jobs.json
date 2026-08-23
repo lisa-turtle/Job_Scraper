@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-23 20:16 UTC",
-  "total": 49,
-  "new_count": 0,
+  "scraped_at": "2026-08-23 21:15 UTC",
+  "total": 48,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Synensys LLC",
@@ -32,20 +32,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Central Nevada Gold",
-      "title": "Environmental Scientist",
-      "location": "Elko or Battle Mountain or Carlin",
-      "url": "https://ats.rippling.com/cng/jobs/dbbbec2b-89ea-4b70-90ba-f405673d2602",
-      "direct_url": "https://ats.rippling.com/cng/jobs/dbbbec2b-89ea-4b70-90ba-f405673d2602",
-      "date_posted": "2026-07-31T12:54:53.882Z",
-      "description": "Bachelor's degree in environmental science or related field, 3+ years environmental experience in mining or regulated industries, knowledge of federal and Nevada environmental regulations, permit preparation, monitoring, and reporting.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Energy Northwest",
       "title": "Environmental Scientist",
       "location": "Richland, Washington, United States",
@@ -60,13 +46,27 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Central Nevada Gold",
+      "title": "Environmental Scientist",
+      "location": "Elko or Battle Mountain or Carlin",
+      "url": "https://ats.rippling.com/cng/jobs/dbbbec2b-89ea-4b70-90ba-f405673d2602",
+      "direct_url": "https://ats.rippling.com/cng/jobs/dbbbec2b-89ea-4b70-90ba-f405673d2602",
+      "date_posted": "2026-07-31T12:54:53.882Z",
+      "description": "Bachelor's degree in environmental science or related field, 3+ years environmental experience in mining or regulated industries, knowledge of federal and Nevada environmental regulations, permit preparation, monitoring, and reporting.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Environmental Research Group",
       "title": "Environmental Scientist",
-      "location": "Boise or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838763",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838763",
+      "location": "Denver or United States",
+      "url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
       "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, and ability to obtain clearances and a passport.",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
       "salary": "$80k–$90k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -116,20 +116,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "United Water Conservation District",
-      "title": "Environmental Scientist",
-      "location": "Oxnard, California, United States",
-      "url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
-      "direct_url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
-      "date_posted": "2026-08-07T19:57:38.000Z",
-      "description": "Bachelor's degree in an environmental field, 4–6 years of environmental regulatory and permitting experience, project management expertise, CEQA and NEPA experience, and a valid California Class C driver's license.",
-      "salary": "$100k–$121k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Ayres Associates",
       "title": "Environmental Scientist",
       "location": "Green Bay, Wisconsin, United States",
@@ -138,6 +124,20 @@
       "date_posted": "2026-08-11T20:41:07.441Z",
       "description": "Bachelor's degree in geology or environmental earth science; 0–5 years relevant experience; Microsoft Office Suite proficiency; driver's license; environmental investigation, sampling, reporting, and regulatory knowledge.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "United Water Conservation District",
+      "title": "Environmental Scientist",
+      "location": "Oxnard, California, United States",
+      "url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
+      "direct_url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
+      "date_posted": "2026-08-07T19:57:38.000Z",
+      "description": "Bachelor's degree in an environmental field, 4–6 years of environmental regulatory and permitting experience, project management expertise, CEQA and NEPA experience, and a valid California Class C driver's license.",
+      "salary": "$100k–$121k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -200,20 +200,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Timmons Group",
-      "title": "Environmental Scientist",
-      "location": "Raleigh, North Carolina, United States",
-      "url": "https://jobs.smartrecruiters.com/TimmonsGroup1/744000143144344-environmental-scientist",
-      "direct_url": "https://jobs.smartrecruiters.com/TimmonsGroup1/744000143144344-environmental-scientist",
-      "date_posted": "2026-08-12T16:27:50.408Z",
-      "description": "Bachelor's or master's degree in environmental science or related field, 1+ year natural resources experience, and 1+ year leading wetland delineations and riparian buffer determinations.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Colliers Engineering & Design",
       "title": "Environmental Scientist",
       "location": "Mount Laurel, New Jersey, United States",
@@ -222,6 +208,20 @@
       "date_posted": "2026-08-05T23:12:09.000Z",
       "description": "Requires 2+ years of environmental or geologic consulting experience, relevant bachelor's degree, HAZWOPER training, regulatory familiarity, communication skills, and willingness to travel for field work.",
       "salary": "$65k–$83k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Timmons Group",
+      "title": "Environmental Scientist",
+      "location": "Raleigh, North Carolina, United States",
+      "url": "https://jobs.smartrecruiters.com/TimmonsGroup1/744000143144344-environmental-scientist",
+      "direct_url": "https://jobs.smartrecruiters.com/TimmonsGroup1/744000143144344-environmental-scientist",
+      "date_posted": "2026-08-12T16:27:50.408Z",
+      "description": "Bachelor's or master's degree in environmental science or related field, 1+ year natural resources experience, and 1+ year leading wetland delineations and riparian buffer determinations.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -270,20 +270,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "NATIONAL GRID UK LIMITED",
-      "title": "Senior Environmental Scientist",
-      "location": "Syracuse or Albany or Buffalo",
-      "url": "https://jobs-ats.nationalgrid.com/job/Syracuse-Senior-Environmental-Scientist-NY-13202/1421873900/",
-      "direct_url": "https://jobs-ats.nationalgrid.com/job/Syracuse-Senior-Environmental-Scientist-NY-13202/1421873900/",
-      "date_posted": "2026-08-21T00:00:00.000Z",
-      "description": "Bachelor's degree in a relevant environmental or scientific discipline, 7+ years of environmental experience, and extensive environmental licensing and permitting knowledge, including NYSDPS transmission project regulations.",
-      "salary": "$95k–$111k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "City of Austin",
       "title": "Environmental Scientist",
       "location": "Austin or United States",
@@ -298,17 +284,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Rhode Island",
-      "title": "ENVIRONMENTAL SCIENTIST I",
-      "location": "Rhode Island, United States",
-      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-I_JR103570",
-      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-I_JR103570",
+      "company": "NATIONAL GRID UK LIMITED",
+      "title": "Senior Environmental Scientist",
+      "location": "Syracuse or Albany or Buffalo",
+      "url": "https://jobs-ats.nationalgrid.com/job/Syracuse-Senior-Environmental-Scientist-NY-13202/1421873900/",
+      "direct_url": "https://jobs-ats.nationalgrid.com/job/Syracuse-Senior-Environmental-Scientist-NY-13202/1421873900/",
       "date_posted": "2026-08-21T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental, physical, or biological sciences, engineering, meteorology, environmental economics, or related field; environmental regulation, research, data analysis, communication, and fieldwork skills required.",
-      "salary": "$73k–$82k/yr",
+      "description": "Bachelor's degree in a relevant environmental or scientific discipline, 7+ years of environmental experience, and extensive environmental licensing and permitting knowledge, including NYSDPS transmission project regulations.",
+      "salary": "$95k–$111k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -320,6 +306,20 @@
       "date_posted": "2026-08-17T00:00:00.000Z",
       "description": "Bachelor's degree in physical or environmental science, 5–10 years of environmental project experience, environmental regulations knowledge, driver's license, and ability to pass drug and background screening.",
       "salary": "$60k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Rhode Island",
+      "title": "ENVIRONMENTAL SCIENTIST I",
+      "location": "Rhode Island, United States",
+      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-I_JR103570",
+      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-I_JR103570",
+      "date_posted": "2026-08-21T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental, physical, or biological sciences, engineering, meteorology, environmental economics, or related field; environmental regulation, research, data analysis, communication, and fieldwork skills required.",
+      "salary": "$73k–$82k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -340,20 +340,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "QK",
-      "title": "Associate Environmental Scientist",
-      "location": "Visalia, California, United States",
-      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "date_posted": "2026-07-31T14:35:39.257Z",
-      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
-      "salary": "$67k–$83k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Langan Engineering & Environmental Services",
       "title": "Staff Environmental Scientist",
       "location": "Parsippany, New Jersey, United States",
@@ -362,6 +348,20 @@
       "date_posted": "2026-08-14T18:58:27.000Z",
       "description": "Bachelor's degree in environmental engineering, environmental science, or geology; 1+ year of related experience; GPA of 3.0 minimum; driver's license and reliable transportation; overtime availability.",
       "salary": "$68k–$93k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "QK",
+      "title": "Associate Environmental Scientist",
+      "location": "Visalia, California, United States",
+      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "date_posted": "2026-07-31T14:35:39.257Z",
+      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
+      "salary": "$67k–$83k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -536,20 +536,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Environmental Research Group",
-      "title": "Environmental Scientist",
-      "location": "Denver or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
-      "salary": "$80k–$90k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "AECOM",
       "title": "Environmental Scientist",
       "location": "Long Beach or California or United States or North America",
@@ -589,20 +575,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Utah Department of Environmental Quality",
-      "title": "Environmental Scientist I-III",
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/2059?c=utdgohcm",
-      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/2059?c=utdgohcm",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "Requires 2+ years of environmental science experience, independent work, analytical skills, stakeholder communication, and problem solving. Bachelor's degree, health physics, HAZWOPER, and radiation safety expertise preferred.",
-      "salary": "$54k–$112k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -648,17 +620,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Freeport-McMoRan",
-      "title": "Chief Environmental Scientist",
-      "location": "Phoenix, Arizona, United States",
-      "url": "https://talent.fmjobs.com/careers/job/44068199",
-      "direct_url": "https://talent.fmjobs.com/careers/job/44068199",
-      "date_posted": "2026-08-21T23:14:44.000Z",
-      "description": "Bachelor’s degree with 7 years of related experience or master’s degree with 5 years required. Requires environmental program expertise, air quality compliance, permitting, regulatory knowledge, and project management.",
-      "salary": "$112k–$160k/yr",
+      "company": "Johnson, Mirmiran & Thompson, Inc.",
+      "title": "Senior Environmental Scientist",
+      "location": "Jacksonville or South Carolina or Georgia or Alabama or Florida or North America",
+      "url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15400?embedded=true",
+      "direct_url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15400?embedded=true",
+      "date_posted": "2026-08-12T19:19:39.203Z",
+      "description": "Requires environmental consulting experience, natural resource investigations, permitting, regulatory coordination, technical reporting, field data collection, Microsoft 365, and ArcGIS proficiency; Florida experience preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -669,6 +641,20 @@
       "direct_url": "https://jobs.fcx.com/job/Phoenix-Chief-Environmental-Scientist-AZ-85040/1422175600/",
       "date_posted": "2026-08-21T00:00:00.000Z",
       "description": "Bachelor’s degree and 7 years of related experience, or master’s degree and 5 years. Requires environmental program expertise, regulatory knowledge, project management, and air quality compliance experience.",
+      "salary": "$112k–$160k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Freeport-McMoRan",
+      "title": "Chief Environmental Scientist",
+      "location": "Phoenix, Arizona, United States",
+      "url": "https://talent.fmjobs.com/careers/job/44068199",
+      "direct_url": "https://talent.fmjobs.com/careers/job/44068199",
+      "date_posted": "2026-08-21T23:14:44.000Z",
+      "description": "Bachelor’s degree with 7 years of related experience or master’s degree with 5 years required. Requires environmental program expertise, air quality compliance, permitting, regulatory knowledge, and project management.",
       "salary": "$112k–$160k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -690,5 +676,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Johnson, Mirmiran & Thompson, Inc.",
+      "title": "Senior Environmental Scientist",
+      "location": "Jacksonville or South Carolina or Georgia or Alabama or Florida or North America",
+      "url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15400?embedded=true",
+      "direct_url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15400?embedded=true",
+      "date_posted": "2026-08-12T19:19:39.203Z",
+      "description": "Requires environmental consulting experience, natural resource investigations, permitting, regulatory coordination, technical reporting, field data collection, Microsoft 365, and ArcGIS proficiency; Florida experience preferred.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
