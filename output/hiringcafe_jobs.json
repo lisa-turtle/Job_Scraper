@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-24 22:20 UTC",
+  "scraped_at": "2026-08-24 23:18 UTC",
   "total": 48,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Synensys LLC",
@@ -102,20 +102,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "APTIM",
-      "title": "Environmental Scientist",
-      "location": "Irvine, California, United States",
-      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001220107206",
-      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001220107206",
-      "date_posted": "2026-08-21T16:46:28.016Z",
-      "description": "Bachelor's degree in environmental science, core science, engineering, or related field; 3–4 years of experience; RCRA and environmental compliance knowledge; strong communication, organization, and computer skills.",
-      "salary": "$73k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Mott MacDonald",
       "title": "Environmental Scientist",
       "location": "Los Angeles, California, United States",
@@ -130,17 +116,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "University of Massachusetts System",
+      "company": "APTIM",
       "title": "Environmental Scientist",
-      "location": "Boston, Massachusetts, United States",
-      "url": "https://umasssystem.pageuppeople.com/job/530168",
-      "direct_url": "https://umasssystem.pageuppeople.com/job/530168",
-      "date_posted": "2026-08-24T13:00:00.000Z",
-      "description": "Bachelor's degree in environmental science or related field or equivalent experience; environmental, aquatic, or marine science expertise; ArcGIS and R experience; fieldwork, data management, visualization, writing, and communication skills.",
-      "salary": "",
-      "job_type": "Full Time, Temporary",
+      "location": "Irvine, California, United States",
+      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001220107206",
+      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001220107206",
+      "date_posted": "2026-08-21T16:46:28.016Z",
+      "description": "Bachelor's degree in environmental science, core science, engineering, or related field; 3–4 years of experience; RCRA and environmental compliance knowledge; strong communication, organization, and computer skills.",
+      "salary": "$73k–$80k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -153,6 +139,20 @@
       "description": "Bachelor's degree in geology or environmental earth science; 0–5 years relevant experience; Microsoft Office Suite proficiency; driver's license; environmental investigation, sampling, reporting, and regulatory knowledge.",
       "salary": "",
       "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "University of Massachusetts System",
+      "title": "Environmental Scientist",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://umasssystem.pageuppeople.com/job/530168",
+      "direct_url": "https://umasssystem.pageuppeople.com/job/530168",
+      "date_posted": "2026-08-24T13:00:00.000Z",
+      "description": "Bachelor's degree in environmental science or related field or equivalent experience; environmental, aquatic, or marine science expertise; ArcGIS and R experience; fieldwork, data management, visualization, writing, and communication skills.",
+      "salary": "",
+      "job_type": "Full Time, Temporary",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -214,20 +214,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Timmons Group",
-      "title": "Environmental Scientist",
-      "location": "Raleigh, North Carolina, United States",
-      "url": "https://jobs.smartrecruiters.com/TimmonsGroup1/744000143144344-environmental-scientist",
-      "direct_url": "https://jobs.smartrecruiters.com/TimmonsGroup1/744000143144344-environmental-scientist",
-      "date_posted": "2026-08-12T16:27:50.408Z",
-      "description": "Bachelor's or master's degree in environmental science or related field, 1+ year natural resources experience, and 1+ year leading wetland delineations and riparian buffer determinations.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Colliers Engineering & Design",
       "title": "Environmental Scientist",
       "location": "Mount Laurel, New Jersey, United States",
@@ -236,6 +222,20 @@
       "date_posted": "2026-08-05T23:12:09.000Z",
       "description": "Requires 2+ years of environmental or geologic consulting experience, relevant bachelor's degree, HAZWOPER training, regulatory familiarity, communication skills, and willingness to travel for field work.",
       "salary": "$65k–$83k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Timmons Group",
+      "title": "Environmental Scientist",
+      "location": "Raleigh, North Carolina, United States",
+      "url": "https://jobs.smartrecruiters.com/TimmonsGroup1/744000143144344-environmental-scientist",
+      "direct_url": "https://jobs.smartrecruiters.com/TimmonsGroup1/744000143144344-environmental-scientist",
+      "date_posted": "2026-08-12T16:27:50.408Z",
+      "description": "Bachelor's or master's degree in environmental science or related field, 1+ year natural resources experience, and 1+ year leading wetland delineations and riparian buffer determinations.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -354,20 +354,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Langan Engineering & Environmental Services",
-      "title": "Staff Environmental Scientist",
-      "location": "Parsippany, New Jersey, United States",
-      "url": "https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4369665009",
-      "direct_url": "https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4369665009",
-      "date_posted": "2026-08-14T18:58:27.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or geology; 1+ year of related experience; GPA of 3.0 minimum; driver's license and reliable transportation; overtime availability.",
-      "salary": "$68k–$93k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "QK",
       "title": "Associate Environmental Scientist",
       "location": "Visalia, California, United States",
@@ -376,6 +362,20 @@
       "date_posted": "2026-07-31T14:35:39.257Z",
       "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
       "salary": "$67k–$83k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Langan Engineering & Environmental Services",
+      "title": "Staff Environmental Scientist",
+      "location": "Parsippany, New Jersey, United States",
+      "url": "https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4369665009",
+      "direct_url": "https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4369665009",
+      "date_posted": "2026-08-14T18:58:27.000Z",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or geology; 1+ year of related experience; GPA of 3.0 minimum; driver's license and reliable transportation; overtime availability.",
+      "salary": "$68k–$93k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -676,34 +676,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Chesapeake Bay Foundation Inc",
-      "title": "Watershed Policy Specialist",
-      "location": "Annapolis, Maryland, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408633",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408633",
-      "date_posted": "2026-08-11T13:02:58.000Z",
-      "description": "Bachelor’s degree and 1–2 years’ experience in land use, planning, sustainable development, stormwater, environmental science, policy, or law; strong writing, public speaking, collaboration, time management, and computer skills.",
-      "salary": "$60k–$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Kimley-Horn",
-      "title": "Environmental Science Analyst",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://kimley-horndc.icims.com/jobs/26038/environmental-science-analyst/job?in_iframe=1",
-      "direct_url": "https://kimley-horndc.icims.com/jobs/26038/environmental-science-analyst/job?in_iframe=1",
-      "date_posted": "2026-08-24T04:00:00.000Z",
-      "description": "Bachelor's or master's degree in environmental science, policy, sustainability, or a related field by Summer 2027; environmental analysis and regulatory knowledge are developed on the job.",
-      "salary": "$84k–$88k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
