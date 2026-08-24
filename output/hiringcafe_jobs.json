@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-24 21:23 UTC",
-  "total": 46,
-  "new_count": 0,
+  "scraped_at": "2026-08-24 22:20 UTC",
+  "total": 48,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Synensys LLC",
@@ -102,20 +102,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Mott MacDonald",
-      "title": "Environmental Scientist",
-      "location": "Los Angeles, California, United States",
-      "url": "https://apply.mottmac.com/job/Los-Angeles-Environmental-Scientist-CA-90001/1368047157/",
-      "direct_url": "https://apply.mottmac.com/job/Los-Angeles-Environmental-Scientist-CA-90001/1368047157/",
-      "date_posted": "2026-07-29T00:00:00.000Z",
-      "description": "Bachelor's in environmental science or related, 3+ years experience with environmental consulting/project management, CEQA/NEPA and permitting knowledge, strong technical writing, field survey and stakeholder skills.",
-      "salary": "$89k–$109k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "APTIM",
       "title": "Environmental Scientist",
       "location": "Irvine, California, United States",
@@ -130,17 +116,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ayres Associates",
+      "company": "Mott MacDonald",
       "title": "Environmental Scientist",
-      "location": "Green Bay, Wisconsin, United States",
-      "url": "https://recruiting2.ultipro.com/ayr1000ayres/JobBoard/65753e62-eccf-4a31-8153-b4952c2a4d4c/OpportunityDetail?opportunityId=beee9916-4fbe-4723-826a-73262ef4547b",
-      "direct_url": "https://recruiting2.ultipro.com/ayr1000ayres/JobBoard/65753e62-eccf-4a31-8153-b4952c2a4d4c/OpportunityDetail?opportunityId=beee9916-4fbe-4723-826a-73262ef4547b",
-      "date_posted": "2026-08-11T20:41:07.441Z",
-      "description": "Bachelor's degree in geology or environmental earth science; 0–5 years relevant experience; Microsoft Office Suite proficiency; driver's license; environmental investigation, sampling, reporting, and regulatory knowledge.",
-      "salary": "",
+      "location": "Los Angeles, California, United States",
+      "url": "https://apply.mottmac.com/job/Los-Angeles-Environmental-Scientist-CA-90001/1368047157/",
+      "direct_url": "https://apply.mottmac.com/job/Los-Angeles-Environmental-Scientist-CA-90001/1368047157/",
+      "date_posted": "2026-07-29T00:00:00.000Z",
+      "description": "Bachelor's in environmental science or related, 3+ years experience with environmental consulting/project management, CEQA/NEPA and permitting knowledge, strong technical writing, field survey and stakeholder skills.",
+      "salary": "$89k–$109k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -153,6 +139,20 @@
       "description": "Bachelor's degree in environmental science or related field or equivalent experience; environmental, aquatic, or marine science expertise; ArcGIS and R experience; fieldwork, data management, visualization, writing, and communication skills.",
       "salary": "",
       "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ayres Associates",
+      "title": "Environmental Scientist",
+      "location": "Green Bay, Wisconsin, United States",
+      "url": "https://recruiting2.ultipro.com/ayr1000ayres/JobBoard/65753e62-eccf-4a31-8153-b4952c2a4d4c/OpportunityDetail?opportunityId=beee9916-4fbe-4723-826a-73262ef4547b",
+      "direct_url": "https://recruiting2.ultipro.com/ayr1000ayres/JobBoard/65753e62-eccf-4a31-8153-b4952c2a4d4c/OpportunityDetail?opportunityId=beee9916-4fbe-4723-826a-73262ef4547b",
+      "date_posted": "2026-08-11T20:41:07.441Z",
+      "description": "Bachelor's degree in geology or environmental earth science; 0–5 years relevant experience; Microsoft Office Suite proficiency; driver's license; environmental investigation, sampling, reporting, and regulatory knowledge.",
+      "salary": "",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -214,20 +214,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Colliers Engineering & Design",
-      "title": "Environmental Scientist",
-      "location": "Mount Laurel, New Jersey, United States",
-      "url": "https://careers.colliersengineering.com/jobs/13912?lang=en-us",
-      "direct_url": "https://careers.colliersengineering.com/jobs/13912?lang=en-us",
-      "date_posted": "2026-08-05T23:12:09.000Z",
-      "description": "Requires 2+ years of environmental or geologic consulting experience, relevant bachelor's degree, HAZWOPER training, regulatory familiarity, communication skills, and willingness to travel for field work.",
-      "salary": "$65k–$83k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Timmons Group",
       "title": "Environmental Scientist",
       "location": "Raleigh, North Carolina, United States",
@@ -236,6 +222,20 @@
       "date_posted": "2026-08-12T16:27:50.408Z",
       "description": "Bachelor's or master's degree in environmental science or related field, 1+ year natural resources experience, and 1+ year leading wetland delineations and riparian buffer determinations.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Colliers Engineering & Design",
+      "title": "Environmental Scientist",
+      "location": "Mount Laurel, New Jersey, United States",
+      "url": "https://careers.colliersengineering.com/jobs/13912?lang=en-us",
+      "direct_url": "https://careers.colliersengineering.com/jobs/13912?lang=en-us",
+      "date_posted": "2026-08-05T23:12:09.000Z",
+      "description": "Requires 2+ years of environmental or geologic consulting experience, relevant bachelor's degree, HAZWOPER training, regulatory familiarity, communication skills, and willingness to travel for field work.",
+      "salary": "$65k–$83k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -620,6 +620,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Freeport McMoRan Inc.",
+      "title": "Chief Environmental Scientist",
+      "location": "Phoenix, Arizona, United States",
+      "url": "https://jobs.fcx.com/job/Phoenix-Chief-Environmental-Scientist-AZ-85040/1422175600/",
+      "direct_url": "https://jobs.fcx.com/job/Phoenix-Chief-Environmental-Scientist-AZ-85040/1422175600/",
+      "date_posted": "2026-08-21T00:00:00.000Z",
+      "description": "Bachelor’s degree and 7 years of related experience, or master’s degree and 5 years. Requires environmental program expertise, regulatory knowledge, project management, and air quality compliance experience.",
+      "salary": "$112k–$160k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Freeport-McMoRan",
       "title": "Chief Environmental Scientist",
       "location": "Phoenix, Arizona, United States",
@@ -634,19 +648,62 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Freeport McMoRan Inc.",
-      "title": "Chief Environmental Scientist",
-      "location": "Phoenix, Arizona, United States",
-      "url": "https://jobs.fcx.com/job/Phoenix-Chief-Environmental-Scientist-AZ-85040/1422175600/",
-      "direct_url": "https://jobs.fcx.com/job/Phoenix-Chief-Environmental-Scientist-AZ-85040/1422175600/",
-      "date_posted": "2026-08-21T00:00:00.000Z",
-      "description": "Bachelor’s degree and 7 years of related experience, or master’s degree and 5 years. Requires environmental program expertise, regulatory knowledge, project management, and air quality compliance experience.",
-      "salary": "$112k–$160k/yr",
+      "company": "Chesapeake Bay Foundation Inc",
+      "title": "Watershed Policy Specialist",
+      "location": "Annapolis, Maryland, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408633",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408633",
+      "date_posted": "2026-08-11T13:02:58.000Z",
+      "description": "Bachelor’s degree and 1–2 years’ experience in land use, planning, sustainable development, stormwater, environmental science, policy, or law; strong writing, public speaking, collaboration, time management, and computer skills.",
+      "salary": "$60k–$64k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kimley-Horn",
+      "title": "Environmental Science Analyst",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://kimley-horndc.icims.com/jobs/26038/environmental-science-analyst/job?in_iframe=1",
+      "direct_url": "https://kimley-horndc.icims.com/jobs/26038/environmental-science-analyst/job?in_iframe=1",
+      "date_posted": "2026-08-24T04:00:00.000Z",
+      "description": "Bachelor's or master's degree in environmental science, policy, sustainability, or a related field by Summer 2027; environmental analysis and regulatory knowledge are developed on the job.",
+      "salary": "$84k–$88k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Chesapeake Bay Foundation Inc",
+      "title": "Watershed Policy Specialist",
+      "location": "Annapolis, Maryland, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408633",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4408633",
+      "date_posted": "2026-08-11T13:02:58.000Z",
+      "description": "Bachelor’s degree and 1–2 years’ experience in land use, planning, sustainable development, stormwater, environmental science, policy, or law; strong writing, public speaking, collaboration, time management, and computer skills.",
+      "salary": "$60k–$64k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kimley-Horn",
+      "title": "Environmental Science Analyst",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://kimley-horndc.icims.com/jobs/26038/environmental-science-analyst/job?in_iframe=1",
+      "direct_url": "https://kimley-horndc.icims.com/jobs/26038/environmental-science-analyst/job?in_iframe=1",
+      "date_posted": "2026-08-24T04:00:00.000Z",
+      "description": "Bachelor's or master's degree in environmental science, policy, sustainability, or a related field by Summer 2027; environmental analysis and regulatory knowledge are developed on the job.",
+      "salary": "$84k–$88k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
