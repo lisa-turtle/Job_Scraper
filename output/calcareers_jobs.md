@@ -1,6 +1,6 @@
 # 🏛 CalCareers — California State Environmental Roles
-*Last updated: 2026-09-28 21:50 UTC*
+*Last updated: 2026-09-29 20:40 UTC*
 
-**0 new role(s)** since last run · 13 total in current CalCareers postings
+**0 new role(s)** since last run · 12 total in current CalCareers postings
 
 No new CalCareers roles since the last run.
